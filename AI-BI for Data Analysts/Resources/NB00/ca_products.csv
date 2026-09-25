@@ -1,0 +1,76 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,launch_date,active
+P0001,Lakehouse Starter Standard,Data Platform,Lakehouse Starter,490.00,257.66,2025-09-01,true
+P0002,Lakehouse Starter Advanced,Data Platform,Lakehouse Starter,1633.50,731.18,2025-01-01,true
+P0003,Lakehouse Starter Enterprise,Data Platform,Lakehouse Starter,8640.00,3140.08,2025-08-01,true
+P0004,Warehouse Pro Standard,Data Platform,Warehouse Pro,6500.00,3637.05,2022-08-01,true
+P0005,Warehouse Pro Advanced,Data Platform,Warehouse Pro,10725.00,3788.78,2020-05-01,true
+P0006,Warehouse Pro Enterprise,Data Platform,Warehouse Pro,3375.00,1214.05,2020-02-01,true
+P0007,Streaming Engine Standard,Data Platform,Streaming Engine,9000.00,3517.81,2023-06-01,true
+P0008,Streaming Engine Advanced,Data Platform,Streaming Engine,1237.50,441.21,2021-09-01,true
+P0009,Streaming Engine Enterprise,Data Platform,Streaming Engine,24300.00,10404.06,2023-08-01,true
+P0010,Data Governance Suite Standard,Data Platform,Data Governance Suite,3200.00,1820.64,2023-05-01,true
+P0011,Data Governance Suite Advanced,Data Platform,Data Governance Suite,808.50,424.42,2024-03-01,true
+P0012,Data Governance Suite Enterprise,Data Platform,Data Governance Suite,17550.00,6980.76,2025-10-01,true
+P0013,Data Catalog Standard,Data Platform,Data Catalog,3200.00,1009.29,2022-03-01,true
+P0014,Data Catalog Advanced,Data Platform,Data Catalog,7920.00,4133.56,2024-07-01,true
+P0015,Data Catalog Enterprise,Data Platform,Data Catalog,17550.00,6176.35,2020-12-01,true
+P0016,ETL Connect Standard,Integration,ETL Connect,490.00,208.84,2024-05-01,true
+P0017,ETL Connect Advanced,Integration,ETL Connect,5280.00,1645.66,2023-03-01,true
+P0018,ETL Connect Enterprise,Integration,ETL Connect,1323.00,375.83,2023-04-01,true
+P0019,API Gateway Standard,Integration,API Gateway,3200.00,1428.79,2024-06-01,true
+P0020,API Gateway Advanced,Integration,API Gateway,14850.00,6319.73,2023-04-01,true
+P0021,API Gateway Enterprise,Integration,API Gateway,6480.00,1931.39,2025-12-01,true
+P0022,CDC Connector Standard,Integration,CDC Connector,6500.00,3557.51,2023-10-01,true
+P0023,CDC Connector Advanced,Integration,CDC Connector,808.50,252.85,2024-12-01,true
+P0024,CDC Connector Enterprise,Integration,CDC Connector,3375.00,1438.93,2025-12-01,true
+P0025,File Transfer Hub Standard,Integration,File Transfer Hub,3200.00,1252.42,2020-03-01,true
+P0026,File Transfer Hub Advanced,Integration,File Transfer Hub,2970.00,851.03,2025-05-01,true
+P0027,File Transfer Hub Enterprise,Integration,File Transfer Hub,24300.00,8338.94,2025-12-01,true
+P0028,Integration Runtime Standard,Integration,Integration Runtime,750.00,325.72,2021-01-01,true
+P0029,Integration Runtime Advanced,Integration,Integration Runtime,14850.00,6610.99,2020-05-01,true
+P0030,Integration Runtime Enterprise,Integration,Integration Runtime,6480.00,3360.53,2025-01-01,true
+P0031,BI Explorer Standard,Analytics,BI Explorer,6500.00,1993.79,2024-11-01,true
+P0032,BI Explorer Advanced,Analytics,BI Explorer,2970.00,1331.75,2020-02-01,true
+P0033,BI Explorer Enterprise,Analytics,BI Explorer,17550.00,8029.13,2024-05-01,true
+P0034,Dashboard Pro Standard,Analytics,Dashboard Pro,490.00,188.71,2023-07-01,true
+P0035,Dashboard Pro Advanced,Analytics,Dashboard Pro,1237.50,514.35,2023-07-01,true
+P0036,Dashboard Pro Enterprise,Analytics,Dashboard Pro,8640.00,3352.85,2023-03-01,true
+P0037,Embedded Analytics Standard,Analytics,Embedded Analytics,4800.00,1424.66,2022-04-01,true
+P0038,Embedded Analytics Advanced,Analytics,Embedded Analytics,2970.00,1133.80,2020-11-01,true
+P0039,Embedded Analytics Enterprise,Analytics,Embedded Analytics,12960.00,4225.02,2020-03-01,true
+P0040,Forecast Studio Standard,Analytics,Forecast Studio,4800.00,2396.59,2024-10-01,true
+P0041,Forecast Studio Advanced,Analytics,Forecast Studio,1237.50,440.97,2023-10-01,true
+P0042,Forecast Studio Enterprise,Analytics,Forecast Studio,4860.00,1803.44,2022-03-01,true
+P0043,Reporting Server Standard,Analytics,Reporting Server,490.00,139.80,2020-03-01,true
+P0044,Reporting Server Advanced,Analytics,Reporting Server,14850.00,6708.61,2020-10-01,true
+P0045,Reporting Server Enterprise,Analytics,Reporting Server,6480.00,2553.30,2025-05-01,true
+P0046,ML Workbench Standard,AI & ML,ML Workbench,3200.00,955.19,2021-04-01,true
+P0047,ML Workbench Advanced,AI & ML,ML Workbench,3960.00,1335.11,2023-07-01,true
+P0048,ML Workbench Enterprise,AI & ML,ML Workbench,17550.00,7941.63,2020-07-01,true
+P0049,Model Serving Standard,AI & ML,Model Serving,1250.00,377.28,2025-06-01,true
+P0050,Model Serving Advanced,AI & ML,Model Serving,2062.50,1050.20,2020-10-01,true
+P0051,Model Serving Enterprise,AI & ML,Model Serving,12960.00,7245.69,2025-07-01,true
+P0052,Vector Search Standard,AI & ML,Vector Search,2400.00,1340.21,2023-04-01,true
+P0053,Vector Search Advanced,AI & ML,Vector Search,2062.50,725.00,2024-02-01,true
+P0054,Vector Search Enterprise,AI & ML,Vector Search,17550.00,5528.87,2025-11-01,true
+P0055,Agent Builder Standard,AI & ML,Agent Builder,490.00,214.89,2024-05-01,true
+P0056,Agent Builder Advanced,AI & ML,Agent Builder,7920.00,4272.47,2020-03-01,true
+P0057,Agent Builder Enterprise,AI & ML,Agent Builder,6480.00,3060.14,2023-01-01,true
+P0058,Feature Store Standard,AI & ML,Feature Store,2400.00,1043.63,2025-09-01,true
+P0059,Feature Store Advanced,AI & ML,Feature Store,14850.00,7885.00,2020-02-01,true
+P0060,Feature Store Enterprise,AI & ML,Feature Store,17550.00,8765.27,2020-02-01,true
+P0061,Implementation Pack Standard,Services,Implementation Pack,3200.00,1733.52,2025-03-01,true
+P0062,Implementation Pack Advanced,Services,Implementation Pack,7920.00,3582.06,2024-07-01,true
+P0063,Implementation Pack Enterprise,Services,Implementation Pack,12960.00,4314.79,2025-09-01,true
+P0064,Architecture Workshop Standard,Services,Architecture Workshop,490.00,160.21,2025-08-01,true
+P0065,Architecture Workshop Advanced,Services,Architecture Workshop,5280.00,1977.01,2020-04-01,true
+P0066,Architecture Workshop Enterprise,Services,Architecture Workshop,3375.00,1537.57,2020-07-01,true
+P0067,Training Credits Standard,Services,Training Credits,2400.00,1287.40,2022-01-01,true
+P0068,Training Credits Advanced,Services,Training Credits,1237.50,484.29,2024-02-01,true
+P0069,Training Credits Enterprise,Services,Training Credits,12960.00,3964.60,2023-05-01,true
+P0070,Premium Support Standard,Services,Premium Support,750.00,260.56,2021-02-01,true
+P0071,Premium Support Advanced,Services,Premium Support,808.50,291.04,2021-01-01,true
+P0072,Premium Support Enterprise,Services,Premium Support,2673.00,1088.97,2023-07-01,true
+P0073,Migration Assessment Standard,Services,Migration Assessment,9000.00,3333.24,2025-12-01,true
+P0074,Migration Assessment Advanced,Services,Migration Assessment,7920.00,2368.25,2020-01-01,true
+P0075,Migration Assessment Enterprise,Services,Migration Assessment,6480.00,3042.67,2023-06-01,true

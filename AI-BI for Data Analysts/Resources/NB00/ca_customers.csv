@@ -1,0 +1,501 @@
+customer_id,company_name,contact_name,email,phone,city,postal_code,country,region,segment,industry,created_date,active
+C00001,Atlas Digital 001,Gabriel David,gabriel.david1@example.com,+33 4 81 94 53 89,Lille,59000,FR,Hauts-de-France,SMB,Finance,2023-08-08,true
+C00002,Cobalt Retail 002,Emma Robert,emma.robert2@example.com,+33 4 90 99 31 99,Paris,75000,FR,Ile-de-France,SMB,Transport,2023-03-27,true
+C00003,Polaris Services 003,Raphael Roux,raphael.roux3@example.com,+33 4 31 36 10 10,Nantes,44000,FR,Pays de la Loire,Mid-Market,Transport,2022-11-12,true
+C00004,Nova Solutions 004,Sofia David,sofia.david4@example.com,+33 6 17 54 38 26,Lille,59000,FR,Hauts-de-France,SMB,Energie,2025-08-29,true
+C00005,Helios Solutions 005,Noah Laurent,noah.laurent5@example.com,+33 5 51 28 24 10,Paris,75000,FR,Ile-de-France,SMB,Industrie,2024-05-03,true
+C00006,Polaris Logistics 006,Nina Lefebvre,nina.lefebvre6@example.com,+33 2 93 85 74 24,Nantes,44000,FR,Pays de la Loire,SMB,Telecom,2026-01-09,false
+C00007,Alto Retail 007,Lucas Roux,lucas.roux7@example.com,+33 5 48 83 69 21,Toulouse,31000,FR,Occitanie,SMB,Retail,2024-11-30,true
+C00008,Vertex Industries 008,Sarah Bertrand,sarah.bertrand8@example.com,+33 3 30 36 71 49,Rennes,35000,FR,Bretagne,SMB,Transport,2022-10-05,true
+C00009,Nova Industries 009,Ethan Girard,ethan.girard9@example.com,+33 8 82 48 96 48,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Energie,2024-07-27,true
+C00010,Sigma Retail 010,Tom Laurent,tom.laurent10@example.com,+33 8 21 32 31 47,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Transport,2026-05-08,true
+C00011,Aster Retail 011,Gabriel David,gabriel.david11@example.com,+33 3 47 86 62 41,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Secteur public,2025-01-30,true
+C00012,Alto Digital 012,Arthur Fournier,arthur.fournier12@example.com,+33 3 46 92 97 58,Strasbourg,67000,FR,Grand Est,SMB,Industrie,2025-10-20,true
+C00013,Aster Logistics 013,Lucas Petit,lucas.petit13@example.com,+33 7 64 64 74 51,Nantes,44000,FR,Pays de la Loire,Enterprise,Finance,2020-10-16,true
+C00014,Alto Services 014,Tom Simon,tom.simon14@example.com,+33 4 43 12 99 23,Strasbourg,67000,FR,Grand Est,Mid-Market,Secteur public,2025-05-10,true
+C00015,Aster Group 015,Jules Richard,jules.richard15@example.com,+33 8 39 71 56 12,Toulouse,31000,FR,Occitanie,Enterprise,Transport,2025-08-12,true
+C00016,Vertex Solutions 016,Noah Fournier,noah.fournier16@example.com,+33 4 80 92 29 14,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Industrie,2022-04-02,true
+C00017,Kappa France 017,Sarah Morel,sarah.morel17@example.com,+33 5 99 23 61 33,Rouen,76000,FR,Normandie,Mid-Market,Retail,2025-04-25,false
+C00018,Echo Group 018,Noah Moreau,noah.moreau18@example.com,+33 5 91 37 24 90,Paris,75000,FR,Ile-de-France,Enterprise,Energie,2024-11-12,true
+C00019,Lumen Conseil 019,Emma Richard,emma.richard19@example.com,+33 4 89 39 25 44,Paris,75000,FR,Ile-de-France,Enterprise,Energie,2021-04-01,true
+C00020,Cobalt Group 020,Raphael Bertrand,raphael.bertrand20@example.com,+33 3 99 84 77 22,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Industrie,2023-04-06,true
+C00021,Helios Systems 021,Lina Dubois,lina.dubois21@example.com,+33 6 82 37 55 57,Toulouse,31000,FR,Occitanie,SMB,Industrie,2022-12-07,true
+C00022,Orion Digital 022,Gabriel Durand,gabriel.durand22@example.com,+33 5 26 50 79 44,Toulouse,31000,FR,Occitanie,SMB,Telecom,2020-07-13,true
+C00023,Helios Technologies 023,Manon Moreau,manon.moreau23@example.com,+33 1 34 18 67 89,Rennes,35000,FR,Bretagne,Enterprise,Finance,2023-06-04,true
+C00024,Orion Partners 024,Nina Durand,nina.durand24@example.com,+33 6 48 47 69 94,Rennes,35000,FR,Bretagne,SMB,Finance,2024-06-05,true
+C00025,Echo Logistics 025,Adam Bertrand,adam.bertrand25@example.com,+33 6 20 71 58 87,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Transport,2021-02-01,true
+C00026,Sigma Digital 026,Louis Petit,louis.petit26@example.com,+33 6 96 68 12 71,Rouen,76000,FR,Normandie,SMB,Industrie,2023-01-29,true
+C00027,Kappa France 027,Chloe Girard,chloe.girard27@example.com,+33 6 47 69 92 78,Bordeaux,33000,FR,Nouvelle-Aquitaine,Enterprise,Finance,2024-10-13,true
+C00028,Lumen Solutions 028,Chloe Richard,chloe.richard28@example.com,+33 9 96 15 80 68,Strasbourg,67000,FR,Grand Est,Mid-Market,Retail,2021-11-24,true
+C00029,Kappa Retail 029,Raphael Martin,raphael.martin29@example.com,+33 3 45 80 76 36,Lille,59000,FR,Hauts-de-France,SMB,Finance,2026-05-22,true
+C00030,Axial Logistics 030,Lucas Girard,lucas.girard30@example.com,+33 7 92 19 90 45,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Secteur public,2022-09-09,true
+C00031,Echo Logistics 031,Lea Bernard,lea.bernard31@example.com,+33 1 12 59 77 43,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Technologie,2021-07-31,true
+C00032,Aster Systems 032,Lina Leroy,lina.leroy32@example.com,+33 7 88 23 74 48,Toulouse,31000,FR,Occitanie,Mid-Market,Technologie,2024-11-13,true
+C00033,Nova Group 033,Lucas Bernard,lucas.bernard33@example.com,+33 6 50 28 68 66,Strasbourg,67000,FR,Grand Est,SMB,Industrie,2024-09-12,true
+C00034,Alto Retail 034,Tom Petit,tom.petit34@example.com,+33 3 47 87 59 14,Nantes,44000,FR,Pays de la Loire,Mid-Market,Telecom,2020-10-05,true
+C00035,Axial Partners 035,Nina Fournier,nina.fournier35@example.com,+33 4 46 35 69 69,Toulouse,31000,FR,Occitanie,SMB,Technologie,2024-12-16,true
+C00036,Sigma France 036,Emma Durand,emma.durand36@example.com,+33 9 25 60 65 46,Strasbourg,67000,FR,Grand Est,SMB,Energie,2025-01-25,true
+C00037,Horizon Solutions 037,Lucas Petit,lucas.petit37@example.com,+33 3 68 86 35 24,Montpellier,34000,FR,Occitanie,SMB,Telecom,2025-01-06,true
+C00038,Atlas France 038,Lea Petit,lea.petit38@example.com,+33 9 79 13 45 33,Toulouse,31000,FR,Occitanie,Enterprise,Secteur public,2024-10-20,true
+C00039,Sigma Technologies 039,Camille David,camille.david39@example.com,+33 4 69 72 40 18,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2021-11-25,true
+C00040,Kappa Group 040,Lea Michel,lea.michel40@example.com,+33 7 53 71 76 85,Paris,75000,FR,Ile-de-France,SMB,Sante,2022-01-27,true
+C00041,Helios Logistics 041,Hugo Leroy,hugo.leroy41@example.com,+33 4 39 46 70 36,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Finance,2024-11-04,true
+C00042,Atlas Solutions 042,Tom Bertrand,tom.bertrand42@example.com,+33 3 20 54 28 43,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2021-03-31,true
+C00043,Vertex Conseil 043,Chloe Moreau,chloe.moreau43@example.com,+33 3 86 95 97 95,Rouen,76000,FR,Normandie,SMB,Finance,2022-05-20,true
+C00044,Polaris Conseil 044,Lea Morel,lea.morel44@example.com,+33 5 96 25 29 44,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Transport,2023-09-26,true
+C00045,Sigma Retail 045,Tom Fournier,tom.fournier45@example.com,+33 7 29 77 65 25,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Industrie,2024-03-30,true
+C00046,Sigma Industries 046,Louis Simon,louis.simon46@example.com,+33 4 63 53 56 24,Lille,59000,FR,Hauts-de-France,Enterprise,Technologie,2023-04-13,true
+C00047,Polaris Digital 047,Lina Bernard,lina.bernard47@example.com,+33 5 32 63 87 35,Nantes,44000,FR,Pays de la Loire,Mid-Market,Retail,2022-10-28,true
+C00048,Echo Retail 048,Hugo Robert,hugo.robert48@example.com,+33 1 82 90 33 47,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Retail,2021-07-07,true
+C00049,Nova Retail 049,Arthur Girard,arthur.girard49@example.com,+33 5 49 25 29 29,Rennes,35000,FR,Bretagne,Mid-Market,Secteur public,2022-05-31,true
+C00050,Orion France 050,Jules Roux,jules.roux50@example.com,+33 9 39 20 34 96,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Energie,2024-07-17,true
+C00051,Alto Group 051,Lucas Morel,lucas.morel51@example.com,+33 7 74 98 11 45,Strasbourg,67000,FR,Grand Est,SMB,Secteur public,2021-04-01,true
+C00052,Horizon Conseil 052,Nathan Martin,nathan.martin52@example.com,+33 7 23 73 83 64,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Retail,2020-08-23,true
+C00053,Alto Group 053,Alice Bertrand,alice.bertrand53@example.com,+33 9 53 22 11 25,Paris,75000,FR,Ile-de-France,SMB,Sante,2023-06-27,true
+C00054,Cobalt Conseil 054,Tom Martin,tom.martin54@example.com,+33 8 88 81 72 41,Montpellier,34000,FR,Occitanie,SMB,Transport,2021-12-05,true
+C00055,Kappa Retail 055,Emma Lefebvre,emma.lefebvre55@example.com,+33 4 89 43 83 30,Nantes,44000,FR,Pays de la Loire,SMB,Sante,2025-09-08,true
+C00056,Alto Technologies 056,Louis Simon,louis.simon56@example.com,+33 1 96 70 69 94,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Technologie,2023-05-18,true
+C00057,Helios Partners 057,Ethan Martin,ethan.martin57@example.com,+33 9 27 26 78 72,Lille,59000,FR,Hauts-de-France,Mid-Market,Finance,2020-01-23,true
+C00058,Echo Services 058,Lea Leroy,lea.leroy58@example.com,+33 6 66 38 78 82,Paris,75000,FR,Ile-de-France,SMB,Retail,2024-06-23,true
+C00059,Horizon France 059,Tom Leroy,tom.leroy59@example.com,+33 8 98 24 48 86,Rouen,76000,FR,Normandie,SMB,Retail,2021-03-25,true
+C00060,Kappa Industries 060,Louis Durand,louis.durand60@example.com,+33 2 29 71 92 12,Rouen,76000,FR,Normandie,Enterprise,Telecom,2021-07-07,true
+C00061,Axial Industries 061,Louis Thomas,louis.thomas61@example.com,+33 2 59 96 21 65,Toulouse,31000,FR,Occitanie,Mid-Market,Retail,2023-06-28,true
+C00062,Echo Conseil 062,Louise Petit,louise.petit62@example.com,+33 7 86 69 36 54,Paris,75000,FR,Ile-de-France,SMB,Industrie,2023-07-26,true
+C00063,Helios Group 063,Lina Durand,lina.durand63@example.com,+33 8 61 50 42 99,Bordeaux,33000,FR,Nouvelle-Aquitaine,Enterprise,Finance,2024-02-10,true
+C00064,Lumen Digital 064,Hugo Girard,hugo.girard64@example.com,+33 3 74 98 63 66,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Secteur public,2026-05-13,true
+C00065,Echo Services 065,Ethan David,ethan.david65@example.com,+33 2 87 61 69 74,Nantes,44000,FR,Pays de la Loire,Enterprise,Secteur public,2020-08-30,true
+C00066,Polaris Retail 066,Alice Fournier,alice.fournier66@example.com,+33 3 64 68 24 28,Rennes,35000,FR,Bretagne,SMB,Technologie,2022-09-20,true
+C00067,Kappa Technologies 067,Lucas Richard,lucas.richard67@example.com,+33 9 71 70 22 11,Paris,75000,FR,Ile-de-France,Enterprise,Sante,2024-09-12,true
+C00068,Helios Digital 068,Nathan Girard,nathan.girard68@example.com,+33 5 32 50 40 33,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2022-01-14,true
+C00069,Orion Group 069,Tom Bertrand,tom.bertrand69@example.com,+33 3 79 64 41 72,Montpellier,34000,FR,Occitanie,SMB,Sante,2021-06-03,true
+C00070,Nova Partners 070,Emma Michel,emma.michel70@example.com,+33 6 19 10 10 19,Rennes,35000,FR,Bretagne,Enterprise,Energie,2020-05-18,true
+C00071,Kappa Partners 071,Louise Robert,louise.robert71@example.com,+33 5 26 84 80 75,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Energie,2023-07-03,true
+C00072,Aster Logistics 072,Ethan Moreau,ethan.moreau72@example.com,+33 1 75 41 21 85,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2026-01-02,true
+C00073,Alto Digital 073,Alice Richard,alice.richard73@example.com,+33 5 29 21 61 14,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Transport,2020-12-28,true
+C00074,Vertex Retail 074,Sarah Laurent,sarah.laurent74@example.com,+33 1 25 78 15 47,Rennes,35000,FR,Bretagne,Mid-Market,Finance,2022-03-06,true
+C00075,Nova Partners 075,Lina Leroy,lina.leroy75@example.com,+33 3 15 36 87 53,Nantes,44000,FR,Pays de la Loire,Enterprise,Technologie,2023-11-27,true
+C00076,Horizon Digital 076,Alice David,alice.david76@example.com,+33 5 94 89 49 69,Rennes,35000,FR,Bretagne,Mid-Market,Sante,2020-08-06,true
+C00077,Orion Group 077,Alice Fournier,alice.fournier77@example.com,+33 4 57 46 58 41,Montpellier,34000,FR,Occitanie,SMB,Energie,2023-01-06,false
+C00078,Horizon Group 078,Noah Bernard,noah.bernard78@example.com,+33 9 46 99 53 62,Lyon,69000,FR,Auvergne-Rhone-Alpes,Enterprise,Retail,2021-03-01,true
+C00079,Polaris Solutions 079,Lea Simon,lea.simon79@example.com,+33 4 29 40 52 40,Strasbourg,67000,FR,Grand Est,Mid-Market,Telecom,2025-07-11,true
+C00080,Vertex Group 080,Arthur David,arthur.david80@example.com,+33 5 67 72 32 40,Paris,75000,FR,Ile-de-France,SMB,Industrie,2024-03-21,true
+C00081,Axial Solutions 081,Arthur Dubois,arthur.dubois81@example.com,+33 6 87 31 15 97,Paris,75000,FR,Ile-de-France,Mid-Market,Industrie,2022-08-17,true
+C00082,Echo Conseil 082,Manon Moreau,manon.moreau82@example.com,+33 1 45 37 86 29,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Secteur public,2020-05-24,true
+C00083,Lumen Digital 083,Alice Robert,alice.robert83@example.com,+33 6 35 28 55 94,Montpellier,34000,FR,Occitanie,SMB,Industrie,2020-11-22,true
+C00084,Atlas Services 084,Jules Leroy,jules.leroy84@example.com,+33 1 81 30 76 38,Montpellier,34000,FR,Occitanie,SMB,Energie,2025-07-04,true
+C00085,Axial Technologies 085,Lina Thomas,lina.thomas85@example.com,+33 2 53 50 56 98,Paris,75000,FR,Ile-de-France,SMB,Industrie,2020-01-11,true
+C00086,Sigma Systems 086,Chloe Robert,chloe.robert86@example.com,+33 4 53 52 45 62,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2025-04-10,true
+C00087,Echo Partners 087,Louis Bernard,louis.bernard87@example.com,+33 4 79 62 33 71,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Transport,2021-04-17,true
+C00088,Atlas Retail 088,Paul Bernard,paul.bernard88@example.com,+33 6 58 17 92 68,Nantes,44000,FR,Pays de la Loire,SMB,Secteur public,2022-03-20,true
+C00089,Cobalt Group 089,Emma Lefebvre,emma.lefebvre89@example.com,+33 1 98 59 44 26,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Industrie,2020-05-19,true
+C00090,Nexus Services 090,Lina Lefebvre,lina.lefebvre90@example.com,+33 9 25 60 65 24,Paris,75000,FR,Ile-de-France,Mid-Market,Technologie,2020-03-28,true
+C00091,Nexus Logistics 091,Hugo Lefebvre,hugo.lefebvre91@example.com,+33 6 45 26 90 68,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Industrie,2024-03-30,true
+C00092,Nova Services 092,Gabriel Roux,gabriel.roux92@example.com,+33 1 23 27 68 40,Rouen,76000,FR,Normandie,Enterprise,Energie,2023-08-13,true
+C00093,Polaris Conseil 093,Lucas Richard,lucas.richard93@example.com,+33 4 55 25 91 67,Rouen,76000,FR,Normandie,Mid-Market,Retail,2021-12-03,false
+C00094,Nova Systems 094,Adam Leroy,adam.leroy94@example.com,+33 8 95 99 44 76,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2025-12-17,true
+C00095,Alto Conseil 095,Sarah Petit,sarah.petit95@example.com,+33 5 31 54 45 63,Paris,75000,FR,Ile-de-France,Enterprise,Energie,2026-02-03,true
+C00096,Vertex Retail 096,Ines Dubois,ines.dubois96@example.com,+33 5 50 80 75 33,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Secteur public,2020-03-21,false
+C00097,Cobalt Industries 097,Adam Bernard,adam.bernard97@example.com,+33 4 43 35 75 45,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Finance,2022-01-29,true
+C00098,Helios Digital 098,Paul Bernard,paul.bernard98@example.com,+33 4 26 89 13 73,Paris,75000,FR,Ile-de-France,SMB,Telecom,2020-09-25,true
+C00099,Axial Retail 099,Gabriel Fournier,gabriel.fournier99@example.com,+33 3 37 85 55 20,Strasbourg,67000,FR,Grand Est,Enterprise,Energie,2025-08-29,true
+C00100,Atlas Conseil 100,Gabriel Morel,gabriel.morel100@example.com,+33 9 63 87 98 42,Strasbourg,67000,FR,Grand Est,SMB,Finance,2025-06-01,true
+C00101,Sigma Retail 101,Hugo Roux,hugo.roux101@example.com,+33 9 46 80 38 46,Lille,59000,FR,Hauts-de-France,SMB,Secteur public,2022-03-05,true
+C00102,Axial Systems 102,Tom Bertrand,tom.bertrand102@example.com,+33 4 70 49 30 31,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Sante,2021-05-31,true
+C00103,Lumen Retail 103,Raphael Lefebvre,raphael.lefebvre103@example.com,+33 8 65 29 45 24,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Industrie,2026-04-29,true
+C00104,Lumen Group 104,Jade Bernard,jade.bernard104@example.com,+33 5 32 62 54 33,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2021-01-26,true
+C00105,Aster Solutions 105,Ethan Fournier,ethan.fournier105@example.com,+33 5 53 32 44 55,Rennes,35000,FR,Bretagne,SMB,Technologie,2025-12-11,true
+C00106,Lumen Industries 106,Raphael Moreau,raphael.moreau106@example.com,+33 3 38 44 23 98,Lille,59000,FR,Hauts-de-France,SMB,Finance,2025-05-19,false
+C00107,Axial Partners 107,Adam Moreau,adam.moreau107@example.com,+33 4 34 12 73 70,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Telecom,2022-04-10,true
+C00108,Echo Partners 108,Hugo Dubois,hugo.dubois108@example.com,+33 8 19 48 98 26,Montpellier,34000,FR,Occitanie,SMB,Energie,2022-05-15,true
+C00109,Atlas Conseil 109,Jade Petit,jade.petit109@example.com,+33 2 80 60 22 82,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Transport,2022-01-19,false
+C00110,Cobalt Technologies 110,Nathan Richard,nathan.richard110@example.com,+33 3 57 39 61 30,Lille,59000,FR,Hauts-de-France,SMB,Technologie,2025-06-30,true
+C00111,Alto Systems 111,Nathan Girard,nathan.girard111@example.com,+33 2 49 73 87 20,Toulouse,31000,FR,Occitanie,Mid-Market,Energie,2021-01-14,true
+C00112,Echo Systems 112,Raphael Robert,raphael.robert112@example.com,+33 1 76 26 31 92,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Secteur public,2025-11-06,true
+C00113,Nova Solutions 113,Arthur Roux,arthur.roux113@example.com,+33 9 99 84 16 85,Nantes,44000,FR,Pays de la Loire,SMB,Finance,2023-10-16,true
+C00114,Axial Digital 114,Sarah Michel,sarah.michel114@example.com,+33 5 31 35 45 27,Paris,75000,FR,Ile-de-France,SMB,Telecom,2024-05-14,true
+C00115,Cobalt Logistics 115,Lea Leroy,lea.leroy115@example.com,+33 7 40 69 77 96,Rennes,35000,FR,Bretagne,Enterprise,Sante,2020-10-20,true
+C00116,Sigma Retail 116,Adam Moreau,adam.moreau116@example.com,+33 2 12 71 24 52,Nantes,44000,FR,Pays de la Loire,SMB,Technologie,2022-04-20,true
+C00117,Horizon Group 117,Louis Thomas,louis.thomas117@example.com,+33 4 99 23 36 98,Paris,75000,FR,Ile-de-France,SMB,Telecom,2023-12-02,true
+C00118,Alto Technologies 118,Gabriel Simon,gabriel.simon118@example.com,+33 8 70 78 77 97,Rouen,76000,FR,Normandie,Mid-Market,Retail,2025-04-14,true
+C00119,Horizon Technologies 119,Raphael Moreau,raphael.moreau119@example.com,+33 5 31 72 56 83,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Sante,2020-04-14,true
+C00120,Nexus Retail 120,Alice Fournier,alice.fournier120@example.com,+33 3 38 83 16 50,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Technologie,2021-04-19,true
+C00121,Kappa Digital 121,Noah Roux,noah.roux121@example.com,+33 8 16 17 63 91,Lille,59000,FR,Hauts-de-France,Mid-Market,Retail,2022-03-11,true
+C00122,Nova France 122,Adam Simon,adam.simon122@example.com,+33 9 20 18 85 91,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Finance,2024-09-11,true
+C00123,Horizon Partners 123,Louis Laurent,louis.laurent123@example.com,+33 8 49 87 74 54,Rouen,76000,FR,Normandie,Mid-Market,Transport,2020-07-24,true
+C00124,Lumen Logistics 124,Emma Dubois,emma.dubois124@example.com,+33 7 47 70 39 52,Lille,59000,FR,Hauts-de-France,SMB,Secteur public,2021-05-26,true
+C00125,Axial Conseil 125,Louise Moreau,louise.moreau125@example.com,+33 7 29 76 24 19,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Finance,2022-06-24,true
+C00126,Horizon Systems 126,Lucas Bertrand,lucas.bertrand126@example.com,+33 9 43 23 71 48,Lille,59000,FR,Hauts-de-France,Enterprise,Telecom,2023-01-24,true
+C00127,Orion Logistics 127,Nina Robert,nina.robert127@example.com,+33 1 34 74 43 33,Strasbourg,67000,FR,Grand Est,SMB,Sante,2023-06-27,true
+C00128,Cobalt France 128,Chloe Girard,chloe.girard128@example.com,+33 2 78 91 19 55,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Telecom,2025-01-07,false
+C00129,Echo Logistics 129,Gabriel Laurent,gabriel.laurent129@example.com,+33 2 60 90 62 22,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Transport,2023-08-28,true
+C00130,Horizon France 130,Emma Simon,emma.simon130@example.com,+33 1 68 32 69 66,Lille,59000,FR,Hauts-de-France,Enterprise,Technologie,2022-03-08,true
+C00131,Nexus Technologies 131,Adam Bertrand,adam.bertrand131@example.com,+33 6 39 61 76 89,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2022-04-23,true
+C00132,Sigma Logistics 132,Alice Dubois,alice.dubois132@example.com,+33 1 63 26 45 78,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Retail,2023-10-28,true
+C00133,Aster Technologies 133,Arthur Thomas,arthur.thomas133@example.com,+33 9 79 50 97 56,Toulouse,31000,FR,Occitanie,Mid-Market,Retail,2020-08-18,true
+C00134,Axial Services 134,Louis Robert,louis.robert134@example.com,+33 2 54 31 54 31,Paris,75000,FR,Ile-de-France,SMB,Secteur public,2020-11-08,true
+C00135,Atlas Partners 135,Ines Richard,ines.richard135@example.com,+33 7 32 75 21 18,Rouen,76000,FR,Normandie,Mid-Market,Retail,2022-07-27,true
+C00136,Orion Logistics 136,Nathan Durand,nathan.durand136@example.com,+33 6 99 88 10 30,Lille,59000,FR,Hauts-de-France,Mid-Market,Secteur public,2021-01-23,true
+C00137,Echo Conseil 137,Louis Bernard,louis.bernard137@example.com,+33 6 10 46 22 47,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Technologie,2021-02-10,true
+C00138,Horizon Logistics 138,Jade Martin,jade.martin138@example.com,+33 1 67 93 53 19,Paris,75000,FR,Ile-de-France,Enterprise,Secteur public,2024-03-11,true
+C00139,Orion Partners 139,Nina Leroy,nina.leroy139@example.com,+33 2 71 58 11 80,Rouen,76000,FR,Normandie,Mid-Market,Technologie,2024-12-15,true
+C00140,Echo Solutions 140,Louis Martin,louis.martin140@example.com,+33 5 27 67 32 73,Strasbourg,67000,FR,Grand Est,Enterprise,Energie,2025-08-04,true
+C00141,Cobalt Services 141,Arthur Fournier,arthur.fournier141@example.com,+33 7 35 33 91 53,Rouen,76000,FR,Normandie,Enterprise,Secteur public,2021-11-09,true
+C00142,Nexus Systems 142,Hugo Michel,hugo.michel142@example.com,+33 9 92 68 41 79,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Transport,2024-08-04,true
+C00143,Cobalt Services 143,Nina Michel,nina.michel143@example.com,+33 4 88 30 10 20,Rouen,76000,FR,Normandie,SMB,Telecom,2024-06-13,true
+C00144,Axial Industries 144,Sarah Laurent,sarah.laurent144@example.com,+33 1 76 69 78 66,Lyon,69000,FR,Auvergne-Rhone-Alpes,Enterprise,Sante,2024-09-29,true
+C00145,Polaris Retail 145,Ines Richard,ines.richard145@example.com,+33 7 87 53 51 76,Lille,59000,FR,Hauts-de-France,SMB,Telecom,2024-10-25,true
+C00146,Kappa Technologies 146,Lina Bertrand,lina.bertrand146@example.com,+33 1 42 85 14 31,Montpellier,34000,FR,Occitanie,SMB,Retail,2022-02-10,true
+C00147,Helios Systems 147,Arthur Thomas,arthur.thomas147@example.com,+33 8 68 75 18 13,Toulouse,31000,FR,Occitanie,Mid-Market,Transport,2022-10-13,true
+C00148,Alto Digital 148,Camille Laurent,camille.laurent148@example.com,+33 7 68 66 22 62,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Retail,2025-12-28,true
+C00149,Alto France 149,Chloe Girard,chloe.girard149@example.com,+33 4 55 79 46 78,Montpellier,34000,FR,Occitanie,Enterprise,Finance,2025-12-04,true
+C00150,Alto Solutions 150,Lea Robert,lea.robert150@example.com,+33 1 77 32 36 12,Rennes,35000,FR,Bretagne,Enterprise,Sante,2024-03-17,true
+C00151,Aster Solutions 151,Jules Thomas,jules.thomas151@example.com,+33 5 42 63 42 65,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Secteur public,2022-09-08,true
+C00152,Echo Services 152,Adam Dubois,adam.dubois152@example.com,+33 9 80 77 97 55,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Finance,2023-01-14,true
+C00153,Aster Group 153,Sarah Thomas,sarah.thomas153@example.com,+33 7 73 77 42 81,Lille,59000,FR,Hauts-de-France,Mid-Market,Technologie,2023-11-05,true
+C00154,Horizon Group 154,Adam Martin,adam.martin154@example.com,+33 5 77 34 61 48,Lille,59000,FR,Hauts-de-France,Enterprise,Secteur public,2023-11-20,false
+C00155,Horizon Systems 155,Paul Laurent,paul.laurent155@example.com,+33 4 28 73 50 72,Rouen,76000,FR,Normandie,SMB,Retail,2024-05-18,true
+C00156,Axial France 156,Emma Laurent,emma.laurent156@example.com,+33 6 23 13 92 97,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Technologie,2022-03-13,true
+C00157,Echo Group 157,Arthur Morel,arthur.morel157@example.com,+33 4 46 81 73 69,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Sante,2025-06-12,true
+C00158,Atlas Services 158,Sofia Robert,sofia.robert158@example.com,+33 9 36 39 38 22,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2020-10-01,true
+C00159,Lumen Partners 159,Adam Robert,adam.robert159@example.com,+33 8 88 81 69 33,Rouen,76000,FR,Normandie,Mid-Market,Energie,2025-07-07,true
+C00160,Aster Retail 160,Paul Bernard,paul.bernard160@example.com,+33 7 79 93 74 24,Strasbourg,67000,FR,Grand Est,Enterprise,Energie,2024-12-26,true
+C00161,Horizon Logistics 161,Ines David,ines.david161@example.com,+33 5 47 84 91 24,Strasbourg,67000,FR,Grand Est,Enterprise,Sante,2025-08-08,false
+C00162,Orion Digital 162,Lina Girard,lina.girard162@example.com,+33 5 88 85 77 71,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Telecom,2023-12-11,true
+C00163,Vertex Systems 163,Nathan Michel,nathan.michel163@example.com,+33 6 49 59 83 42,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Finance,2023-03-31,true
+C00164,Horizon France 164,Gabriel Girard,gabriel.girard164@example.com,+33 8 97 49 18 85,Paris,75000,FR,Ile-de-France,SMB,Industrie,2023-07-01,true
+C00165,Horizon Industries 165,Sofia Girard,sofia.girard165@example.com,+33 8 73 97 53 60,Rennes,35000,FR,Bretagne,SMB,Transport,2022-08-01,true
+C00166,Alto Solutions 166,Gabriel Laurent,gabriel.laurent166@example.com,+33 8 41 51 24 41,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2024-05-17,true
+C00167,Polaris France 167,Gabriel Michel,gabriel.michel167@example.com,+33 9 61 37 61 79,Lyon,69000,FR,Auvergne-Rhone-Alpes,Enterprise,Technologie,2025-08-24,true
+C00168,Nova Conseil 168,Lea Bertrand,lea.bertrand168@example.com,+33 2 10 82 34 83,Montpellier,34000,FR,Occitanie,SMB,Transport,2020-05-18,true
+C00169,Atlas Digital 169,Gabriel Dubois,gabriel.dubois169@example.com,+33 5 98 60 76 49,Lille,59000,FR,Hauts-de-France,SMB,Industrie,2023-10-30,true
+C00170,Vertex Industries 170,Camille Bernard,camille.bernard170@example.com,+33 2 89 65 79 25,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Retail,2024-05-22,true
+C00171,Cobalt Industries 171,Nathan Richard,nathan.richard171@example.com,+33 1 60 78 61 93,Nantes,44000,FR,Pays de la Loire,Enterprise,Sante,2022-03-13,true
+C00172,Horizon Solutions 172,Lina Robert,lina.robert172@example.com,+33 6 83 82 83 67,Paris,75000,FR,Ile-de-France,Enterprise,Secteur public,2024-04-16,true
+C00173,Kappa Conseil 173,Nina Simon,nina.simon173@example.com,+33 7 58 59 77 10,Montpellier,34000,FR,Occitanie,SMB,Transport,2024-07-19,true
+C00174,Sigma Retail 174,Camille Girard,camille.girard174@example.com,+33 2 86 78 14 59,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Energie,2024-09-28,true
+C00175,Cobalt Industries 175,Arthur Bernard,arthur.bernard175@example.com,+33 9 56 61 42 61,Rouen,76000,FR,Normandie,Mid-Market,Retail,2020-08-04,true
+C00176,Polaris Industries 176,Noah Simon,noah.simon176@example.com,+33 3 41 72 19 17,Toulouse,31000,FR,Occitanie,Mid-Market,Sante,2025-09-23,true
+C00177,Atlas Group 177,Raphael Simon,raphael.simon177@example.com,+33 7 75 57 86 43,Strasbourg,67000,FR,Grand Est,Enterprise,Transport,2020-01-11,true
+C00178,Atlas Services 178,Ethan David,ethan.david178@example.com,+33 8 25 82 36 35,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Sante,2025-06-01,true
+C00179,Orion Conseil 179,Emma Laurent,emma.laurent179@example.com,+33 1 79 42 69 76,Nantes,44000,FR,Pays de la Loire,SMB,Secteur public,2022-10-28,true
+C00180,Polaris Partners 180,Raphael Durand,raphael.durand180@example.com,+33 9 84 49 16 31,Lille,59000,FR,Hauts-de-France,Enterprise,Transport,2026-01-15,true
+C00181,Horizon Logistics 181,Arthur Girard,arthur.girard181@example.com,+33 9 40 73 60 98,Lille,59000,FR,Hauts-de-France,Mid-Market,Industrie,2022-07-21,true
+C00182,Sigma Technologies 182,Alice Moreau,alice.moreau182@example.com,+33 1 67 46 80 93,Toulouse,31000,FR,Occitanie,Enterprise,Energie,2023-04-16,true
+C00183,Nexus Industries 183,Noah Bertrand,noah.bertrand183@example.com,+33 5 13 39 62 87,Nantes,44000,FR,Pays de la Loire,SMB,Transport,2026-06-16,true
+C00184,Axial Group 184,Gabriel Lefebvre,gabriel.lefebvre184@example.com,+33 4 74 27 31 19,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Sante,2022-12-09,true
+C00185,Echo Group 185,Lea Martin,lea.martin185@example.com,+33 5 83 97 85 94,Montpellier,34000,FR,Occitanie,SMB,Industrie,2022-12-21,false
+C00186,Nova France 186,Lea Robert,lea.robert186@example.com,+33 8 85 15 23 40,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Technologie,2020-04-21,true
+C00187,Echo Solutions 187,Sarah Bertrand,sarah.bertrand187@example.com,+33 3 11 92 50 25,Nantes,44000,FR,Pays de la Loire,Enterprise,Transport,2024-03-28,true
+C00188,Nexus Partners 188,Louise Moreau,louise.moreau188@example.com,+33 6 14 59 57 51,Toulouse,31000,FR,Occitanie,SMB,Energie,2025-01-12,true
+C00189,Helios Partners 189,Manon Bertrand,manon.bertrand189@example.com,+33 2 59 17 70 50,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Telecom,2025-12-05,true
+C00190,Alto Digital 190,Arthur Robert,arthur.robert190@example.com,+33 9 97 30 67 41,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2023-07-11,true
+C00191,Lumen Digital 191,Nathan Lefebvre,nathan.lefebvre191@example.com,+33 2 69 33 79 30,Strasbourg,67000,FR,Grand Est,Enterprise,Retail,2024-03-13,true
+C00192,Aster Industries 192,Lucas Girard,lucas.girard192@example.com,+33 3 89 63 50 60,Rennes,35000,FR,Bretagne,SMB,Secteur public,2025-09-06,true
+C00193,Polaris Digital 193,Tom Martin,tom.martin193@example.com,+33 5 16 15 16 47,Toulouse,31000,FR,Occitanie,Enterprise,Industrie,2023-09-29,true
+C00194,Sigma Retail 194,Tom Richard,tom.richard194@example.com,+33 6 82 58 54 70,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Retail,2021-09-23,true
+C00195,Sigma Technologies 195,Nina Leroy,nina.leroy195@example.com,+33 6 71 65 33 23,Paris,75000,FR,Ile-de-France,SMB,Energie,2024-11-04,true
+C00196,Lumen Group 196,Jade Martin,jade.martin196@example.com,+33 6 87 47 56 10,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Retail,2025-09-17,true
+C00197,Axial Digital 197,Raphael Dubois,raphael.dubois197@example.com,+33 6 39 72 20 25,Paris,75000,FR,Ile-de-France,Mid-Market,Energie,2025-01-22,false
+C00198,Nexus Solutions 198,Adam Thomas,adam.thomas198@example.com,+33 6 54 80 84 10,Nantes,44000,FR,Pays de la Loire,SMB,Energie,2020-10-03,true
+C00199,Nova France 199,Jade Durand,jade.durand199@example.com,+33 6 79 58 25 81,Rouen,76000,FR,Normandie,SMB,Finance,2025-01-29,true
+C00200,Vertex Systems 200,Gabriel David,gabriel.david200@example.com,+33 2 25 36 21 77,Rennes,35000,FR,Bretagne,SMB,Telecom,2025-08-27,true
+C00201,Horizon France 201,Raphael Martin,raphael.martin201@example.com,+33 4 13 98 87 46,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Transport,2020-08-20,true
+C00202,Nexus Logistics 202,Nina Moreau,nina.moreau202@example.com,+33 2 80 90 98 91,Montpellier,34000,FR,Occitanie,SMB,Industrie,2026-06-21,true
+C00203,Horizon Solutions 203,Camille Girard,camille.girard203@example.com,+33 7 83 19 22 88,Rennes,35000,FR,Bretagne,Enterprise,Finance,2022-11-08,true
+C00204,Horizon Industries 204,Ines Michel,ines.michel204@example.com,+33 2 32 48 68 69,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Retail,2023-12-06,false
+C00205,Horizon Technologies 205,Manon Laurent,manon.laurent205@example.com,+33 8 72 99 29 37,Montpellier,34000,FR,Occitanie,Mid-Market,Technologie,2022-04-25,false
+C00206,Aster Partners 206,Lucas Martin,lucas.martin206@example.com,+33 9 26 51 67 88,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Technologie,2025-11-11,true
+C00207,Cobalt Systems 207,Lucas Simon,lucas.simon207@example.com,+33 6 59 33 81 74,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2024-09-06,true
+C00208,Alto Conseil 208,Jules David,jules.david208@example.com,+33 8 48 33 50 80,Nantes,44000,FR,Pays de la Loire,SMB,Telecom,2021-04-23,true
+C00209,Alto Partners 209,Louise Simon,louise.simon209@example.com,+33 2 96 37 96 30,Strasbourg,67000,FR,Grand Est,SMB,Sante,2020-04-12,true
+C00210,Axial Retail 210,Paul Michel,paul.michel210@example.com,+33 4 15 90 83 71,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Finance,2020-02-18,true
+C00211,Lumen Logistics 211,Lina Bertrand,lina.bertrand211@example.com,+33 6 10 32 19 45,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Industrie,2023-09-14,true
+C00212,Atlas Digital 212,Tom Fournier,tom.fournier212@example.com,+33 9 12 59 11 14,Lille,59000,FR,Hauts-de-France,SMB,Transport,2023-01-11,true
+C00213,Cobalt Digital 213,Manon Bernard,manon.bernard213@example.com,+33 5 84 35 47 41,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2024-10-20,true
+C00214,Alto Group 214,Arthur Durand,arthur.durand214@example.com,+33 9 89 11 83 80,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Secteur public,2022-12-18,true
+C00215,Nexus France 215,Gabriel Richard,gabriel.richard215@example.com,+33 1 36 44 11 60,Rennes,35000,FR,Bretagne,SMB,Finance,2024-06-07,true
+C00216,Aster Industries 216,Raphael Bertrand,raphael.bertrand216@example.com,+33 2 61 80 29 49,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Technologie,2026-04-02,true
+C00217,Alto Technologies 217,Nathan David,nathan.david217@example.com,+33 8 44 60 53 35,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Retail,2025-05-06,true
+C00218,Cobalt Conseil 218,Alice Bertrand,alice.bertrand218@example.com,+33 1 94 22 99 75,Lille,59000,FR,Hauts-de-France,Mid-Market,Industrie,2023-07-24,true
+C00219,Horizon Solutions 219,Ines Moreau,ines.moreau219@example.com,+33 6 38 86 62 15,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Telecom,2025-09-12,true
+C00220,Helios Solutions 220,Nathan Roux,nathan.roux220@example.com,+33 7 29 82 30 18,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Industrie,2025-04-17,true
+C00221,Echo Digital 221,Adam Petit,adam.petit221@example.com,+33 8 61 42 47 63,Montpellier,34000,FR,Occitanie,Enterprise,Secteur public,2023-10-03,true
+C00222,Atlas Retail 222,Louis Dubois,louis.dubois222@example.com,+33 9 74 41 29 94,Nantes,44000,FR,Pays de la Loire,Mid-Market,Secteur public,2020-12-14,true
+C00223,Vertex Conseil 223,Ines Michel,ines.michel223@example.com,+33 7 34 46 57 44,Lyon,69000,FR,Auvergne-Rhone-Alpes,Enterprise,Sante,2022-06-06,false
+C00224,Polaris Services 224,Emma Lefebvre,emma.lefebvre224@example.com,+33 8 44 23 89 22,Rennes,35000,FR,Bretagne,SMB,Transport,2022-10-18,true
+C00225,Axial Digital 225,Emma Michel,emma.michel225@example.com,+33 1 33 73 17 19,Rouen,76000,FR,Normandie,SMB,Transport,2022-11-17,true
+C00226,Polaris Digital 226,Arthur Lefebvre,arthur.lefebvre226@example.com,+33 5 80 37 34 62,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Transport,2021-11-20,true
+C00227,Lumen Retail 227,Jules Laurent,jules.laurent227@example.com,+33 5 23 61 25 94,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Energie,2023-01-24,true
+C00228,Cobalt Conseil 228,Jade Bernard,jade.bernard228@example.com,+33 2 79 54 75 60,Nantes,44000,FR,Pays de la Loire,SMB,Energie,2021-01-01,true
+C00229,Kappa Retail 229,Noah Martin,noah.martin229@example.com,+33 5 69 20 35 67,Rennes,35000,FR,Bretagne,Enterprise,Retail,2026-03-06,true
+C00230,Axial Group 230,Louise Lefebvre,louise.lefebvre230@example.com,+33 8 93 97 50 69,Rouen,76000,FR,Normandie,SMB,Finance,2022-11-27,true
+C00231,Nexus Conseil 231,Sarah Simon,sarah.simon231@example.com,+33 1 47 68 21 33,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Technologie,2022-09-15,true
+C00232,Axial Solutions 232,Manon Simon,manon.simon232@example.com,+33 8 15 85 50 38,Paris,75000,FR,Ile-de-France,SMB,Technologie,2024-04-12,true
+C00233,Cobalt Industries 233,Tom Bernard,tom.bernard233@example.com,+33 5 91 34 95 77,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Energie,2021-04-08,true
+C00234,Aster Systems 234,Emma Robert,emma.robert234@example.com,+33 6 33 49 23 47,Rennes,35000,FR,Bretagne,Mid-Market,Secteur public,2022-10-02,true
+C00235,Echo Services 235,Ines Girard,ines.girard235@example.com,+33 9 95 25 10 18,Rennes,35000,FR,Bretagne,Enterprise,Industrie,2021-09-25,false
+C00236,Atlas Digital 236,Manon Laurent,manon.laurent236@example.com,+33 5 40 54 26 50,Paris,75000,FR,Ile-de-France,SMB,Telecom,2022-08-11,true
+C00237,Echo Partners 237,Adam Fournier,adam.fournier237@example.com,+33 6 79 34 78 96,Lille,59000,FR,Hauts-de-France,SMB,Finance,2026-07-10,true
+C00238,Helios Group 238,Sarah Bernard,sarah.bernard238@example.com,+33 5 47 35 85 39,Lille,59000,FR,Hauts-de-France,Enterprise,Retail,2023-07-09,true
+C00239,Axial Logistics 239,Camille Morel,camille.morel239@example.com,+33 7 87 52 80 32,Nantes,44000,FR,Pays de la Loire,SMB,Transport,2024-07-03,true
+C00240,Polaris Industries 240,Manon Bernard,manon.bernard240@example.com,+33 4 75 62 47 48,Lille,59000,FR,Hauts-de-France,SMB,Finance,2022-10-14,true
+C00241,Orion Services 241,Emma Bertrand,emma.bertrand241@example.com,+33 4 59 69 78 60,Paris,75000,FR,Ile-de-France,Mid-Market,Telecom,2026-05-26,false
+C00242,Aster France 242,Sofia Martin,sofia.martin242@example.com,+33 2 27 43 32 81,Lyon,69000,FR,Auvergne-Rhone-Alpes,Mid-Market,Finance,2022-01-17,true
+C00243,Nova Systems 243,Jade Fournier,jade.fournier243@example.com,+33 3 45 23 54 55,Rennes,35000,FR,Bretagne,Enterprise,Sante,2021-05-24,true
+C00244,Alto France 244,Chloe Morel,chloe.morel244@example.com,+33 6 96 59 78 25,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Energie,2021-03-14,true
+C00245,Nova France 245,Emma Leroy,emma.leroy245@example.com,+33 2 26 14 51 46,Montpellier,34000,FR,Occitanie,Enterprise,Energie,2026-06-24,true
+C00246,Vertex Services 246,Manon Moreau,manon.moreau246@example.com,+33 9 93 70 85 52,Rouen,76000,FR,Normandie,SMB,Technologie,2020-05-13,true
+C00247,Aster Industries 247,Gabriel Michel,gabriel.michel247@example.com,+33 7 84 45 45 92,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Retail,2020-02-29,true
+C00248,Nova Solutions 248,Raphael Martin,raphael.martin248@example.com,+33 5 56 98 26 90,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Sante,2022-03-21,true
+C00249,Sigma Digital 249,Tom Roux,tom.roux249@example.com,+33 7 38 43 68 10,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Telecom,2024-05-28,false
+C00250,Sigma Logistics 250,Sofia Morel,sofia.morel250@example.com,+33 6 79 68 73 71,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2021-05-24,true
+C00251,Kappa Industries 251,Hugo Simon,hugo.simon251@example.com,+33 3 53 45 28 84,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Secteur public,2021-07-19,true
+C00252,Atlas Systems 252,Lina Morel,lina.morel252@example.com,+33 9 30 51 38 36,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Telecom,2022-02-03,true
+C00253,Sigma Services 253,Emma Leroy,emma.leroy253@example.com,+33 7 71 44 57 38,Paris,75000,FR,Ile-de-France,SMB,Industrie,2020-01-06,false
+C00254,Vertex Industries 254,Lea Girard,lea.girard254@example.com,+33 3 83 61 68 91,Rennes,35000,FR,Bretagne,Mid-Market,Technologie,2020-08-18,true
+C00255,Vertex Technologies 255,Adam Thomas,adam.thomas255@example.com,+33 8 12 51 94 69,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Energie,2025-03-24,true
+C00256,Kappa Technologies 256,Arthur Laurent,arthur.laurent256@example.com,+33 2 37 42 94 70,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Technologie,2024-03-14,true
+C00257,Horizon Retail 257,Noah Bernard,noah.bernard257@example.com,+33 7 37 15 75 72,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Sante,2022-06-22,true
+C00258,Helios Industries 258,Gabriel Girard,gabriel.girard258@example.com,+33 4 69 62 51 52,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Retail,2025-02-04,true
+C00259,Aster Solutions 259,Jules Michel,jules.michel259@example.com,+33 6 55 21 77 50,Toulouse,31000,FR,Occitanie,SMB,Retail,2024-01-30,true
+C00260,Lumen Technologies 260,Lina Martin,lina.martin260@example.com,+33 7 16 39 11 42,Nantes,44000,FR,Pays de la Loire,SMB,Energie,2021-06-23,true
+C00261,Nexus France 261,Tom Petit,tom.petit261@example.com,+33 5 71 24 77 55,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Technologie,2025-02-14,true
+C00262,Vertex France 262,Nina Laurent,nina.laurent262@example.com,+33 4 15 49 26 60,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2022-11-01,true
+C00263,Axial Digital 263,Alice Petit,alice.petit263@example.com,+33 6 39 57 62 55,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Sante,2020-08-06,true
+C00264,Sigma Group 264,Hugo Bertrand,hugo.bertrand264@example.com,+33 8 66 16 96 78,Lyon,69000,FR,Auvergne-Rhone-Alpes,Enterprise,Transport,2026-05-18,true
+C00265,Aster Conseil 265,Jade Moreau,jade.moreau265@example.com,+33 4 89 19 57 90,Montpellier,34000,FR,Occitanie,Mid-Market,Telecom,2021-12-08,true
+C00266,Echo Group 266,Arthur Roux,arthur.roux266@example.com,+33 4 98 91 27 28,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2026-04-20,true
+C00267,Horizon Technologies 267,Louise Moreau,louise.moreau267@example.com,+33 8 13 33 43 87,Lille,59000,FR,Hauts-de-France,Enterprise,Finance,2024-02-13,true
+C00268,Cobalt Conseil 268,Jules Girard,jules.girard268@example.com,+33 2 27 33 66 60,Paris,75000,FR,Ile-de-France,SMB,Finance,2020-11-24,true
+C00269,Nova Logistics 269,Tom Richard,tom.richard269@example.com,+33 7 45 39 39 72,Montpellier,34000,FR,Occitanie,SMB,Finance,2024-08-14,true
+C00270,Polaris Group 270,Alice Richard,alice.richard270@example.com,+33 9 40 61 90 51,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Technologie,2026-04-09,true
+C00271,Nova Solutions 271,Nathan Robert,nathan.robert271@example.com,+33 1 73 50 75 54,Montpellier,34000,FR,Occitanie,SMB,Finance,2024-12-22,true
+C00272,Sigma Conseil 272,Louise Michel,louise.michel272@example.com,+33 8 81 73 92 75,Strasbourg,67000,FR,Grand Est,Mid-Market,Telecom,2021-08-03,true
+C00273,Lumen Technologies 273,Camille Simon,camille.simon273@example.com,+33 3 98 90 20 24,Rennes,35000,FR,Bretagne,SMB,Sante,2025-04-02,true
+C00274,Echo Services 274,Louise Robert,louise.robert274@example.com,+33 8 39 27 61 28,Rouen,76000,FR,Normandie,Enterprise,Sante,2020-04-27,true
+C00275,Aster Technologies 275,Arthur Simon,arthur.simon275@example.com,+33 9 56 63 27 16,Paris,75000,FR,Ile-de-France,Mid-Market,Retail,2020-03-29,false
+C00276,Sigma Conseil 276,Gabriel Richard,gabriel.richard276@example.com,+33 7 60 38 45 87,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Technologie,2024-02-18,true
+C00277,Horizon Retail 277,Tom Lefebvre,tom.lefebvre277@example.com,+33 3 93 75 71 44,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Industrie,2025-06-19,true
+C00278,Sigma Industries 278,Manon Lefebvre,manon.lefebvre278@example.com,+33 6 67 38 24 87,Rennes,35000,FR,Bretagne,Mid-Market,Retail,2024-12-26,false
+C00279,Cobalt Services 279,Jules Girard,jules.girard279@example.com,+33 6 43 57 17 90,Toulouse,31000,FR,Occitanie,Enterprise,Retail,2025-01-30,true
+C00280,Horizon Partners 280,Lina Fournier,lina.fournier280@example.com,+33 9 45 54 91 90,Strasbourg,67000,FR,Grand Est,SMB,Energie,2021-01-19,true
+C00281,Sigma Group 281,Jade Bernard,jade.bernard281@example.com,+33 2 17 16 43 10,Toulouse,31000,FR,Occitanie,SMB,Retail,2023-07-20,true
+C00282,Cobalt Conseil 282,Chloe Leroy,chloe.leroy282@example.com,+33 7 73 97 71 10,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Industrie,2021-05-16,true
+C00283,Nexus Logistics 283,Hugo Lefebvre,hugo.lefebvre283@example.com,+33 9 34 34 31 45,Rennes,35000,FR,Bretagne,Enterprise,Retail,2020-09-11,true
+C00284,Echo Digital 284,Ines Roux,ines.roux284@example.com,+33 6 16 16 55 91,Paris,75000,FR,Ile-de-France,SMB,Sante,2025-05-13,true
+C00285,Helios Services 285,Camille Morel,camille.morel285@example.com,+33 1 10 60 47 26,Strasbourg,67000,FR,Grand Est,Mid-Market,Secteur public,2021-05-27,true
+C00286,Axial Logistics 286,Noah Thomas,noah.thomas286@example.com,+33 5 40 58 15 56,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Secteur public,2025-01-05,true
+C00287,Orion France 287,Chloe Michel,chloe.michel287@example.com,+33 2 28 17 54 84,Toulouse,31000,FR,Occitanie,SMB,Finance,2020-12-04,true
+C00288,Nova France 288,Hugo Bertrand,hugo.bertrand288@example.com,+33 2 14 41 34 12,Rennes,35000,FR,Bretagne,Enterprise,Technologie,2022-11-12,true
+C00289,Lumen Industries 289,Ines Roux,ines.roux289@example.com,+33 4 86 38 35 85,Rennes,35000,FR,Bretagne,Mid-Market,Secteur public,2021-12-08,true
+C00290,Kappa France 290,Lina Laurent,lina.laurent290@example.com,+33 3 73 35 40 69,Rennes,35000,FR,Bretagne,SMB,Sante,2022-03-13,true
+C00291,Nova France 291,Nina Petit,nina.petit291@example.com,+33 7 70 59 37 73,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Transport,2021-10-03,true
+C00292,Lumen Group 292,Tom Roux,tom.roux292@example.com,+33 3 66 59 35 21,Rouen,76000,FR,Normandie,Enterprise,Sante,2020-05-07,true
+C00293,Atlas Industries 293,Raphael Moreau,raphael.moreau293@example.com,+33 1 16 98 43 78,Montpellier,34000,FR,Occitanie,Mid-Market,Retail,2025-08-06,true
+C00294,Sigma Systems 294,Raphael Thomas,raphael.thomas294@example.com,+33 7 26 48 53 86,Strasbourg,67000,FR,Grand Est,Mid-Market,Transport,2020-11-20,false
+C00295,Axial Solutions 295,Louis Durand,louis.durand295@example.com,+33 1 54 53 13 53,Toulouse,31000,FR,Occitanie,SMB,Transport,2024-09-19,true
+C00296,Vertex Logistics 296,Emma Leroy,emma.leroy296@example.com,+33 6 40 62 20 40,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2020-11-21,true
+C00297,Polaris Logistics 297,Camille Lefebvre,camille.lefebvre297@example.com,+33 8 74 41 72 56,Lille,59000,FR,Hauts-de-France,Enterprise,Transport,2022-10-16,true
+C00298,Atlas Solutions 298,Jade Dubois,jade.dubois298@example.com,+33 3 97 39 94 72,Strasbourg,67000,FR,Grand Est,SMB,Finance,2022-05-02,true
+C00299,Aster Industries 299,Ethan Leroy,ethan.leroy299@example.com,+33 4 17 51 45 67,Rouen,76000,FR,Normandie,SMB,Finance,2024-01-23,true
+C00300,Lumen Solutions 300,Gabriel Roux,gabriel.roux300@example.com,+33 6 18 43 85 94,Nantes,44000,FR,Pays de la Loire,Mid-Market,Technologie,2020-04-03,true
+C00301,Vertex Industries 301,Arthur David,arthur.david301@example.com,+33 5 13 53 70 94,Toulouse,31000,FR,Occitanie,SMB,Sante,2021-02-04,true
+C00302,Alto Systems 302,Gabriel Laurent,gabriel.laurent302@example.com,+33 6 43 37 37 31,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Industrie,2022-10-19,true
+C00303,Vertex France 303,Adam Leroy,adam.leroy303@example.com,+33 1 47 80 97 57,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Energie,2020-03-06,true
+C00304,Polaris Retail 304,Louise Robert,louise.robert304@example.com,+33 2 62 68 59 32,Toulouse,31000,FR,Occitanie,SMB,Sante,2020-06-23,true
+C00305,Cobalt Partners 305,Hugo Morel,hugo.morel305@example.com,+33 3 95 51 27 74,Montpellier,34000,FR,Occitanie,Enterprise,Industrie,2020-09-03,true
+C00306,Axial Industries 306,Manon Lefebvre,manon.lefebvre306@example.com,+33 3 25 95 83 54,Paris,75000,FR,Ile-de-France,SMB,Sante,2025-10-16,true
+C00307,Alto Retail 307,Louise Simon,louise.simon307@example.com,+33 9 51 39 25 47,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2022-04-29,true
+C00308,Atlas Logistics 308,Ethan Durand,ethan.durand308@example.com,+33 3 30 64 43 97,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Telecom,2023-01-31,true
+C00309,Orion Logistics 309,Chloe Thomas,chloe.thomas309@example.com,+33 5 60 32 49 56,Rennes,35000,FR,Bretagne,Mid-Market,Energie,2021-05-24,true
+C00310,Alto Services 310,Jade David,jade.david310@example.com,+33 4 62 59 67 32,Montpellier,34000,FR,Occitanie,Mid-Market,Transport,2021-04-09,true
+C00311,Alto Partners 311,Jules Moreau,jules.moreau311@example.com,+33 2 18 51 38 14,Nantes,44000,FR,Pays de la Loire,SMB,Finance,2023-07-29,true
+C00312,Echo France 312,Nathan Dubois,nathan.dubois312@example.com,+33 1 55 95 55 68,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Industrie,2023-03-07,true
+C00313,Horizon Industries 313,Sofia Thomas,sofia.thomas313@example.com,+33 3 73 43 38 49,Strasbourg,67000,FR,Grand Est,Enterprise,Retail,2020-08-02,false
+C00314,Nova Technologies 314,Hugo Laurent,hugo.laurent314@example.com,+33 4 46 73 57 25,Rennes,35000,FR,Bretagne,Enterprise,Telecom,2024-09-14,true
+C00315,Nova Retail 315,Louise Roux,louise.roux315@example.com,+33 8 16 60 88 45,Rennes,35000,FR,Bretagne,Mid-Market,Energie,2021-05-24,true
+C00316,Aster Partners 316,Sofia Thomas,sofia.thomas316@example.com,+33 4 44 15 73 52,Paris,75000,FR,Ile-de-France,SMB,Energie,2020-03-25,true
+C00317,Sigma France 317,Louise Roux,louise.roux317@example.com,+33 2 63 71 59 49,Toulouse,31000,FR,Occitanie,SMB,Retail,2022-09-27,true
+C00318,Vertex Group 318,Lea Moreau,lea.moreau318@example.com,+33 7 56 62 10 52,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Finance,2022-01-08,true
+C00319,Nexus Technologies 319,Adam Morel,adam.morel319@example.com,+33 7 76 13 59 98,Montpellier,34000,FR,Occitanie,SMB,Secteur public,2021-06-01,true
+C00320,Aster Conseil 320,Sarah Dubois,sarah.dubois320@example.com,+33 2 34 27 27 75,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Technologie,2024-07-06,true
+C00321,Nexus Partners 321,Lina Lefebvre,lina.lefebvre321@example.com,+33 1 10 92 75 93,Montpellier,34000,FR,Occitanie,SMB,Energie,2021-12-14,true
+C00322,Orion France 322,Noah Laurent,noah.laurent322@example.com,+33 7 79 11 90 83,Paris,75000,FR,Ile-de-France,Enterprise,Retail,2020-12-17,true
+C00323,Sigma Systems 323,Jade Thomas,jade.thomas323@example.com,+33 7 91 14 98 42,Nantes,44000,FR,Pays de la Loire,SMB,Retail,2024-02-20,true
+C00324,Helios Technologies 324,Nina Fournier,nina.fournier324@example.com,+33 6 83 88 91 19,Nantes,44000,FR,Pays de la Loire,Enterprise,Transport,2025-08-18,true
+C00325,Aster Technologies 325,Lucas Richard,lucas.richard325@example.com,+33 3 11 11 51 26,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Retail,2021-05-02,true
+C00326,Polaris Technologies 326,Tom Dubois,tom.dubois326@example.com,+33 5 32 39 80 50,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Telecom,2021-04-09,true
+C00327,Aster Industries 327,Paul Fournier,paul.fournier327@example.com,+33 6 53 43 15 39,Strasbourg,67000,FR,Grand Est,SMB,Retail,2025-07-05,true
+C00328,Helios Partners 328,Lea Simon,lea.simon328@example.com,+33 7 84 33 79 32,Lyon,69000,FR,Auvergne-Rhone-Alpes,Enterprise,Industrie,2020-09-25,true
+C00329,Nova Retail 329,Jules Michel,jules.michel329@example.com,+33 4 26 22 42 88,Rennes,35000,FR,Bretagne,Mid-Market,Retail,2021-12-02,true
+C00330,Horizon Technologies 330,Adam Richard,adam.richard330@example.com,+33 2 93 93 86 17,Rennes,35000,FR,Bretagne,SMB,Transport,2023-11-19,false
+C00331,Nexus France 331,Adam Fournier,adam.fournier331@example.com,+33 1 98 68 22 82,Rouen,76000,FR,Normandie,SMB,Secteur public,2026-07-28,true
+C00332,Orion Solutions 332,Arthur Fournier,arthur.fournier332@example.com,+33 6 70 40 34 35,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Sante,2022-05-26,true
+C00333,Nova France 333,Ines Bernard,ines.bernard333@example.com,+33 5 73 90 95 23,Paris,75000,FR,Ile-de-France,SMB,Finance,2022-11-05,true
+C00334,Vertex Conseil 334,Chloe Lefebvre,chloe.lefebvre334@example.com,+33 7 67 91 54 60,Nantes,44000,FR,Pays de la Loire,Mid-Market,Sante,2020-06-18,true
+C00335,Orion Technologies 335,Adam Bertrand,adam.bertrand335@example.com,+33 6 83 33 70 61,Montpellier,34000,FR,Occitanie,SMB,Secteur public,2020-02-02,true
+C00336,Helios Logistics 336,Lina Bertrand,lina.bertrand336@example.com,+33 7 45 30 39 21,Strasbourg,67000,FR,Grand Est,SMB,Transport,2026-06-13,true
+C00337,Nexus Group 337,Camille Michel,camille.michel337@example.com,+33 2 18 94 18 84,Montpellier,34000,FR,Occitanie,Mid-Market,Industrie,2020-02-18,false
+C00338,Cobalt Technologies 338,Manon Michel,manon.michel338@example.com,+33 9 51 60 37 77,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Finance,2024-04-17,true
+C00339,Axial Technologies 339,Camille Robert,camille.robert339@example.com,+33 8 82 38 54 28,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2023-09-20,true
+C00340,Helios Partners 340,Sofia David,sofia.david340@example.com,+33 5 87 63 60 72,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2021-07-09,true
+C00341,Polaris Group 341,Lucas Bertrand,lucas.bertrand341@example.com,+33 6 75 69 49 20,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Finance,2022-04-26,true
+C00342,Vertex Technologies 342,Jules Robert,jules.robert342@example.com,+33 6 81 52 15 73,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Retail,2025-07-09,true
+C00343,Nova Technologies 343,Nathan Roux,nathan.roux343@example.com,+33 2 63 12 99 41,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Transport,2026-01-18,true
+C00344,Axial Group 344,Adam Michel,adam.michel344@example.com,+33 9 95 12 65 12,Strasbourg,67000,FR,Grand Est,Mid-Market,Energie,2022-12-29,true
+C00345,Aster Services 345,Tom Thomas,tom.thomas345@example.com,+33 7 30 61 84 97,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Retail,2023-11-04,false
+C00346,Atlas France 346,Nathan Roux,nathan.roux346@example.com,+33 8 92 33 10 21,Rennes,35000,FR,Bretagne,Enterprise,Finance,2023-03-22,true
+C00347,Atlas Solutions 347,Noah Morel,noah.morel347@example.com,+33 6 60 53 63 49,Strasbourg,67000,FR,Grand Est,Mid-Market,Sante,2022-12-15,true
+C00348,Horizon Logistics 348,Ethan Leroy,ethan.leroy348@example.com,+33 5 86 59 91 45,Paris,75000,FR,Ile-de-France,SMB,Telecom,2021-03-20,true
+C00349,Axial Industries 349,Emma Fournier,emma.fournier349@example.com,+33 7 80 73 53 79,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Finance,2025-01-27,true
+C00350,Aster Retail 350,Paul Laurent,paul.laurent350@example.com,+33 3 66 79 42 69,Lille,59000,FR,Hauts-de-France,Enterprise,Energie,2023-06-08,true
+C00351,Polaris Solutions 351,Nina Robert,nina.robert351@example.com,+33 8 73 30 87 97,Montpellier,34000,FR,Occitanie,SMB,Telecom,2024-06-05,true
+C00352,Atlas Systems 352,Manon Dubois,manon.dubois352@example.com,+33 2 13 15 94 33,Strasbourg,67000,FR,Grand Est,Mid-Market,Technologie,2022-12-19,true
+C00353,Horizon Systems 353,Lina Bertrand,lina.bertrand353@example.com,+33 2 89 17 60 11,Nantes,44000,FR,Pays de la Loire,SMB,Secteur public,2020-06-12,false
+C00354,Axial Digital 354,Lina Thomas,lina.thomas354@example.com,+33 3 46 73 41 28,Toulouse,31000,FR,Occitanie,SMB,Finance,2023-01-18,true
+C00355,Alto Retail 355,Gabriel Robert,gabriel.robert355@example.com,+33 5 75 41 40 89,Lille,59000,FR,Hauts-de-France,SMB,Telecom,2022-06-11,true
+C00356,Alto Partners 356,Jade Leroy,jade.leroy356@example.com,+33 1 97 65 76 10,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Transport,2026-07-09,true
+C00357,Vertex Systems 357,Arthur Robert,arthur.robert357@example.com,+33 7 24 80 93 48,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2022-03-03,true
+C00358,Axial Solutions 358,Emma Girard,emma.girard358@example.com,+33 7 22 93 60 50,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Transport,2023-10-30,true
+C00359,Kappa Technologies 359,Paul Lefebvre,paul.lefebvre359@example.com,+33 6 95 34 72 15,Strasbourg,67000,FR,Grand Est,Enterprise,Telecom,2025-04-03,true
+C00360,Lumen Partners 360,Arthur Robert,arthur.robert360@example.com,+33 1 74 68 71 38,Lille,59000,FR,Hauts-de-France,SMB,Sante,2026-02-28,true
+C00361,Aster Partners 361,Hugo Leroy,hugo.leroy361@example.com,+33 3 76 31 71 80,Strasbourg,67000,FR,Grand Est,Enterprise,Technologie,2024-12-23,true
+C00362,Kappa Partners 362,Jules Roux,jules.roux362@example.com,+33 7 93 93 29 51,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2026-02-13,true
+C00363,Axial Solutions 363,Jade Roux,jade.roux363@example.com,+33 4 87 56 18 83,Rouen,76000,FR,Normandie,Enterprise,Energie,2022-05-17,true
+C00364,Orion Systems 364,Paul Roux,paul.roux364@example.com,+33 7 58 89 96 15,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Transport,2026-03-03,false
+C00365,Lumen Retail 365,Louis Leroy,louis.leroy365@example.com,+33 9 77 21 56 94,Paris,75000,FR,Ile-de-France,SMB,Transport,2022-07-11,true
+C00366,Sigma Technologies 366,Gabriel Moreau,gabriel.moreau366@example.com,+33 7 21 79 70 90,Nantes,44000,FR,Pays de la Loire,Mid-Market,Transport,2023-07-02,false
+C00367,Echo Digital 367,Noah Leroy,noah.leroy367@example.com,+33 2 32 66 38 91,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Secteur public,2020-10-24,true
+C00368,Vertex Partners 368,Hugo Leroy,hugo.leroy368@example.com,+33 3 99 16 82 24,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2024-06-26,true
+C00369,Nova Logistics 369,Paul Lefebvre,paul.lefebvre369@example.com,+33 4 47 80 79 97,Montpellier,34000,FR,Occitanie,Mid-Market,Industrie,2024-01-08,true
+C00370,Sigma Digital 370,Nina Roux,nina.roux370@example.com,+33 7 31 20 13 87,Toulouse,31000,FR,Occitanie,Enterprise,Transport,2023-03-12,true
+C00371,Orion Logistics 371,Lina Girard,lina.girard371@example.com,+33 1 21 65 42 46,Nantes,44000,FR,Pays de la Loire,SMB,Technologie,2024-07-06,true
+C00372,Sigma Technologies 372,Lucas Richard,lucas.richard372@example.com,+33 9 52 66 60 84,Rennes,35000,FR,Bretagne,SMB,Sante,2023-05-30,true
+C00373,Lumen Logistics 373,Arthur Lefebvre,arthur.lefebvre373@example.com,+33 1 78 50 73 18,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Secteur public,2024-06-29,true
+C00374,Horizon Systems 374,Louise Girard,louise.girard374@example.com,+33 9 96 18 69 78,Rennes,35000,FR,Bretagne,Mid-Market,Technologie,2020-11-23,true
+C00375,Vertex France 375,Louis Dubois,louis.dubois375@example.com,+33 1 72 83 29 65,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Industrie,2022-08-07,true
+C00376,Horizon Group 376,Chloe Bernard,chloe.bernard376@example.com,+33 1 67 62 15 53,Strasbourg,67000,FR,Grand Est,SMB,Retail,2020-09-26,true
+C00377,Nova Retail 377,Lina Robert,lina.robert377@example.com,+33 5 85 90 17 90,Montpellier,34000,FR,Occitanie,SMB,Energie,2023-10-05,true
+C00378,Cobalt Systems 378,Ethan Robert,ethan.robert378@example.com,+33 5 14 92 28 85,Lille,59000,FR,Hauts-de-France,Mid-Market,Retail,2023-05-14,true
+C00379,Kappa Solutions 379,Arthur Girard,arthur.girard379@example.com,+33 7 44 29 21 62,Rouen,76000,FR,Normandie,SMB,Finance,2023-02-28,true
+C00380,Cobalt Technologies 380,Chloe Morel,chloe.morel380@example.com,+33 1 19 26 44 93,Paris,75000,FR,Ile-de-France,SMB,Sante,2023-07-24,true
+C00381,Horizon Logistics 381,Ines Morel,ines.morel381@example.com,+33 9 54 76 32 29,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Transport,2020-06-04,true
+C00382,Nova Logistics 382,Alice Durand,alice.durand382@example.com,+33 2 51 98 59 61,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Industrie,2021-03-26,true
+C00383,Vertex Partners 383,Raphael Richard,raphael.richard383@example.com,+33 5 48 74 71 42,Nantes,44000,FR,Pays de la Loire,SMB,Finance,2021-01-11,true
+C00384,Echo Partners 384,Adam David,adam.david384@example.com,+33 4 70 24 13 13,Paris,75000,FR,Ile-de-France,SMB,Telecom,2026-02-17,true
+C00385,Polaris Retail 385,Noah David,noah.david385@example.com,+33 9 33 59 59 91,Nantes,44000,FR,Pays de la Loire,SMB,Industrie,2021-05-07,true
+C00386,Helios Retail 386,Camille David,camille.david386@example.com,+33 6 47 33 27 35,Lille,59000,FR,Hauts-de-France,Mid-Market,Energie,2023-11-29,false
+C00387,Nexus Solutions 387,Chloe Durand,chloe.durand387@example.com,+33 9 77 38 98 35,Lille,59000,FR,Hauts-de-France,SMB,Secteur public,2022-10-25,true
+C00388,Nova Solutions 388,Paul Laurent,paul.laurent388@example.com,+33 7 38 32 98 49,Paris,75000,FR,Ile-de-France,SMB,Telecom,2020-05-15,true
+C00389,Helios France 389,Nathan Michel,nathan.michel389@example.com,+33 1 79 47 21 62,Rennes,35000,FR,Bretagne,Enterprise,Retail,2021-10-29,false
+C00390,Nexus Partners 390,Nathan Simon,nathan.simon390@example.com,+33 4 54 37 45 65,Bordeaux,33000,FR,Nouvelle-Aquitaine,Enterprise,Transport,2026-05-30,true
+C00391,Alto Systems 391,Manon Moreau,manon.moreau391@example.com,+33 3 37 45 15 71,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Finance,2022-02-08,true
+C00392,Kappa France 392,Alice Bernard,alice.bernard392@example.com,+33 5 55 61 28 39,Rennes,35000,FR,Bretagne,Mid-Market,Sante,2020-10-09,true
+C00393,Helios Systems 393,Hugo Roux,hugo.roux393@example.com,+33 6 95 96 88 76,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Technologie,2023-12-05,true
+C00394,Alto Logistics 394,Lea Leroy,lea.leroy394@example.com,+33 3 65 51 73 94,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Transport,2021-10-01,true
+C00395,Sigma Industries 395,Chloe Morel,chloe.morel395@example.com,+33 2 40 74 41 46,Paris,75000,FR,Ile-de-France,Enterprise,Industrie,2022-04-12,true
+C00396,Aster Systems 396,Adam Petit,adam.petit396@example.com,+33 1 13 90 28 71,Rennes,35000,FR,Bretagne,Enterprise,Secteur public,2022-06-12,true
+C00397,Axial Group 397,Emma Girard,emma.girard397@example.com,+33 4 12 30 72 29,Rennes,35000,FR,Bretagne,SMB,Transport,2025-10-20,true
+C00398,Nova Industries 398,Ines Martin,ines.martin398@example.com,+33 8 82 45 81 47,Lille,59000,FR,Hauts-de-France,Mid-Market,Industrie,2021-07-05,true
+C00399,Polaris Group 399,Lina David,lina.david399@example.com,+33 2 16 71 17 28,Montpellier,34000,FR,Occitanie,SMB,Technologie,2024-11-29,true
+C00400,Kappa Digital 400,Adam Michel,adam.michel400@example.com,+33 9 55 58 11 12,Rennes,35000,FR,Bretagne,Mid-Market,Transport,2025-08-13,true
+C00401,Helios Digital 401,Ethan Michel,ethan.michel401@example.com,+33 6 47 31 69 24,Montpellier,34000,FR,Occitanie,SMB,Telecom,2024-02-27,true
+C00402,Alto Group 402,Noah Thomas,noah.thomas402@example.com,+33 8 41 38 24 70,Nantes,44000,FR,Pays de la Loire,SMB,Finance,2020-12-24,true
+C00403,Polaris Digital 403,Emma Bertrand,emma.bertrand403@example.com,+33 3 29 44 71 39,Lille,59000,FR,Hauts-de-France,Mid-Market,Technologie,2023-09-19,true
+C00404,Aster France 404,Lea Fournier,lea.fournier404@example.com,+33 3 25 48 99 28,Montpellier,34000,FR,Occitanie,SMB,Industrie,2023-06-22,true
+C00405,Helios Solutions 405,Noah Moreau,noah.moreau405@example.com,+33 5 52 72 15 95,Montpellier,34000,FR,Occitanie,SMB,Finance,2020-05-11,true
+C00406,Horizon Partners 406,Paul Michel,paul.michel406@example.com,+33 4 41 80 91 66,Nantes,44000,FR,Pays de la Loire,SMB,Secteur public,2023-08-23,true
+C00407,Atlas Solutions 407,Nathan Bertrand,nathan.bertrand407@example.com,+33 8 49 72 38 81,Lille,59000,FR,Hauts-de-France,SMB,Retail,2023-01-08,true
+C00408,Alto Systems 408,Jade Durand,jade.durand408@example.com,+33 3 94 71 44 11,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Secteur public,2022-08-24,true
+C00409,Kappa Conseil 409,Nina Bertrand,nina.bertrand409@example.com,+33 9 42 52 27 47,Rennes,35000,FR,Bretagne,SMB,Finance,2026-05-04,true
+C00410,Alto Technologies 410,Ethan Moreau,ethan.moreau410@example.com,+33 2 98 11 74 62,Paris,75000,FR,Ile-de-France,SMB,Technologie,2022-08-25,true
+C00411,Nova Solutions 411,Emma Simon,emma.simon411@example.com,+33 1 35 59 52 33,Montpellier,34000,FR,Occitanie,Mid-Market,Energie,2021-11-16,true
+C00412,Axial Digital 412,Arthur Morel,arthur.morel412@example.com,+33 1 44 38 35 65,Strasbourg,67000,FR,Grand Est,SMB,Secteur public,2021-03-10,true
+C00413,Atlas Retail 413,Jules Leroy,jules.leroy413@example.com,+33 5 69 39 57 58,Rennes,35000,FR,Bretagne,SMB,Finance,2023-03-01,true
+C00414,Sigma Industries 414,Manon Michel,manon.michel414@example.com,+33 1 82 22 39 12,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Transport,2025-10-11,true
+C00415,Echo Services 415,Ines Michel,ines.michel415@example.com,+33 6 32 32 43 61,Paris,75000,FR,Ile-de-France,SMB,Finance,2022-06-15,true
+C00416,Lumen Conseil 416,Gabriel Fournier,gabriel.fournier416@example.com,+33 9 62 72 23 83,Paris,75000,FR,Ile-de-France,Mid-Market,Energie,2020-09-12,true
+C00417,Axial France 417,Gabriel Lefebvre,gabriel.lefebvre417@example.com,+33 3 48 35 53 88,Toulouse,31000,FR,Occitanie,SMB,Retail,2025-10-31,true
+C00418,Vertex Technologies 418,Noah Roux,noah.roux418@example.com,+33 8 64 96 16 68,Rennes,35000,FR,Bretagne,SMB,Energie,2021-08-31,true
+C00419,Sigma France 419,Ines Leroy,ines.leroy419@example.com,+33 4 37 16 97 66,Montpellier,34000,FR,Occitanie,Mid-Market,Industrie,2022-04-06,true
+C00420,Helios Services 420,Noah Roux,noah.roux420@example.com,+33 2 10 10 62 70,Strasbourg,67000,FR,Grand Est,SMB,Energie,2024-06-07,true
+C00421,Polaris France 421,Alice Roux,alice.roux421@example.com,+33 7 56 34 11 81,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Energie,2024-02-01,true
+C00422,Helios Services 422,Nina Lefebvre,nina.lefebvre422@example.com,+33 9 37 37 75 76,Lille,59000,FR,Hauts-de-France,Mid-Market,Telecom,2020-07-22,true
+C00423,Vertex Services 423,Nina David,nina.david423@example.com,+33 2 59 92 30 85,Lyon,69000,FR,Auvergne-Rhone-Alpes,SMB,Retail,2021-07-25,true
+C00424,Echo Technologies 424,Louis Thomas,louis.thomas424@example.com,+33 5 25 15 96 39,Rennes,35000,FR,Bretagne,Mid-Market,Finance,2022-06-18,true
+C00425,Lumen Conseil 425,Chloe Richard,chloe.richard425@example.com,+33 6 81 28 63 87,Montpellier,34000,FR,Occitanie,Mid-Market,Secteur public,2023-06-15,true
+C00426,Nova France 426,Chloe Moreau,chloe.moreau426@example.com,+33 5 79 57 20 70,Strasbourg,67000,FR,Grand Est,Mid-Market,Telecom,2025-04-23,true
+C00427,Sigma Systems 427,Sofia Bertrand,sofia.bertrand427@example.com,+33 8 60 54 82 53,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Industrie,2025-08-12,true
+C00428,Helios Partners 428,Lea Martin,lea.martin428@example.com,+33 4 43 87 79 28,Lille,59000,FR,Hauts-de-France,Mid-Market,Transport,2025-12-07,true
+C00429,Axial Industries 429,Manon Thomas,manon.thomas429@example.com,+33 3 40 19 12 79,Montpellier,34000,FR,Occitanie,SMB,Finance,2025-09-07,true
+C00430,Polaris Industries 430,Sofia Leroy,sofia.leroy430@example.com,+33 1 24 50 48 23,Montpellier,34000,FR,Occitanie,Mid-Market,Industrie,2024-06-15,true
+C00431,Vertex Partners 431,Manon Laurent,manon.laurent431@example.com,+33 7 90 24 63 86,Rouen,76000,FR,Normandie,SMB,Transport,2021-12-13,true
+C00432,Axial Group 432,Nina Girard,nina.girard432@example.com,+33 4 34 80 14 98,Montpellier,34000,FR,Occitanie,SMB,Technologie,2024-07-05,true
+C00433,Orion Systems 433,Ethan Richard,ethan.richard433@example.com,+33 4 45 34 12 81,Lille,59000,FR,Hauts-de-France,Enterprise,Finance,2021-11-07,true
+C00434,Alto Group 434,Louis Morel,louis.morel434@example.com,+33 6 96 40 66 20,Nantes,44000,FR,Pays de la Loire,Mid-Market,Secteur public,2025-09-28,false
+C00435,Sigma Digital 435,Nina Roux,nina.roux435@example.com,+33 4 90 29 31 67,Nantes,44000,FR,Pays de la Loire,SMB,Transport,2020-01-25,true
+C00436,Vertex Solutions 436,Raphael Dubois,raphael.dubois436@example.com,+33 1 82 73 35 12,Paris,75000,FR,Ile-de-France,SMB,Secteur public,2023-03-08,true
+C00437,Orion Services 437,Lucas Dubois,lucas.dubois437@example.com,+33 6 53 34 81 96,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Transport,2025-04-29,true
+C00438,Cobalt France 438,Raphael Roux,raphael.roux438@example.com,+33 6 73 56 94 40,Strasbourg,67000,FR,Grand Est,Mid-Market,Sante,2023-10-18,true
+C00439,Orion Conseil 439,Ines Leroy,ines.leroy439@example.com,+33 9 71 55 39 36,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Mid-Market,Sante,2021-02-06,true
+C00440,Echo Conseil 440,Camille Roux,camille.roux440@example.com,+33 6 51 73 11 86,Strasbourg,67000,FR,Grand Est,Mid-Market,Sante,2024-02-06,true
+C00441,Helios Systems 441,Lea Morel,lea.morel441@example.com,+33 9 31 24 41 70,Rouen,76000,FR,Normandie,SMB,Sante,2024-11-09,true
+C00442,Nexus Solutions 442,Tom David,tom.david442@example.com,+33 1 96 76 31 67,Paris,75000,FR,Ile-de-France,Enterprise,Retail,2023-06-04,true
+C00443,Echo Solutions 443,Chloe Moreau,chloe.moreau443@example.com,+33 9 94 40 54 97,Strasbourg,67000,FR,Grand Est,Mid-Market,Retail,2020-10-26,false
+C00444,Cobalt France 444,Chloe Richard,chloe.richard444@example.com,+33 5 96 23 91 83,Lille,59000,FR,Hauts-de-France,Mid-Market,Technologie,2020-09-09,false
+C00445,Helios Logistics 445,Adam Michel,adam.michel445@example.com,+33 3 65 97 52 28,Marseille,13000,FR,Provence-Alpes-Cote d Azur,Enterprise,Industrie,2025-07-20,true
+C00446,Orion France 446,Adam Roux,adam.roux446@example.com,+33 9 12 16 48 95,Rouen,76000,FR,Normandie,Enterprise,Retail,2023-06-06,true
+C00447,Alto Services 447,Noah Dubois,noah.dubois447@example.com,+33 5 10 17 81 49,Lille,59000,FR,Hauts-de-France,Enterprise,Sante,2024-03-27,true
+C00448,Axial Solutions 448,Camille Michel,camille.michel448@example.com,+33 8 25 77 98 84,Strasbourg,67000,FR,Grand Est,SMB,Secteur public,2020-05-04,true
+C00449,Atlas Digital 449,Lea Bernard,lea.bernard449@example.com,+33 7 79 14 83 96,Lille,59000,FR,Hauts-de-France,Enterprise,Sante,2021-08-20,true
+C00450,Nexus Services 450,Jade Bertrand,jade.bertrand450@example.com,+33 8 85 59 99 84,Nantes,44000,FR,Pays de la Loire,SMB,Secteur public,2020-07-16,true
+C00451,Axial Technologies 451,Gabriel Durand,gabriel.durand451@example.com,+33 6 30 20 63 18,Rouen,76000,FR,Normandie,SMB,Retail,2021-03-09,true
+C00452,Nexus Retail 452,Chloe David,chloe.david452@example.com,+33 8 89 65 42 62,Montpellier,34000,FR,Occitanie,Mid-Market,Technologie,2026-03-04,true
+C00453,Sigma Solutions 453,Manon Leroy,manon.leroy453@example.com,+33 6 35 88 99 18,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Retail,2022-10-10,true
+C00454,Polaris Technologies 454,Lina Roux,lina.roux454@example.com,+33 5 76 81 33 79,Rennes,35000,FR,Bretagne,SMB,Transport,2024-02-04,true
+C00455,Polaris Digital 455,Tom Laurent,tom.laurent455@example.com,+33 2 97 46 70 77,Rennes,35000,FR,Bretagne,SMB,Telecom,2022-03-09,true
+C00456,Polaris Solutions 456,Alice Michel,alice.michel456@example.com,+33 8 12 57 52 35,Montpellier,34000,FR,Occitanie,Mid-Market,Technologie,2023-04-29,true
+C00457,Helios Group 457,Ethan Thomas,ethan.thomas457@example.com,+33 5 37 79 16 85,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Mid-Market,Transport,2025-02-27,true
+C00458,Alto Logistics 458,Noah Bertrand,noah.bertrand458@example.com,+33 5 81 19 31 58,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2021-09-27,true
+C00459,Sigma Technologies 459,Ethan Thomas,ethan.thomas459@example.com,+33 6 23 29 52 12,Paris,75000,FR,Ile-de-France,SMB,Finance,2024-11-22,true
+C00460,Nexus Digital 460,Alice David,alice.david460@example.com,+33 7 49 16 27 44,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Finance,2024-11-08,true
+C00461,Axial Conseil 461,Chloe Bertrand,chloe.bertrand461@example.com,+33 1 32 74 35 50,Rennes,35000,FR,Bretagne,SMB,Technologie,2023-10-23,true
+C00462,Cobalt Group 462,Sofia Moreau,sofia.moreau462@example.com,+33 8 39 46 82 77,Montpellier,34000,FR,Occitanie,SMB,Transport,2023-10-06,true
+C00463,Polaris Conseil 463,Lea Roux,lea.roux463@example.com,+33 3 11 70 30 53,Strasbourg,67000,FR,Grand Est,SMB,Retail,2021-10-05,true
+C00464,Echo Systems 464,Manon Richard,manon.richard464@example.com,+33 4 37 79 23 90,Rouen,76000,FR,Normandie,SMB,Secteur public,2024-12-14,true
+C00465,Nova Conseil 465,Emma Morel,emma.morel465@example.com,+33 3 47 35 84 54,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Retail,2021-09-23,true
+C00466,Nova Logistics 466,Manon David,manon.david466@example.com,+33 8 50 83 12 35,Toulouse,31000,FR,Occitanie,SMB,Sante,2024-05-01,true
+C00467,Kappa Systems 467,Lina Roux,lina.roux467@example.com,+33 9 68 29 11 93,Strasbourg,67000,FR,Grand Est,Mid-Market,Secteur public,2024-05-22,true
+C00468,Nexus Retail 468,Noah Dubois,noah.dubois468@example.com,+33 5 54 45 31 28,Montpellier,34000,FR,Occitanie,SMB,Industrie,2020-12-06,true
+C00469,Alto Systems 469,Jade Moreau,jade.moreau469@example.com,+33 3 64 31 17 62,Lille,59000,FR,Hauts-de-France,Mid-Market,Retail,2020-11-12,true
+C00470,Atlas Industries 470,Jade Morel,jade.morel470@example.com,+33 8 59 21 29 66,Lille,59000,FR,Hauts-de-France,Enterprise,Secteur public,2021-08-16,true
+C00471,Atlas Partners 471,Ethan Martin,ethan.martin471@example.com,+33 9 28 20 37 90,Paris,75000,FR,Ile-de-France,Mid-Market,Retail,2021-08-03,true
+C00472,Aster Retail 472,Lucas Bertrand,lucas.bertrand472@example.com,+33 1 30 91 53 45,Rouen,76000,FR,Normandie,SMB,Transport,2026-02-13,true
+C00473,Horizon Services 473,Noah Lefebvre,noah.lefebvre473@example.com,+33 6 50 80 39 47,Toulouse,31000,FR,Occitanie,Mid-Market,Industrie,2026-03-18,true
+C00474,Atlas Systems 474,Ines Martin,ines.martin474@example.com,+33 4 61 57 28 83,Toulouse,31000,FR,Occitanie,Mid-Market,Sante,2025-10-30,true
+C00475,Helios Systems 475,Ethan Martin,ethan.martin475@example.com,+33 6 62 44 46 90,Rennes,35000,FR,Bretagne,SMB,Sante,2020-04-23,true
+C00476,Kappa Retail 476,Ines Morel,ines.morel476@example.com,+33 1 78 35 57 41,Strasbourg,67000,FR,Grand Est,SMB,Telecom,2021-03-10,true
+C00477,Aster Industries 477,Jade Bernard,jade.bernard477@example.com,+33 2 82 95 67 28,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Energie,2026-03-06,true
+C00478,Cobalt Partners 478,Lina Thomas,lina.thomas478@example.com,+33 9 42 40 38 84,Rennes,35000,FR,Bretagne,Enterprise,Retail,2025-04-02,true
+C00479,Aster France 479,Nathan Morel,nathan.morel479@example.com,+33 2 70 96 48 31,Toulouse,31000,FR,Occitanie,Enterprise,Technologie,2024-10-04,true
+C00480,Kappa Retail 480,Paul Martin,paul.martin480@example.com,+33 2 61 41 78 80,Nantes,44000,FR,Pays de la Loire,SMB,Finance,2026-04-24,true
+C00481,Aster Retail 481,Lina Dubois,lina.dubois481@example.com,+33 6 16 78 47 96,Bordeaux,33000,FR,Nouvelle-Aquitaine,Enterprise,Transport,2021-04-22,true
+C00482,Polaris Digital 482,Lucas Laurent,lucas.laurent482@example.com,+33 5 91 23 43 86,Nantes,44000,FR,Pays de la Loire,SMB,Finance,2020-02-23,true
+C00483,Horizon Technologies 483,Manon Bernard,manon.bernard483@example.com,+33 3 13 28 55 60,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Telecom,2022-02-14,true
+C00484,Echo France 484,Sarah Bernard,sarah.bernard484@example.com,+33 4 43 78 47 26,Rouen,76000,FR,Normandie,SMB,Telecom,2023-05-26,true
+C00485,Vertex Group 485,Lea Simon,lea.simon485@example.com,+33 5 78 87 22 50,Rouen,76000,FR,Normandie,SMB,Telecom,2023-01-31,true
+C00486,Aster Digital 486,Alice Morel,alice.morel486@example.com,+33 1 22 43 93 70,Bordeaux,33000,FR,Nouvelle-Aquitaine,Mid-Market,Telecom,2024-08-31,true
+C00487,Aster Logistics 487,Lucas David,lucas.david487@example.com,+33 4 42 56 83 25,Paris,75000,FR,Ile-de-France,Enterprise,Retail,2022-06-15,true
+C00488,Orion Retail 488,Paul Petit,paul.petit488@example.com,+33 1 26 61 74 24,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Secteur public,2021-07-12,true
+C00489,Lumen Logistics 489,Jade Moreau,jade.moreau489@example.com,+33 2 28 35 58 99,Nantes,44000,FR,Pays de la Loire,SMB,Sante,2025-10-12,true
+C00490,Lumen Technologies 490,Jules Fournier,jules.fournier490@example.com,+33 4 86 60 53 74,Montpellier,34000,FR,Occitanie,Mid-Market,Technologie,2022-12-02,true
+C00491,Atlas Digital 491,Noah Durand,noah.durand491@example.com,+33 2 88 70 84 29,Montpellier,34000,FR,Occitanie,SMB,Secteur public,2022-04-22,true
+C00492,Kappa Digital 492,Camille Petit,camille.petit492@example.com,+33 8 10 58 92 16,Bordeaux,33000,FR,Nouvelle-Aquitaine,Enterprise,Finance,2020-04-20,true
+C00493,Horizon France 493,Lea Thomas,lea.thomas493@example.com,+33 4 78 19 12 41,Marseille,13000,FR,Provence-Alpes-Cote d Azur,SMB,Transport,2024-08-15,true
+C00494,Sigma Logistics 494,Manon Bertrand,manon.bertrand494@example.com,+33 7 42 61 58 51,Rouen,76000,FR,Normandie,SMB,Sante,2025-02-04,true
+C00495,Orion Solutions 495,Chloe Richard,chloe.richard495@example.com,+33 2 44 65 75 51,Toulouse,31000,FR,Occitanie,Mid-Market,Retail,2020-03-12,true
+C00496,Orion Industries 496,Jules Richard,jules.richard496@example.com,+33 4 11 24 15 70,Lille,59000,FR,Hauts-de-France,SMB,Finance,2023-12-16,true
+C00497,Axial Technologies 497,Hugo Laurent,hugo.laurent497@example.com,+33 3 40 79 75 46,Paris,75000,FR,Ile-de-France,Enterprise,Sante,2020-06-19,true
+C00498,Cobalt Retail 498,Lucas Lefebvre,lucas.lefebvre498@example.com,+33 1 76 35 54 58,Grenoble,38000,FR,Auvergne-Rhone-Alpes,Enterprise,Secteur public,2020-06-26,true
+C00499,Alto Industries 499,Hugo Leroy,hugo.leroy499@example.com,+33 9 62 44 80 75,Grenoble,38000,FR,Auvergne-Rhone-Alpes,SMB,Telecom,2024-03-02,false
+C00500,Sigma Group 500,Nina Leroy,nina.leroy500@example.com,+33 4 61 94 22 32,Bordeaux,33000,FR,Nouvelle-Aquitaine,SMB,Telecom,2026-01-09,true
