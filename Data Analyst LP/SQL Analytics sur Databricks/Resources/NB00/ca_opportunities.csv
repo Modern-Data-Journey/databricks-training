@@ -1,0 +1,801 @@
+opportunity_id,opportunity_name,created_date,expected_close_date,actual_close_date,customer_id,product_id,salesrep_id,stage,probability,estimated_value,weighted_value,currency,lead_source,next_step
+OPP000001,Horizon Technologies 330 - Lakehouse Starter Enterprise,2023-01-10,2023-07-07,,C00330,P0003,SR012,Prospecting,0.10,124138.25,12413.83,EUR,Website,Technical demo
+OPP000002,Horizon Partners 280 - API Gateway Enterprise,2023-03-24,2023-05-12,,C00280,P0021,SR002,Negotiation,0.75,20735.45,15551.59,EUR,Website,Technical demo
+OPP000003,Vertex Group 485 - ETL Connect Standard,2024-09-17,2024-12-30,,C00485,P0016,SR012,Prospecting,0.10,1025.56,102.56,EUR,Partner,None
+OPP000004,Aster Logistics 072 - Feature Store Advanced,2023-04-13,2023-09-30,,C00072,P0059,SR011,Prospecting,0.10,101754.84,10175.48,EUR,Partner,Follow-up
+OPP000005,Polaris Retail 066 - Training Credits Advanced,2023-08-08,2023-10-01,,C00066,P0068,SR002,Prospecting,0.10,4329.61,432.96,EUR,Partner,Send proposal
+OPP000006,Polaris Conseil 044 - Implementation Pack Standard,2026-04-16,2026-08-18,,C00044,P0061,SR002,Qualification,0.25,6975.97,1743.99,EUR,Partner,None
+OPP000007,Atlas Partners 471 - Feature Store Advanced,2026-07-31,2026-10-24,,C00471,P0059,SR011,Prospecting,0.10,286054.78,28605.48,EUR,Referral,Follow-up
+OPP000008,Vertex Solutions 016 - Architecture Workshop Enterprise,2024-03-19,2024-06-26,2024-04-15,C00016,P0066,SR011,Closed Lost,0.00,15813.65,0.00,EUR,Event,Follow-up
+OPP000009,Axial Solutions 358 - API Gateway Standard,2023-04-17,2023-07-04,2023-09-01,C00358,P0019,SR002,Closed Won,1.00,11866.45,11866.45,EUR,Event,None
+OPP000010,Alto Technologies 410 - ETL Connect Enterprise,2026-08-06,2026-12-19,,C00410,P0018,SR007,Prospecting,0.10,6857.83,685.78,EUR,Outbound,Legal review
+OPP000011,Sigma Technologies 195 - Agent Builder Enterprise,2024-09-15,2025-02-19,,C00195,P0057,SR008,Proposal,0.50,10702.15,5351.07,EUR,Partner,Send proposal
+OPP000012,Aster Services 345 - Data Catalog Standard,2026-05-04,2026-10-23,2026-09-19,C00345,P0013,SR008,Closed Won,1.00,28590.56,28590.56,EUR,Website,Legal review
+OPP000013,Kappa Technologies 067 - File Transfer Hub Standard,2026-08-03,2026-12-10,,C00067,P0025,SR003,Prospecting,0.10,6615.18,661.52,EUR,Referral,Discovery call
+OPP000014,Axial Group 432 - Agent Builder Advanced,2025-05-12,2025-09-03,2025-11-02,C00432,P0056,SR005,Closed Lost,0.00,13220.89,0.00,EUR,Outbound,Technical demo
+OPP000015,Polaris Digital 193 - Warehouse Pro Standard,2025-03-15,2025-04-25,,C00193,P0004,SR011,Prospecting,0.10,232087.57,23208.76,EUR,Partner,None
+OPP000016,Cobalt Conseil 228 - Implementation Pack Advanced,2026-05-07,2026-06-07,2026-09-20,C00228,P0062,SR001,Closed Won,1.00,13148.12,13148.12,EUR,Partner,None
+OPP000017,Horizon Logistics 138 - CDC Connector Standard,2026-04-30,2026-06-23,,C00138,P0022,SR008,Qualification,0.25,22542.44,5635.61,EUR,Referral,Technical demo
+OPP000018,Horizon Logistics 381 - ML Workbench Standard,2024-02-06,2024-02-26,,C00381,P0046,SR009,Prospecting,0.10,15494.88,1549.49,EUR,Partner,Send proposal
+OPP000019,Nexus Solutions 442 - CDC Connector Enterprise,2025-09-08,2026-01-17,,C00442,P0024,SR002,Qualification,0.25,8507.36,2126.84,EUR,Event,Technical demo
+OPP000020,Nexus Logistics 091 - Premium Support Standard,2025-01-20,2025-03-31,,C00091,P0070,SR003,Proposal,0.50,945.88,472.94,EUR,Referral,Discovery call
+OPP000021,Nova Solutions 248 - BI Explorer Enterprise,2024-08-07,2025-01-10,2024-11-30,C00248,P0033,SR002,Closed Won,1.00,426523.38,426523.38,EUR,Referral,Follow-up
+OPP000022,Horizon Partners 280 - Implementation Pack Advanced,2025-09-12,2025-12-13,,C00280,P0062,SR011,Proposal,0.50,42063.20,21031.60,EUR,Website,Follow-up
+OPP000023,Alto Technologies 217 - Architecture Workshop Advanced,2024-10-26,2025-03-13,,C00217,P0065,SR008,Negotiation,0.75,144728.37,108546.28,EUR,Referral,Legal review
+OPP000024,Echo Systems 112 - Warehouse Pro Advanced,2024-05-23,2024-08-21,2024-09-10,C00112,P0005,SR004,Closed Lost,0.00,15290.68,0.00,EUR,Event,Send proposal
+OPP000025,Lumen Conseil 416 - Feature Store Advanced,2023-06-10,2023-10-25,,C00416,P0059,SR004,Proposal,0.50,248330.50,124165.25,EUR,Website,Legal review
+OPP000026,Nexus Logistics 202 - Data Catalog Standard,2024-06-02,2024-06-30,,C00202,P0013,SR009,Qualification,0.25,22175.52,5543.88,EUR,Event,Discovery call
+OPP000027,Alto Services 310 - Implementation Pack Enterprise,2026-07-13,2027-01-04,,C00310,P0063,SR005,Qualification,0.25,278199.84,69549.96,EUR,Outbound,Send proposal
+OPP000028,Helios Partners 328 - Architecture Workshop Standard,2026-04-27,2026-10-20,2026-06-05,C00328,P0064,SR006,Closed Won,1.00,10194.93,10194.93,EUR,Referral,Follow-up
+OPP000029,Echo Digital 367 - ETL Connect Standard,2024-02-08,2024-08-03,2024-05-15,C00367,P0016,SR010,Closed Won,1.00,4331.66,4331.66,EUR,Website,Technical demo
+OPP000030,Alto Group 053 - Agent Builder Advanced,2025-03-17,2025-08-23,,C00053,P0056,SR008,Negotiation,0.75,29415.08,22061.31,EUR,Event,Discovery call
+OPP000031,Alto Group 402 - ML Workbench Advanced,2024-11-19,2025-02-07,,C00402,P0047,SR002,Negotiation,0.75,19863.23,14897.42,EUR,Website,Discovery call
+OPP000032,Nexus Retail 120 - Warehouse Pro Enterprise,2023-12-29,2024-06-01,2024-02-27,C00120,P0006,SR011,Closed Won,1.00,11168.14,11168.14,EUR,Event,Legal review
+OPP000033,Vertex Group 485 - Integration Runtime Enterprise,2024-11-06,2025-04-14,,C00485,P0030,SR010,Prospecting,0.10,63151.89,6315.19,EUR,Referral,Follow-up
+OPP000034,Aster Logistics 487 - Data Catalog Enterprise,2026-05-19,2026-07-13,,C00487,P0015,SR001,Qualification,0.25,190624.71,47656.18,EUR,Referral,Legal review
+OPP000035,Vertex France 303 - ETL Connect Advanced,2024-08-02,2024-12-08,,C00303,P0017,SR003,Proposal,0.50,39349.76,19674.88,EUR,Event,Send proposal
+OPP000036,Sigma Industries 414 - Data Governance Suite Enterprise,2024-08-10,2025-01-23,,C00414,P0012,SR005,Qualification,0.25,82291.80,20572.95,EUR,Website,None
+OPP000037,Sigma Retail 194 - Data Catalog Advanced,2023-08-19,2023-09-29,,C00194,P0014,SR004,Proposal,0.50,124690.04,62345.02,EUR,Referral,Technical demo
+OPP000038,Horizon Logistics 381 - Integration Runtime Enterprise,2024-05-01,2024-10-05,2024-07-09,C00381,P0030,SR012,Closed Lost,0.00,46325.47,0.00,EUR,Referral,Send proposal
+OPP000039,Alto Industries 499 - Warehouse Pro Standard,2024-05-27,2024-07-14,,C00499,P0004,SR002,Proposal,0.50,21552.64,10776.32,EUR,Partner,Discovery call
+OPP000040,Helios Digital 068 - ML Workbench Advanced,2024-08-20,2024-10-13,2024-11-04,C00068,P0047,SR004,Closed Won,1.00,4496.23,4496.23,EUR,Referral,Legal review
+OPP000041,Axial Digital 412 - Dashboard Pro Advanced,2024-01-02,2024-06-29,,C00412,P0035,SR004,Prospecting,0.10,4678.50,467.85,EUR,Partner,Legal review
+OPP000042,Helios Digital 401 - Integration Runtime Advanced,2025-11-03,2026-03-08,,C00401,P0029,SR004,Qualification,0.25,160133.59,40033.40,EUR,Outbound,Technical demo
+OPP000043,Vertex Conseil 334 - Integration Runtime Enterprise,2023-12-27,2024-06-07,2024-04-02,C00334,P0030,SR008,Closed Won,1.00,112105.89,112105.89,EUR,Website,Follow-up
+OPP000044,Nexus Industries 183 - Data Governance Suite Enterprise,2023-01-22,2023-05-02,,C00183,P0012,SR005,Proposal,0.50,319963.10,159981.55,EUR,Website,Legal review
+OPP000045,Polaris Logistics 006 - CDC Connector Advanced,2024-01-03,2024-01-19,,C00006,P0023,SR007,Proposal,0.50,6173.73,3086.86,EUR,Website,Discovery call
+OPP000046,Axial Partners 035 - Architecture Workshop Standard,2023-08-16,2024-01-10,,C00035,P0064,SR011,Prospecting,0.10,679.77,67.98,EUR,Partner,Discovery call
+OPP000047,Alto Group 051 - Premium Support Advanced,2025-09-05,2026-02-19,2025-11-29,C00051,P0071,SR004,Closed Lost,0.00,4209.00,0.00,EUR,Event,None
+OPP000048,Vertex Industries 301 - Data Governance Suite Standard,2023-11-28,2024-01-18,,C00301,P0010,SR012,Qualification,0.25,7947.75,1986.94,EUR,Outbound,Discovery call
+OPP000049,Vertex Conseil 334 - Agent Builder Enterprise,2024-09-03,2025-01-19,,C00334,P0057,SR007,Qualification,0.25,8501.67,2125.42,EUR,Event,Discovery call
+OPP000050,Atlas Partners 471 - Integration Runtime Enterprise,2025-12-27,2026-04-04,2026-02-15,C00471,P0030,SR006,Closed Won,1.00,21656.87,21656.87,EUR,Event,Legal review
+OPP000051,Kappa Group 040 - Data Governance Suite Enterprise,2024-03-11,2024-06-05,2024-06-07,C00040,P0012,SR011,Closed Won,1.00,23112.25,23112.25,EUR,Outbound,Discovery call
+OPP000052,Alto Industries 499 - Reporting Server Standard,2025-05-12,2025-07-23,2025-11-04,C00499,P0043,SR003,Closed Won,1.00,2192.72,2192.72,EUR,Partner,Technical demo
+OPP000053,Aster Logistics 487 - Feature Store Standard,2025-08-17,2026-01-04,2025-10-26,C00487,P0058,SR001,Closed Won,1.00,33726.69,33726.69,EUR,Outbound,Send proposal
+OPP000054,Sigma Services 253 - API Gateway Standard,2024-05-18,2024-08-31,2024-08-11,C00253,P0019,SR009,Closed Lost,0.00,28934.17,0.00,EUR,Partner,Legal review
+OPP000055,Kappa Retail 480 - ML Workbench Enterprise,2026-08-06,2027-01-13,2026-08-21,C00480,P0048,SR007,Closed Won,1.00,111195.05,111195.05,EUR,Website,Discovery call
+OPP000056,Kappa Retail 229 - Vector Search Enterprise,2026-03-24,2026-08-11,,C00229,P0054,SR002,Prospecting,0.10,27663.34,2766.33,EUR,Outbound,Discovery call
+OPP000057,Atlas Industries 293 - BI Explorer Advanced,2025-08-20,2025-10-18,,C00293,P0032,SR011,Negotiation,0.75,62392.93,46794.70,EUR,Outbound,Legal review
+OPP000058,Vertex France 303 - Integration Runtime Advanced,2026-01-16,2026-06-29,,C00303,P0029,SR004,Prospecting,0.10,14293.27,1429.33,EUR,Partner,Send proposal
+OPP000059,Sigma Retail 045 - Warehouse Pro Advanced,2023-03-08,2023-04-21,,C00045,P0005,SR002,Qualification,0.25,13392.71,3348.18,EUR,Referral,Send proposal
+OPP000060,Kappa Retail 229 - Data Catalog Standard,2023-10-03,2023-11-21,,C00229,P0013,SR003,Qualification,0.25,4255.52,1063.88,EUR,Outbound,Send proposal
+OPP000061,Sigma Systems 086 - Streaming Engine Advanced,2025-08-29,2025-09-28,2025-10-26,C00086,P0008,SR011,Closed Won,1.00,4284.17,4284.17,EUR,Partner,Discovery call
+OPP000062,Nova Industries 398 - Training Credits Enterprise,2026-05-27,2026-06-30,,C00398,P0069,SR007,Negotiation,0.75,47065.99,35299.49,EUR,Outbound,Discovery call
+OPP000063,Horizon Technologies 267 - Implementation Pack Enterprise,2025-11-07,2026-03-17,,C00267,P0063,SR007,Qualification,0.25,14313.48,3578.37,EUR,Website,Technical demo
+OPP000064,Polaris Digital 226 - Model Serving Advanced,2024-06-16,2024-09-03,,C00226,P0050,SR001,Prospecting,0.10,3121.13,312.11,EUR,Event,None
+OPP000065,Echo France 312 - Dashboard Pro Advanced,2025-07-03,2025-07-21,2025-08-16,C00312,P0035,SR002,Closed Won,1.00,1317.65,1317.65,EUR,Event,Legal review
+OPP000066,Sigma France 419 - Agent Builder Standard,2024-02-03,2024-05-25,,C00419,P0055,SR005,Proposal,0.50,13637.88,6818.94,EUR,Event,Legal review
+OPP000067,Vertex Conseil 043 - API Gateway Standard,2023-07-03,2023-08-29,,C00043,P0019,SR007,Negotiation,0.75,14142.42,10606.82,EUR,Event,Follow-up
+OPP000068,Cobalt Conseil 218 - ML Workbench Standard,2025-01-18,2025-04-13,,C00218,P0046,SR001,Prospecting,0.10,54207.99,5420.80,EUR,Partner,Discovery call
+OPP000069,Cobalt Services 141 - API Gateway Standard,2026-09-21,2027-03-01,,C00141,P0019,SR011,Qualification,0.25,53563.33,13390.83,EUR,Outbound,Discovery call
+OPP000070,Nexus Logistics 202 - Premium Support Standard,2024-07-04,2024-12-03,2024-08-24,C00202,P0070,SR005,Closed Won,1.00,2323.79,2323.79,EUR,Referral,Technical demo
+OPP000071,Horizon Retail 277 - Training Credits Standard,2025-07-02,2025-11-11,2025-09-09,C00277,P0067,SR007,Closed Lost,0.00,7230.47,0.00,EUR,Event,Discovery call
+OPP000072,Nexus Group 337 - File Transfer Hub Standard,2024-08-24,2024-12-05,,C00337,P0025,SR005,Negotiation,0.75,67812.34,50859.25,EUR,Referral,Send proposal
+OPP000073,Alto Partners 356 - Forecast Studio Enterprise,2023-12-10,2024-01-26,2024-05-17,C00356,P0042,SR005,Closed Lost,0.00,18909.00,0.00,EUR,Referral,Discovery call
+OPP000074,Kappa Technologies 067 - Agent Builder Standard,2025-08-10,2025-10-19,2026-01-17,C00067,P0055,SR009,Closed Won,1.00,1105.10,1105.10,EUR,Partner,Follow-up
+OPP000075,Nexus Partners 390 - Architecture Workshop Enterprise,2026-07-27,2026-12-09,2026-08-20,C00390,P0066,SR006,Closed Won,1.00,52516.19,52516.19,EUR,Referral,Discovery call
+OPP000076,Alto Solutions 150 - Migration Assessment Standard,2023-06-22,2023-12-19,2023-11-17,C00150,P0073,SR002,Closed Won,1.00,22663.89,22663.89,EUR,Event,Discovery call
+OPP000077,Nova Partners 070 - Migration Assessment Standard,2026-08-18,2026-12-27,2026-09-09,C00070,P0073,SR012,Closed Won,1.00,82744.02,82744.02,EUR,Outbound,Legal review
+OPP000078,Cobalt Retail 498 - Dashboard Pro Enterprise,2025-12-03,2026-02-19,,C00498,P0036,SR010,Qualification,0.25,18452.85,4613.21,EUR,Partner,Technical demo
+OPP000079,Sigma Industries 395 - Implementation Pack Standard,2024-07-09,2024-12-31,,C00395,P0061,SR004,Negotiation,0.75,55130.53,41347.90,EUR,Outbound,Legal review
+OPP000080,Nova Retail 315 - Embedded Analytics Advanced,2023-08-26,2023-12-30,,C00315,P0038,SR003,Qualification,0.25,4481.05,1120.26,EUR,Website,Follow-up
+OPP000081,Helios Services 285 - Reporting Server Advanced,2023-10-26,2023-12-11,,C00285,P0044,SR006,Prospecting,0.10,84827.42,8482.74,EUR,Outbound,Discovery call
+OPP000082,Kappa France 290 - Warehouse Pro Enterprise,2024-03-16,2024-05-05,,C00290,P0006,SR002,Proposal,0.50,49789.10,24894.55,EUR,Website,Send proposal
+OPP000083,Echo Services 152 - Migration Assessment Standard,2024-12-15,2025-05-31,2025-03-19,C00152,P0073,SR012,Closed Won,1.00,16262.77,16262.77,EUR,Partner,Send proposal
+OPP000084,Nova Technologies 314 - ML Workbench Enterprise,2025-11-24,2026-05-04,,C00314,P0048,SR005,Qualification,0.25,551327.99,137832.00,EUR,Website,Legal review
+OPP000085,Cobalt Technologies 338 - CDC Connector Advanced,2024-02-29,2024-07-11,,C00338,P0023,SR003,Qualification,0.25,10080.59,2520.15,EUR,Website,Send proposal
+OPP000086,Orion Digital 022 - Training Credits Enterprise,2026-03-14,2026-07-01,,C00022,P0069,SR004,Proposal,0.50,23949.04,11974.52,EUR,Website,Send proposal
+OPP000087,Cobalt Services 279 - Premium Support Enterprise,2026-09-13,2026-11-17,2026-09-18,C00279,P0072,SR008,Closed Won,1.00,13148.19,13148.19,EUR,Partner,Legal review
+OPP000088,Sigma Technologies 366 - Integration Runtime Enterprise,2023-02-25,2023-03-14,2023-03-30,C00366,P0030,SR008,Closed Won,1.00,43252.23,43252.23,EUR,Website,Send proposal
+OPP000089,Atlas Industries 293 - Lakehouse Starter Advanced,2025-06-29,2025-09-25,,C00293,P0002,SR009,Prospecting,0.10,2791.03,279.10,EUR,Referral,Follow-up
+OPP000090,Sigma Industries 414 - Architecture Workshop Enterprise,2025-10-17,2025-11-30,,C00414,P0066,SR003,Qualification,0.25,9856.11,2464.03,EUR,Outbound,Technical demo
+OPP000091,Horizon Partners 123 - Architecture Workshop Enterprise,2023-01-03,2023-02-10,,C00123,P0066,SR012,Qualification,0.25,18040.40,4510.10,EUR,Outbound,Legal review
+OPP000092,Horizon Logistics 181 - Warehouse Pro Advanced,2023-09-12,2024-02-24,2023-12-25,C00181,P0005,SR005,Closed Lost,0.00,219686.71,0.00,EUR,Event,Discovery call
+OPP000093,Polaris Digital 403 - Streaming Engine Advanced,2025-02-28,2025-05-03,2025-06-12,C00403,P0008,SR007,Closed Won,1.00,4012.11,4012.11,EUR,Website,Legal review
+OPP000094,Atlas Logistics 308 - Migration Assessment Enterprise,2023-04-29,2023-05-23,,C00308,P0075,SR002,Negotiation,0.75,39924.34,29943.25,EUR,Outbound,Legal review
+OPP000095,Polaris Partners 180 - Migration Assessment Advanced,2023-11-16,2024-02-12,,C00180,P0074,SR005,Qualification,0.25,163842.88,40960.72,EUR,Outbound,Legal review
+OPP000096,Orion France 446 - Warehouse Pro Enterprise,2026-03-22,2026-04-18,,C00446,P0006,SR005,Proposal,0.50,9417.18,4708.59,EUR,Website,Follow-up
+OPP000097,Nova France 333 - Implementation Pack Advanced,2024-04-16,2024-08-06,,C00333,P0062,SR009,Qualification,0.25,35694.54,8923.64,EUR,Outbound,Legal review
+OPP000098,Echo Logistics 129 - Vector Search Advanced,2025-04-11,2025-06-14,2025-08-14,C00129,P0053,SR008,Closed Won,1.00,10681.86,10681.86,EUR,Partner,None
+OPP000099,Vertex Industries 008 - ETL Connect Standard,2024-10-31,2024-12-30,,C00008,P0016,SR004,Qualification,0.25,1299.79,324.95,EUR,Referral,Follow-up
+OPP000100,Nova France 333 - Model Serving Advanced,2024-04-18,2024-05-11,2024-07-29,C00333,P0050,SR011,Closed Won,1.00,6102.82,6102.82,EUR,Outbound,Discovery call
+OPP000101,Sigma Technologies 195 - ML Workbench Standard,2026-05-24,2026-08-07,,C00195,P0046,SR009,Prospecting,0.10,11071.17,1107.12,EUR,Website,None
+OPP000102,Polaris Services 003 - Feature Store Standard,2024-05-26,2024-09-29,,C00003,P0058,SR002,Negotiation,0.75,7124.13,5343.10,EUR,Referral,Discovery call
+OPP000103,Axial Digital 225 - API Gateway Standard,2025-09-07,2025-10-03,2025-12-22,C00225,P0019,SR012,Closed Lost,0.00,19146.56,0.00,EUR,Referral,Technical demo
+OPP000104,Horizon Logistics 381 - Lakehouse Starter Standard,2023-09-11,2024-02-02,,C00381,P0001,SR006,Proposal,0.50,1501.63,750.82,EUR,Outbound,Follow-up
+OPP000105,Helios Technologies 023 - Feature Store Enterprise,2024-06-14,2024-11-26,,C00023,P0060,SR006,Qualification,0.25,58745.26,14686.32,EUR,Referral,Send proposal
+OPP000106,Atlas France 038 - Implementation Pack Standard,2024-11-19,2024-12-24,,C00038,P0061,SR003,Proposal,0.50,99338.64,49669.32,EUR,Website,Technical demo
+OPP000107,Helios Services 420 - Vector Search Enterprise,2023-02-01,2023-03-30,2023-03-30,C00420,P0054,SR002,Closed Won,1.00,285860.99,285860.99,EUR,Partner,Send proposal
+OPP000108,Polaris Digital 403 - Embedded Analytics Enterprise,2023-12-23,2024-05-17,,C00403,P0039,SR002,Negotiation,0.75,52219.58,39164.68,EUR,Website,Discovery call
+OPP000109,Vertex Industries 170 - ML Workbench Standard,2025-03-28,2025-05-30,2025-07-31,C00170,P0046,SR010,Closed Lost,0.00,4880.52,0.00,EUR,Outbound,Discovery call
+OPP000110,Lumen Conseil 416 - Agent Builder Enterprise,2024-09-10,2025-02-18,2025-02-24,C00416,P0057,SR002,Closed Won,1.00,71835.66,71835.66,EUR,Referral,None
+OPP000111,Alto Digital 148 - Architecture Workshop Standard,2025-02-11,2025-04-25,,C00148,P0064,SR006,Prospecting,0.10,1334.95,133.50,EUR,Partner,Send proposal
+OPP000112,Polaris Industries 430 - Model Serving Standard,2024-09-16,2024-11-01,,C00430,P0049,SR009,Negotiation,0.75,9786.49,7339.87,EUR,Partner,Legal review
+OPP000113,Nexus France 261 - Embedded Analytics Standard,2025-04-03,2025-06-07,,C00261,P0037,SR007,Proposal,0.50,152669.77,76334.88,EUR,Website,None
+OPP000114,Aster France 479 - Migration Assessment Standard,2025-05-07,2025-05-23,2025-06-15,C00479,P0073,SR006,Closed Lost,0.00,18379.43,0.00,EUR,Event,Follow-up
+OPP000115,Orion France 446 - Data Governance Suite Enterprise,2026-07-16,2026-10-11,2026-07-26,C00446,P0012,SR003,Closed Lost,0.00,151500.29,0.00,EUR,Outbound,None
+OPP000116,Echo Conseil 440 - Dashboard Pro Advanced,2023-12-20,2024-05-15,2024-03-16,C00440,P0035,SR006,Closed Won,1.00,33943.57,33943.57,EUR,Outbound,Discovery call
+OPP000117,Lumen Digital 083 - Architecture Workshop Advanced,2024-12-16,2025-01-24,,C00083,P0065,SR008,Prospecting,0.10,4866.16,486.62,EUR,Event,Technical demo
+OPP000118,Atlas France 346 - Migration Assessment Enterprise,2024-02-26,2024-04-16,2024-03-23,C00346,P0075,SR005,Closed Won,1.00,11428.97,11428.97,EUR,Website,Technical demo
+OPP000119,Aster Partners 316 - Embedded Analytics Standard,2023-10-16,2023-11-10,2024-01-12,C00316,P0037,SR009,Closed Won,1.00,36562.95,36562.95,EUR,Partner,Discovery call
+OPP000120,Axial Industries 144 - Data Catalog Enterprise,2025-12-05,2026-04-14,2026-02-22,C00144,P0015,SR010,Closed Lost,0.00,461255.88,0.00,EUR,Referral,Discovery call
+OPP000121,Polaris Solutions 351 - BI Explorer Enterprise,2026-02-22,2026-03-12,,C00351,P0033,SR006,Proposal,0.50,29563.16,14781.58,EUR,Partner,None
+OPP000122,Horizon Group 078 - Lakehouse Starter Advanced,2023-09-12,2023-11-12,,C00078,P0002,SR006,Qualification,0.25,5399.09,1349.77,EUR,Referral,Legal review
+OPP000123,Cobalt Retail 002 - Data Catalog Enterprise,2024-06-08,2024-09-21,,C00002,P0015,SR004,Negotiation,0.75,25016.70,18762.53,EUR,Outbound,None
+OPP000124,Sigma Technologies 039 - ML Workbench Standard,2025-10-14,2026-01-24,,C00039,P0046,SR004,Negotiation,0.75,13811.19,10358.39,EUR,Partner,Technical demo
+OPP000125,Helios Solutions 005 - Training Credits Advanced,2025-08-12,2026-01-17,,C00005,P0068,SR007,Prospecting,0.10,3680.10,368.01,EUR,Partner,Technical demo
+OPP000126,Alto Digital 190 - Implementation Pack Standard,2025-06-18,2025-08-22,2025-07-02,C00190,P0061,SR002,Closed Lost,0.00,33550.93,0.00,EUR,Partner,Send proposal
+OPP000127,Echo Group 185 - Streaming Engine Standard,2024-07-21,2024-08-15,,C00185,P0007,SR012,Negotiation,0.75,31366.25,23524.69,EUR,Website,Technical demo
+OPP000128,Polaris Industries 240 - Forecast Studio Standard,2024-03-08,2024-07-08,,C00240,P0040,SR009,Proposal,0.50,31791.73,15895.86,EUR,Referral,Legal review
+OPP000129,Cobalt Technologies 110 - Training Credits Enterprise,2025-01-19,2025-03-19,,C00110,P0069,SR002,Prospecting,0.10,23799.35,2379.93,EUR,Outbound,Discovery call
+OPP000130,Helios Partners 428 - Training Credits Standard,2023-01-09,2023-04-16,2023-06-09,C00428,P0067,SR007,Closed Lost,0.00,32519.20,0.00,EUR,Referral,Discovery call
+OPP000131,Horizon France 201 - Architecture Workshop Enterprise,2024-01-02,2024-02-12,,C00201,P0066,SR003,Proposal,0.50,4421.59,2210.80,EUR,Partner,None
+OPP000132,Orion Logistics 309 - BI Explorer Enterprise,2026-08-11,2026-11-15,,C00309,P0033,SR006,Proposal,0.50,35050.61,17525.31,EUR,Referral,Technical demo
+OPP000133,Atlas Digital 449 - Vector Search Enterprise,2025-12-22,2026-03-07,2026-05-18,C00449,P0054,SR012,Closed Won,1.00,361709.98,361709.98,EUR,Partner,Technical demo
+OPP000134,Atlas Solutions 298 - Lakehouse Starter Enterprise,2026-01-09,2026-04-23,,C00298,P0003,SR004,Negotiation,0.75,124501.43,93376.07,EUR,Event,Send proposal
+OPP000135,Horizon Systems 126 - Streaming Engine Enterprise,2026-08-08,2026-10-29,,C00126,P0009,SR002,Proposal,0.50,90972.58,45486.29,EUR,Referral,Legal review
+OPP000136,Helios Systems 393 - Vector Search Advanced,2023-05-10,2023-08-17,,C00393,P0053,SR003,Qualification,0.25,16825.30,4206.32,EUR,Website,Technical demo
+OPP000137,Axial Digital 225 - Forecast Studio Enterprise,2024-11-15,2024-11-30,,C00225,P0042,SR007,Proposal,0.50,31786.07,15893.03,EUR,Event,Send proposal
+OPP000138,Polaris Partners 180 - Migration Assessment Advanced,2026-02-26,2026-04-02,,C00180,P0074,SR006,Qualification,0.25,27449.70,6862.43,EUR,Referral,None
+OPP000139,Axial Partners 035 - Vector Search Advanced,2023-08-22,2023-10-30,,C00035,P0053,SR003,Qualification,0.25,6436.93,1609.23,EUR,Outbound,Send proposal
+OPP000140,Lumen Logistics 373 - Warehouse Pro Advanced,2025-01-30,2025-04-30,,C00373,P0005,SR010,Prospecting,0.10,40010.96,4001.10,EUR,Referral,None
+OPP000141,Echo Partners 108 - CDC Connector Advanced,2023-06-09,2023-10-22,,C00108,P0023,SR009,Prospecting,0.10,1711.53,171.15,EUR,Website,Legal review
+OPP000142,Atlas Digital 236 - Implementation Pack Advanced,2025-03-26,2025-04-17,2025-06-18,C00236,P0062,SR007,Closed Won,1.00,14024.88,14024.88,EUR,Partner,Send proposal
+OPP000143,Horizon Group 078 - Agent Builder Enterprise,2025-08-14,2025-11-04,,C00078,P0057,SR010,Prospecting,0.10,16443.78,1644.38,EUR,Website,Technical demo
+OPP000144,Sigma Digital 249 - Architecture Workshop Enterprise,2024-02-05,2024-04-28,,C00249,P0066,SR009,Proposal,0.50,17636.47,8818.24,EUR,Event,Discovery call
+OPP000145,Vertex Industries 170 - Premium Support Enterprise,2026-06-19,2026-11-13,2026-08-02,C00170,P0072,SR006,Closed Won,1.00,47344.23,47344.23,EUR,Referral,Technical demo
+OPP000146,Cobalt Industries 175 - Data Governance Suite Advanced,2023-11-03,2024-02-24,,C00175,P0011,SR009,Prospecting,0.10,11697.26,1169.73,EUR,Outbound,None
+OPP000147,Nexus Partners 390 - Integration Runtime Advanced,2026-01-16,2026-03-20,,C00390,P0029,SR007,Proposal,0.50,56486.12,28243.06,EUR,Referral,Discovery call
+OPP000148,Polaris Digital 403 - Streaming Engine Standard,2025-10-26,2025-11-16,2025-11-20,C00403,P0007,SR005,Closed Won,1.00,34276.06,34276.06,EUR,Outbound,Send proposal
+OPP000149,Nova Group 033 - Architecture Workshop Enterprise,2023-10-19,2024-02-13,,C00033,P0066,SR002,Prospecting,0.10,11926.92,1192.69,EUR,Event,Follow-up
+OPP000150,Helios Logistics 336 - Integration Runtime Standard,2025-01-29,2025-02-21,2025-06-04,C00336,P0028,SR004,Closed Lost,0.00,3120.39,0.00,EUR,Website,Follow-up
+OPP000151,Axial Partners 107 - CDC Connector Standard,2023-05-12,2023-10-25,2023-06-04,C00107,P0022,SR001,Closed Lost,0.00,23381.38,0.00,EUR,Outbound,Follow-up
+OPP000152,Aster Conseil 320 - Implementation Pack Standard,2025-08-05,2025-10-12,,C00320,P0061,SR001,Negotiation,0.75,17217.95,12913.46,EUR,Partner,Send proposal
+OPP000153,Sigma Industries 046 - Migration Assessment Advanced,2024-11-30,2025-03-22,,C00046,P0074,SR002,Prospecting,0.10,21947.30,2194.73,EUR,Website,None
+OPP000154,Alto Conseil 095 - Data Governance Suite Standard,2023-05-14,2023-07-22,2023-10-05,C00095,P0010,SR008,Closed Won,1.00,10237.70,10237.70,EUR,Referral,Legal review
+OPP000155,Nova France 122 - File Transfer Hub Enterprise,2026-08-28,2027-01-02,,C00122,P0027,SR012,Proposal,0.50,42674.32,21337.16,EUR,Outbound,Legal review
+OPP000156,Atlas Group 177 - BI Explorer Standard,2025-02-01,2025-03-21,,C00177,P0031,SR004,Prospecting,0.10,45224.20,4522.42,EUR,Website,Send proposal
+OPP000157,Alto Retail 307 - Streaming Engine Standard,2024-03-08,2024-07-13,,C00307,P0007,SR006,Prospecting,0.10,74234.66,7423.47,EUR,Partner,Legal review
+OPP000158,Orion Logistics 309 - Forecast Studio Standard,2024-03-26,2024-06-25,2024-04-05,C00309,P0040,SR009,Closed Won,1.00,38789.49,38789.49,EUR,Outbound,None
+OPP000159,Kappa Solutions 379 - Model Serving Advanced,2026-06-10,2026-11-30,,C00379,P0050,SR005,Prospecting,0.10,46300.13,4630.01,EUR,Referral,Send proposal
+OPP000160,Aster Conseil 320 - ETL Connect Advanced,2024-11-17,2025-02-28,,C00320,P0017,SR012,Qualification,0.25,60585.09,15146.27,EUR,Referral,None
+OPP000161,Horizon Systems 353 - Premium Support Advanced,2025-10-28,2026-03-14,,C00353,P0071,SR011,Qualification,0.25,3924.50,981.12,EUR,Event,None
+OPP000162,Alto Digital 148 - Streaming Engine Standard,2025-11-25,2026-05-12,,C00148,P0007,SR011,Qualification,0.25,233903.12,58475.78,EUR,Partner,Legal review
+OPP000163,Echo Logistics 025 - Feature Store Standard,2023-02-09,2023-07-08,,C00025,P0058,SR008,Qualification,0.25,7887.22,1971.81,EUR,Outbound,Technical demo
+OPP000164,Sigma Retail 010 - Reporting Server Enterprise,2024-12-09,2025-01-27,,C00010,P0045,SR001,Proposal,0.50,6194.92,3097.46,EUR,Partner,None
+OPP000165,Aster Logistics 072 - Model Serving Enterprise,2024-03-12,2024-08-12,2024-08-04,C00072,P0051,SR012,Closed Won,1.00,341640.67,341640.67,EUR,Referral,Discovery call
+OPP000166,Nova France 426 - Lakehouse Starter Advanced,2024-10-20,2025-03-13,,C00426,P0002,SR003,Prospecting,0.10,5601.72,560.17,EUR,Referral,Legal review
+OPP000167,Axial France 417 - Forecast Studio Enterprise,2025-04-28,2025-09-25,,C00417,P0042,SR004,Qualification,0.25,13447.86,3361.97,EUR,Website,Discovery call
+OPP000168,Horizon Partners 280 - Implementation Pack Advanced,2026-08-15,2026-09-08,,C00280,P0062,SR003,Qualification,0.25,204435.67,51108.92,EUR,Website,Legal review
+OPP000169,Axial Digital 197 - Streaming Engine Standard,2023-12-08,2024-05-16,2024-04-07,C00197,P0007,SR008,Closed Won,1.00,47566.30,47566.30,EUR,Event,Follow-up
+OPP000170,Echo Partners 384 - Agent Builder Standard,2025-03-15,2025-06-15,,C00384,P0055,SR011,Qualification,0.25,2633.25,658.31,EUR,Referral,Legal review
+OPP000171,Cobalt Industries 233 - Agent Builder Standard,2023-01-29,2023-06-04,,C00233,P0055,SR008,Negotiation,0.75,10740.97,8055.73,EUR,Website,None
+OPP000172,Nova Technologies 343 - Reporting Server Advanced,2024-06-12,2024-11-05,,C00343,P0044,SR007,Prospecting,0.10,45441.33,4544.13,EUR,Event,Legal review
+OPP000173,Aster Retail 481 - Vector Search Advanced,2026-03-21,2026-05-01,,C00481,P0053,SR009,Qualification,0.25,9870.46,2467.61,EUR,Partner,None
+OPP000174,Axial Technologies 085 - Vector Search Advanced,2023-05-01,2023-06-22,,C00085,P0053,SR009,Qualification,0.25,6728.29,1682.07,EUR,Website,Send proposal
+OPP000175,Polaris Digital 047 - Training Credits Advanced,2026-02-19,2026-04-09,,C00047,P0068,SR011,Qualification,0.25,13222.97,3305.74,EUR,Event,Technical demo
+OPP000176,Atlas Solutions 042 - CDC Connector Enterprise,2025-03-22,2025-07-03,,C00042,P0024,SR008,Proposal,0.50,19013.16,9506.58,EUR,Event,None
+OPP000177,Nexus Conseil 231 - Feature Store Enterprise,2023-07-16,2023-10-10,2023-10-05,C00231,P0060,SR008,Closed Lost,0.00,261263.64,0.00,EUR,Event,None
+OPP000178,Axial Partners 035 - Architecture Workshop Standard,2023-12-27,2024-03-18,,C00035,P0064,SR012,Negotiation,0.75,1934.66,1451.00,EUR,Referral,Send proposal
+OPP000179,Horizon France 201 - Reporting Server Standard,2023-05-06,2023-06-18,2023-09-05,C00201,P0043,SR003,Closed Lost,0.00,1340.49,0.00,EUR,Website,None
+OPP000180,Polaris Industries 430 - Vector Search Standard,2024-11-18,2025-02-17,,C00430,P0052,SR005,Negotiation,0.75,42676.86,32007.65,EUR,Website,Discovery call
+OPP000181,Sigma France 419 - Dashboard Pro Advanced,2023-03-23,2023-06-22,2023-05-17,C00419,P0035,SR003,Closed Won,1.00,1591.66,1591.66,EUR,Referral,Follow-up
+OPP000182,Atlas France 038 - Embedded Analytics Advanced,2024-12-25,2025-05-19,,C00038,P0038,SR006,Qualification,0.25,3641.87,910.47,EUR,Website,Legal review
+OPP000183,Nova Logistics 369 - Forecast Studio Standard,2025-10-03,2026-03-22,,C00369,P0040,SR002,Prospecting,0.10,171688.13,17168.81,EUR,Website,Discovery call
+OPP000184,Vertex France 262 - Warehouse Pro Enterprise,2025-06-18,2025-08-17,,C00262,P0006,SR012,Proposal,0.50,41487.92,20743.96,EUR,Referral,Send proposal
+OPP000185,Nova Solutions 271 - Reporting Server Enterprise,2025-06-08,2025-08-22,2025-10-10,C00271,P0045,SR012,Closed Lost,0.00,20365.01,0.00,EUR,Referral,Send proposal
+OPP000186,Nexus Solutions 442 - ML Workbench Standard,2023-04-09,2023-05-27,,C00442,P0046,SR001,Qualification,0.25,47512.77,11878.19,EUR,Outbound,None
+OPP000187,Horizon Industries 204 - Vector Search Enterprise,2024-05-17,2024-06-22,,C00204,P0054,SR004,Prospecting,0.10,65921.78,6592.18,EUR,Outbound,Technical demo
+OPP000188,Aster Retail 472 - Warehouse Pro Enterprise,2024-08-21,2024-09-18,,C00472,P0006,SR002,Negotiation,0.75,5817.86,4363.39,EUR,Event,Discovery call
+OPP000189,Aster Systems 396 - Model Serving Standard,2024-03-30,2024-04-23,,C00396,P0049,SR001,Prospecting,0.10,15497.78,1549.78,EUR,Outbound,Legal review
+OPP000190,Helios Solutions 005 - Reporting Server Standard,2026-08-01,2026-10-16,,C00005,P0043,SR010,Prospecting,0.10,3621.54,362.15,EUR,Event,Discovery call
+OPP000191,Sigma Retail 174 - ETL Connect Advanced,2025-10-16,2026-03-06,,C00174,P0017,SR006,Prospecting,0.10,26435.66,2643.57,EUR,Referral,Follow-up
+OPP000192,Nova Logistics 269 - Integration Runtime Enterprise,2023-05-14,2023-08-09,2023-06-23,C00269,P0030,SR002,Closed Won,1.00,48392.70,48392.70,EUR,Event,Follow-up
+OPP000193,Polaris Services 003 - BI Explorer Enterprise,2024-04-09,2024-05-26,,C00003,P0033,SR012,Qualification,0.25,21481.83,5370.46,EUR,Outbound,Send proposal
+OPP000194,Nexus Partners 188 - File Transfer Hub Advanced,2023-01-26,2023-03-30,2023-05-13,C00188,P0026,SR012,Closed Lost,0.00,15965.98,0.00,EUR,Referral,Legal review
+OPP000195,Nexus Logistics 091 - BI Explorer Enterprise,2024-01-19,2024-02-26,2024-06-29,C00091,P0033,SR011,Closed Won,1.00,24711.97,24711.97,EUR,Referral,Send proposal
+OPP000196,Sigma Digital 370 - ML Workbench Advanced,2024-01-06,2024-04-28,,C00370,P0047,SR011,Qualification,0.25,55728.51,13932.13,EUR,Partner,Legal review
+OPP000197,Helios Systems 441 - ML Workbench Enterprise,2023-05-21,2023-08-24,,C00441,P0048,SR002,Proposal,0.50,89915.44,44957.72,EUR,Outbound,Follow-up
+OPP000198,Horizon Industries 204 - File Transfer Hub Enterprise,2025-08-07,2026-01-23,,C00204,P0027,SR010,Proposal,0.50,178266.16,89133.08,EUR,Website,Technical demo
+OPP000199,Kappa Digital 121 - Data Catalog Advanced,2023-06-16,2023-09-14,,C00121,P0014,SR003,Prospecting,0.10,36261.19,3626.12,EUR,Referral,Legal review
+OPP000200,Aster Digital 486 - Vector Search Standard,2026-01-26,2026-04-19,,C00486,P0052,SR006,Qualification,0.25,4232.61,1058.15,EUR,Website,Send proposal
+OPP000201,Horizon Technologies 483 - Premium Support Enterprise,2025-07-01,2025-11-02,,C00483,P0072,SR011,Prospecting,0.10,3316.30,331.63,EUR,Partner,Legal review
+OPP000202,Lumen Conseil 425 - Architecture Workshop Standard,2023-03-24,2023-08-28,,C00425,P0064,SR001,Prospecting,0.10,1853.79,185.38,EUR,Website,Technical demo
+OPP000203,Helios Services 420 - Integration Runtime Enterprise,2024-09-04,2024-12-18,,C00420,P0030,SR010,Prospecting,0.10,82298.24,8229.82,EUR,Outbound,Legal review
+OPP000204,Axial Solutions 232 - BI Explorer Enterprise,2024-03-12,2024-09-08,2024-08-25,C00232,P0033,SR009,Closed Lost,0.00,17108.28,0.00,EUR,Partner,Discovery call
+OPP000205,Helios Group 238 - Lakehouse Starter Standard,2026-03-05,2026-06-13,2026-07-16,C00238,P0001,SR012,Closed Won,1.00,1914.15,1914.15,EUR,Partner,Follow-up
+OPP000206,Axial Services 134 - Feature Store Standard,2024-10-22,2025-03-02,2025-02-21,C00134,P0058,SR005,Closed Won,1.00,62486.54,62486.54,EUR,Outbound,Send proposal
+OPP000207,Horizon Retail 257 - Feature Store Enterprise,2023-01-22,2023-05-05,,C00257,P0060,SR011,Qualification,0.25,81951.96,20487.99,EUR,Website,Technical demo
+OPP000208,Alto Services 447 - Dashboard Pro Standard,2025-07-31,2025-10-14,2025-12-17,C00447,P0034,SR004,Closed Won,1.00,608.29,608.29,EUR,Website,Discovery call
+OPP000209,Aster Digital 486 - ML Workbench Enterprise,2025-03-15,2025-09-07,,C00486,P0048,SR001,Proposal,0.50,36081.27,18040.63,EUR,Website,Follow-up
+OPP000210,Orion Digital 022 - Integration Runtime Standard,2023-11-07,2023-12-18,2024-04-29,C00022,P0028,SR007,Closed Lost,0.00,1090.85,0.00,EUR,Website,Follow-up
+OPP000211,Echo Digital 367 - File Transfer Hub Standard,2023-01-21,2023-05-20,,C00367,P0025,SR003,Negotiation,0.75,107013.25,80259.94,EUR,Website,None
+OPP000212,Axial Solutions 232 - Data Governance Suite Enterprise,2025-08-26,2025-12-23,,C00232,P0012,SR007,Negotiation,0.75,44520.99,33390.74,EUR,Referral,Discovery call
+OPP000213,Aster Systems 234 - File Transfer Hub Enterprise,2025-02-25,2025-05-30,2025-06-18,C00234,P0027,SR004,Closed Won,1.00,68290.18,68290.18,EUR,Partner,Legal review
+OPP000214,Polaris France 167 - Implementation Pack Standard,2023-03-10,2023-08-06,,C00167,P0061,SR007,Prospecting,0.10,15523.84,1552.38,EUR,Outbound,Technical demo
+OPP000215,Horizon Technologies 119 - Lakehouse Starter Enterprise,2024-09-16,2024-12-21,,C00119,P0003,SR011,Proposal,0.50,23730.48,11865.24,EUR,Website,Technical demo
+OPP000216,Orion Logistics 136 - File Transfer Hub Advanced,2025-11-04,2026-02-03,,C00136,P0026,SR009,Qualification,0.25,68063.09,17015.77,EUR,Partner,Legal review
+OPP000217,Vertex France 375 - Reporting Server Standard,2025-06-25,2025-11-01,2025-11-11,C00375,P0043,SR002,Closed Won,1.00,5410.40,5410.40,EUR,Outbound,Discovery call
+OPP000218,Axial Group 397 - File Transfer Hub Standard,2024-12-21,2025-05-28,,C00397,P0025,SR006,Proposal,0.50,21477.46,10738.73,EUR,Referral,Follow-up
+OPP000219,Nexus Solutions 387 - Warehouse Pro Standard,2023-10-28,2024-04-07,2024-04-08,C00387,P0004,SR011,Closed Lost,0.00,31184.55,0.00,EUR,Referral,Send proposal
+OPP000220,Aster Industries 299 - Premium Support Enterprise,2025-04-04,2025-05-14,,C00299,P0072,SR008,Qualification,0.25,14596.41,3649.10,EUR,Outbound,Follow-up
+OPP000221,Atlas Industries 293 - Agent Builder Enterprise,2025-05-07,2025-06-25,,C00293,P0057,SR011,Prospecting,0.10,19500.76,1950.08,EUR,Outbound,Follow-up
+OPP000222,Alto Partners 311 - Data Catalog Standard,2026-02-21,2026-06-26,,C00311,P0013,SR006,Proposal,0.50,27608.30,13804.15,EUR,Outbound,Send proposal
+OPP000223,Cobalt Digital 213 - Data Catalog Enterprise,2026-08-13,2026-10-13,,C00213,P0015,SR005,Proposal,0.50,629273.04,314636.52,EUR,Partner,Discovery call
+OPP000224,Polaris Group 399 - Reporting Server Enterprise,2023-07-30,2024-01-18,,C00399,P0045,SR003,Prospecting,0.10,32054.72,3205.47,EUR,Event,Technical demo
+OPP000225,Orion Partners 024 - Feature Store Enterprise,2024-02-25,2024-08-12,,C00024,P0060,SR005,Qualification,0.25,249037.12,62259.28,EUR,Outbound,Legal review
+OPP000226,Sigma Services 253 - Premium Support Standard,2023-07-01,2023-08-03,2023-11-11,C00253,P0070,SR001,Closed Won,1.00,1102.86,1102.86,EUR,Event,None
+OPP000227,Helios Systems 147 - Migration Assessment Standard,2025-08-23,2025-10-16,,C00147,P0073,SR009,Prospecting,0.10,8682.98,868.30,EUR,Partner,Technical demo
+OPP000228,Alto Partners 356 - Embedded Analytics Advanced,2024-04-08,2024-07-01,2024-09-16,C00356,P0038,SR003,Closed Won,1.00,5131.16,5131.16,EUR,Website,Technical demo
+OPP000229,Axial Industries 429 - Migration Assessment Standard,2024-10-24,2025-03-09,2024-12-07,C00429,P0073,SR003,Closed Won,1.00,8701.68,8701.68,EUR,Website,Discovery call
+OPP000230,Polaris Solutions 079 - API Gateway Advanced,2024-04-14,2024-10-10,2024-05-10,C00079,P0020,SR009,Closed Won,1.00,163322.88,163322.88,EUR,Partner,Legal review
+OPP000231,Orion Logistics 127 - File Transfer Hub Enterprise,2024-11-15,2024-12-22,,C00127,P0027,SR002,Negotiation,0.75,148962.21,111721.66,EUR,Event,Follow-up
+OPP000232,Echo Group 266 - Architecture Workshop Standard,2024-11-16,2025-05-01,2025-03-05,C00266,P0064,SR011,Closed Won,1.00,1889.74,1889.74,EUR,Outbound,Discovery call
+OPP000233,Cobalt Group 462 - Training Credits Standard,2023-08-27,2023-09-24,,C00462,P0067,SR005,Prospecting,0.10,72483.37,7248.34,EUR,Partner,None
+OPP000234,Helios Systems 393 - Architecture Workshop Standard,2024-06-15,2024-11-24,2024-09-20,C00393,P0064,SR003,Closed Won,1.00,2272.40,2272.40,EUR,Website,None
+OPP000235,Alto Retail 355 - ML Workbench Standard,2023-10-30,2023-12-21,,C00355,P0046,SR001,Negotiation,0.75,12040.07,9030.05,EUR,Event,Technical demo
+OPP000236,Polaris Digital 047 - Feature Store Standard,2026-06-21,2026-08-15,,C00047,P0058,SR003,Prospecting,0.10,37680.97,3768.10,EUR,Referral,Follow-up
+OPP000237,Orion Logistics 309 - Feature Store Enterprise,2026-05-13,2026-07-03,,C00309,P0060,SR001,Prospecting,0.10,218888.37,21888.84,EUR,Partner,Follow-up
+OPP000238,Aster Logistics 072 - Agent Builder Standard,2025-02-02,2025-04-29,,C00072,P0055,SR006,Proposal,0.50,6574.35,3287.18,EUR,Referral,Legal review
+OPP000239,Cobalt Logistics 115 - API Gateway Enterprise,2024-12-24,2025-01-18,,C00115,P0021,SR001,Qualification,0.25,29864.24,7466.06,EUR,Website,Discovery call
+OPP000240,Alto Group 053 - Data Governance Suite Advanced,2025-12-16,2026-02-25,,C00053,P0011,SR012,Negotiation,0.75,13522.62,10141.97,EUR,Website,Technical demo
+OPP000241,Horizon Solutions 172 - Reporting Server Standard,2025-06-02,2025-11-26,2025-11-07,C00172,P0043,SR007,Closed Lost,0.00,1493.57,0.00,EUR,Referral,None
+OPP000242,Lumen Retail 227 - Data Catalog Advanced,2026-07-12,2027-01-02,,C00227,P0014,SR001,Prospecting,0.10,40741.24,4074.12,EUR,Website,Send proposal
+OPP000243,Horizon Partners 123 - Migration Assessment Advanced,2023-08-09,2024-02-05,,C00123,P0074,SR003,Qualification,0.25,9242.94,2310.74,EUR,Event,Discovery call
+OPP000244,Horizon Logistics 138 - BI Explorer Enterprise,2024-11-14,2025-03-01,,C00138,P0033,SR003,Negotiation,0.75,207481.94,155611.46,EUR,Outbound,Technical demo
+OPP000245,Atlas France 038 - ETL Connect Enterprise,2025-11-29,2026-02-05,,C00038,P0018,SR007,Qualification,0.25,3810.72,952.68,EUR,Referral,Discovery call
+OPP000246,Lumen Technologies 260 - Integration Runtime Standard,2024-04-09,2024-06-06,,C00260,P0028,SR003,Qualification,0.25,12600.44,3150.11,EUR,Outbound,Discovery call
+OPP000247,Alto Services 014 - ML Workbench Advanced,2025-09-29,2026-03-08,,C00014,P0047,SR011,Qualification,0.25,29454.77,7363.69,EUR,Website,Discovery call
+OPP000248,Polaris Solutions 351 - Agent Builder Advanced,2025-02-14,2025-07-11,2025-04-14,C00351,P0056,SR004,Closed Won,1.00,162778.56,162778.56,EUR,Referral,Follow-up
+OPP000249,Nova Partners 070 - File Transfer Hub Enterprise,2026-02-27,2026-06-24,2026-08-25,C00070,P0027,SR005,Closed Lost,0.00,23679.02,0.00,EUR,Partner,Technical demo
+OPP000250,Sigma France 419 - File Transfer Hub Advanced,2026-01-04,2026-06-18,,C00419,P0026,SR001,Proposal,0.50,9365.65,4682.82,EUR,Website,None
+OPP000251,Alto Systems 111 - Data Governance Suite Advanced,2023-08-25,2023-10-29,,C00111,P0011,SR009,Proposal,0.50,9481.94,4740.97,EUR,Outbound,Send proposal
+OPP000252,Vertex Industries 008 - Implementation Pack Standard,2023-09-30,2023-11-12,2024-03-12,C00008,P0061,SR008,Closed Won,1.00,3807.21,3807.21,EUR,Website,Send proposal
+OPP000253,Echo Services 235 - Embedded Analytics Enterprise,2026-02-23,2026-03-27,,C00235,P0039,SR011,Prospecting,0.10,33273.24,3327.32,EUR,Event,None
+OPP000254,Cobalt France 128 - ETL Connect Advanced,2024-09-22,2024-12-26,,C00128,P0017,SR007,Prospecting,0.10,82482.86,8248.29,EUR,Referral,Discovery call
+OPP000255,Aster Retail 011 - Architecture Workshop Advanced,2023-04-16,2023-09-27,,C00011,P0065,SR007,Negotiation,0.75,6604.46,4953.35,EUR,Event,Send proposal
+OPP000256,Polaris Partners 180 - Data Catalog Enterprise,2025-12-16,2026-06-14,,C00180,P0015,SR010,Negotiation,0.75,470545.92,352909.44,EUR,Outbound,Technical demo
+OPP000257,Vertex Systems 200 - Integration Runtime Advanced,2024-05-24,2024-08-02,,C00200,P0029,SR004,Prospecting,0.10,332808.02,33280.80,EUR,Event,None
+OPP000258,Polaris Partners 180 - Integration Runtime Advanced,2024-06-25,2024-07-26,,C00180,P0029,SR010,Prospecting,0.10,89056.41,8905.64,EUR,Referral,None
+OPP000259,Sigma Logistics 132 - Vector Search Standard,2026-01-26,2026-03-02,2026-07-22,C00132,P0052,SR002,Closed Won,1.00,18239.94,18239.94,EUR,Referral,Discovery call
+OPP000260,Echo Logistics 031 - Streaming Engine Enterprise,2025-01-24,2025-07-08,,C00031,P0009,SR002,Qualification,0.25,356724.58,89181.15,EUR,Outbound,Follow-up
+OPP000261,Helios Logistics 336 - Migration Assessment Advanced,2024-05-29,2024-08-01,2024-06-11,C00336,P0074,SR011,Closed Won,1.00,22085.29,22085.29,EUR,Referral,Discovery call
+OPP000262,Sigma Retail 101 - Feature Store Standard,2026-07-25,2026-08-27,,C00101,P0058,SR003,Negotiation,0.75,5294.98,3971.23,EUR,Website,Technical demo
+OPP000263,Aster Systems 234 - Architecture Workshop Standard,2026-06-23,2026-07-23,,C00234,P0064,SR006,Qualification,0.25,2962.40,740.60,EUR,Partner,Discovery call
+OPP000264,Cobalt Services 279 - Vector Search Advanced,2025-01-24,2025-04-19,,C00279,P0053,SR003,Proposal,0.50,16347.52,8173.76,EUR,Website,Legal review
+OPP000265,Alto Technologies 217 - API Gateway Standard,2025-05-26,2025-11-20,2025-06-17,C00217,P0019,SR004,Closed Won,1.00,73360.85,73360.85,EUR,Referral,None
+OPP000266,Cobalt Industries 233 - Warehouse Pro Advanced,2024-01-26,2024-05-17,,C00233,P0005,SR004,Proposal,0.50,342359.18,171179.59,EUR,Partner,Send proposal
+OPP000267,Aster Retail 472 - Vector Search Enterprise,2024-11-10,2025-04-07,,C00472,P0054,SR009,Prospecting,0.10,104574.58,10457.46,EUR,Website,Technical demo
+OPP000268,Orion Logistics 309 - Training Credits Standard,2024-08-08,2024-08-29,,C00309,P0067,SR003,Qualification,0.25,8333.08,2083.27,EUR,Outbound,Technical demo
+OPP000269,Cobalt Services 141 - API Gateway Advanced,2026-07-02,2026-09-04,2026-09-07,C00141,P0020,SR009,Closed Won,1.00,45944.06,45944.06,EUR,Partner,Send proposal
+OPP000270,Orion Logistics 127 - API Gateway Standard,2025-01-21,2025-06-24,,C00127,P0019,SR004,Proposal,0.50,10916.71,5458.35,EUR,Event,Technical demo
+OPP000271,Aster Systems 396 - Streaming Engine Enterprise,2025-10-26,2026-04-24,2026-03-13,C00396,P0009,SR006,Closed Won,1.00,54485.63,54485.63,EUR,Website,Send proposal
+OPP000272,Lumen Digital 064 - ML Workbench Enterprise,2025-07-30,2025-09-28,,C00064,P0048,SR010,Proposal,0.50,16777.18,8388.59,EUR,Event,Legal review
+OPP000273,Nexus Retail 120 - API Gateway Advanced,2025-10-19,2026-03-28,,C00120,P0020,SR006,Proposal,0.50,15639.65,7819.82,EUR,Outbound,Follow-up
+OPP000274,Axial Solutions 363 - CDC Connector Enterprise,2023-10-12,2024-02-19,,C00363,P0024,SR002,Qualification,0.25,3971.95,992.99,EUR,Event,Legal review
+OPP000275,Aster Industries 192 - CDC Connector Enterprise,2024-01-19,2024-05-04,,C00192,P0024,SR004,Prospecting,0.10,5499.30,549.93,EUR,Website,Follow-up
+OPP000276,Cobalt Services 279 - CDC Connector Enterprise,2025-06-21,2025-08-25,2025-10-27,C00279,P0024,SR007,Closed Won,1.00,13443.20,13443.20,EUR,Event,Send proposal
+OPP000277,Cobalt Conseil 228 - Feature Store Advanced,2025-09-23,2025-12-02,,C00228,P0059,SR006,Prospecting,0.10,41661.69,4166.17,EUR,Referral,Follow-up
+OPP000278,Horizon Group 376 - Streaming Engine Enterprise,2026-02-09,2026-04-27,,C00376,P0009,SR007,Proposal,0.50,37169.07,18584.53,EUR,Event,None
+OPP000279,Alto Systems 469 - Premium Support Standard,2026-01-02,2026-03-13,2026-04-06,C00469,P0070,SR008,Closed Won,1.00,12421.08,12421.08,EUR,Event,Legal review
+OPP000280,Sigma Retail 045 - Data Governance Suite Advanced,2025-11-27,2026-02-12,2026-02-26,C00045,P0011,SR004,Closed Lost,0.00,8898.05,0.00,EUR,Event,Discovery call
+OPP000281,Sigma Technologies 366 - BI Explorer Standard,2026-01-19,2026-05-14,,C00366,P0031,SR008,Qualification,0.25,74553.04,18638.26,EUR,Outbound,Discovery call
+OPP000282,Atlas Solutions 347 - Dashboard Pro Enterprise,2024-12-14,2025-04-27,,C00347,P0036,SR002,Proposal,0.50,279640.92,139820.46,EUR,Partner,Follow-up
+OPP000283,Vertex Services 246 - API Gateway Enterprise,2026-04-09,2026-07-18,,C00246,P0021,SR009,Qualification,0.25,19894.36,4973.59,EUR,Referral,Technical demo
+OPP000284,Alto Partners 209 - Embedded Analytics Advanced,2025-03-12,2025-08-14,2025-06-02,C00209,P0038,SR010,Closed Won,1.00,13989.02,13989.02,EUR,Referral,Discovery call
+OPP000285,Kappa Technologies 146 - Lakehouse Starter Enterprise,2025-09-01,2025-12-06,,C00146,P0003,SR001,Proposal,0.50,26414.82,13207.41,EUR,Outbound,None
+OPP000286,Orion Partners 139 - BI Explorer Enterprise,2024-10-04,2025-01-02,,C00139,P0033,SR012,Qualification,0.25,36229.00,9057.25,EUR,Outbound,Discovery call
+OPP000287,Helios Systems 441 - Agent Builder Enterprise,2024-01-18,2024-06-25,,C00441,P0057,SR005,Proposal,0.50,10439.56,5219.78,EUR,Event,Follow-up
+OPP000288,Horizon Industries 313 - Training Credits Enterprise,2024-01-05,2024-05-28,,C00313,P0069,SR007,Prospecting,0.10,107212.38,10721.24,EUR,Partner,Discovery call
+OPP000289,Atlas Digital 169 - Data Governance Suite Enterprise,2024-09-26,2024-12-01,,C00169,P0012,SR002,Prospecting,0.10,53001.75,5300.18,EUR,Referral,Discovery call
+OPP000290,Nexus Systems 142 - Premium Support Standard,2025-11-29,2025-12-25,,C00142,P0070,SR005,Proposal,0.50,5575.00,2787.50,EUR,Partner,Legal review
+OPP000291,Cobalt Services 143 - Lakehouse Starter Enterprise,2024-10-19,2025-04-01,,C00143,P0003,SR002,Negotiation,0.75,17620.89,13215.67,EUR,Website,None
+OPP000292,Helios Industries 258 - Dashboard Pro Enterprise,2026-05-30,2026-10-16,,C00258,P0036,SR004,Qualification,0.25,14913.47,3728.37,EUR,Event,Legal review
+OPP000293,Nova Technologies 343 - Dashboard Pro Advanced,2024-11-27,2025-02-13,,C00343,P0035,SR002,Proposal,0.50,2911.73,1455.87,EUR,Partner,Technical demo
+OPP000294,Horizon Systems 155 - Training Credits Standard,2024-10-28,2025-01-31,,C00155,P0067,SR009,Prospecting,0.10,8142.47,814.25,EUR,Partner,Legal review
+OPP000295,Helios Services 422 - Agent Builder Standard,2025-07-06,2025-12-21,,C00422,P0055,SR004,Prospecting,0.10,4086.92,408.69,EUR,Website,Discovery call
+OPP000296,Cobalt Partners 305 - Streaming Engine Advanced,2025-11-29,2026-01-18,,C00305,P0008,SR005,Proposal,0.50,12448.60,6224.30,EUR,Website,Technical demo
+OPP000297,Cobalt Retail 002 - Model Serving Enterprise,2023-02-04,2023-02-22,,C00002,P0051,SR009,Proposal,0.50,12833.99,6416.99,EUR,Partner,Technical demo
+OPP000298,Alto Digital 148 - Warehouse Pro Advanced,2023-01-14,2023-04-06,,C00148,P0005,SR012,Qualification,0.25,18004.78,4501.19,EUR,Partner,Discovery call
+OPP000299,Aster Logistics 013 - Integration Runtime Advanced,2026-06-28,2026-09-26,,C00013,P0029,SR002,Negotiation,0.75,16334.81,12251.11,EUR,Outbound,Discovery call
+OPP000300,Echo Conseil 062 - Forecast Studio Advanced,2026-09-06,2026-10-25,,C00062,P0041,SR010,Prospecting,0.10,5974.30,597.43,EUR,Event,Discovery call
+OPP000301,Axial Technologies 497 - Feature Store Standard,2024-08-17,2024-11-17,2024-12-08,C00497,P0058,SR012,Closed Won,1.00,21509.14,21509.14,EUR,Event,None
+OPP000302,Nova France 199 - Embedded Analytics Enterprise,2026-09-18,2026-12-06,,C00199,P0039,SR011,Prospecting,0.10,59758.92,5975.89,EUR,Referral,Follow-up
+OPP000303,Atlas Retail 413 - Reporting Server Standard,2023-01-21,2023-02-17,2023-07-05,C00413,P0043,SR011,Closed Lost,0.00,5756.35,0.00,EUR,Partner,Legal review
+OPP000304,Axial Technologies 339 - Lakehouse Starter Advanced,2023-01-01,2023-04-21,,C00339,P0002,SR007,Negotiation,0.75,19299.95,14474.96,EUR,Referral,Technical demo
+OPP000305,Sigma Group 281 - API Gateway Advanced,2024-03-26,2024-06-05,,C00281,P0020,SR001,Qualification,0.25,43851.06,10962.76,EUR,Outbound,None
+OPP000306,Echo Group 157 - Premium Support Enterprise,2023-08-23,2023-12-08,2024-01-20,C00157,P0072,SR010,Closed Won,1.00,91195.38,91195.38,EUR,Referral,Discovery call
+OPP000307,Aster Partners 361 - Premium Support Standard,2025-12-30,2026-02-01,,C00361,P0070,SR004,Prospecting,0.10,1387.37,138.74,EUR,Website,Technical demo
+OPP000308,Echo Services 235 - Implementation Pack Standard,2023-01-28,2023-02-27,,C00235,P0061,SR003,Qualification,0.25,61612.25,15403.06,EUR,Partner,Technical demo
+OPP000309,Axial Technologies 451 - Premium Support Enterprise,2024-04-02,2024-08-21,,C00451,P0072,SR001,Proposal,0.50,4984.03,2492.01,EUR,Outbound,Legal review
+OPP000310,Vertex Retail 096 - ETL Connect Enterprise,2023-10-23,2024-01-19,,C00096,P0018,SR010,Prospecting,0.10,26448.35,2644.84,EUR,Partner,Follow-up
+OPP000311,Axial Industries 144 - Dashboard Pro Enterprise,2025-11-01,2026-01-28,2025-11-07,C00144,P0036,SR003,Closed Won,1.00,43309.14,43309.14,EUR,Website,None
+OPP000312,Nova Partners 075 - Streaming Engine Advanced,2023-09-21,2024-01-26,2023-10-27,C00075,P0008,SR003,Closed Lost,0.00,1517.09,0.00,EUR,Website,Discovery call
+OPP000313,Vertex Retail 074 - File Transfer Hub Advanced,2023-04-06,2023-08-29,,C00074,P0026,SR004,Prospecting,0.10,22442.89,2244.29,EUR,Outbound,None
+OPP000314,Horizon Group 117 - Reporting Server Standard,2024-04-19,2024-07-18,2024-09-08,C00117,P0043,SR011,Closed Lost,0.00,1867.30,0.00,EUR,Outbound,Discovery call
+OPP000315,Alto Services 447 - BI Explorer Advanced,2024-10-20,2025-04-16,,C00447,P0032,SR012,Qualification,0.25,47815.90,11953.98,EUR,Website,Discovery call
+OPP000316,Axial Solutions 295 - Feature Store Advanced,2024-10-20,2024-12-14,,C00295,P0059,SR012,Qualification,0.25,85700.05,21425.01,EUR,Website,Follow-up
+OPP000317,Axial Group 432 - File Transfer Hub Enterprise,2024-11-07,2024-12-26,2025-01-17,C00432,P0027,SR007,Closed Won,1.00,211567.26,211567.26,EUR,Website,None
+OPP000318,Horizon Retail 257 - API Gateway Advanced,2023-10-31,2024-01-20,,C00257,P0020,SR005,Proposal,0.50,44043.51,22021.76,EUR,Outbound,Technical demo
+OPP000319,Horizon Technologies 119 - File Transfer Hub Standard,2026-06-19,2026-07-06,,C00119,P0025,SR010,Prospecting,0.10,31371.90,3137.19,EUR,Partner,Follow-up
+OPP000320,Helios Group 063 - ETL Connect Enterprise,2025-10-09,2026-02-23,,C00063,P0018,SR006,Qualification,0.25,1686.46,421.62,EUR,Referral,Legal review
+OPP000321,Orion Services 241 - Implementation Pack Advanced,2026-01-31,2026-07-08,,C00241,P0062,SR008,Qualification,0.25,113372.06,28343.01,EUR,Referral,Send proposal
+OPP000322,Lumen Retail 365 - Lakehouse Starter Standard,2024-07-28,2025-01-13,,C00365,P0001,SR006,Proposal,0.50,7416.26,3708.13,EUR,Outbound,Follow-up
+OPP000323,Horizon Technologies 330 - Training Credits Advanced,2025-07-10,2025-12-16,,C00330,P0068,SR003,Proposal,0.50,4343.40,2171.70,EUR,Partner,Follow-up
+OPP000324,Axial France 156 - Embedded Analytics Enterprise,2025-08-26,2025-11-28,,C00156,P0039,SR004,Proposal,0.50,168005.91,84002.96,EUR,Website,Technical demo
+OPP000325,Horizon Systems 374 - Implementation Pack Advanced,2023-03-22,2023-08-25,,C00374,P0062,SR012,Qualification,0.25,47663.89,11915.97,EUR,Event,None
+OPP000326,Horizon Systems 155 - ETL Connect Enterprise,2026-09-02,2026-09-27,,C00155,P0018,SR006,Negotiation,0.75,7020.53,5265.40,EUR,Partner,Send proposal
+OPP000327,Lumen Logistics 373 - Reporting Server Advanced,2025-12-06,2026-04-21,2026-01-27,C00373,P0044,SR005,Closed Lost,0.00,312036.43,0.00,EUR,Website,None
+OPP000328,Nexus Logistics 202 - CDC Connector Standard,2026-08-02,2026-12-10,2026-09-01,C00202,P0022,SR003,Closed Won,1.00,27539.04,27539.04,EUR,Outbound,Legal review
+OPP000329,Helios Services 420 - API Gateway Enterprise,2023-08-20,2024-01-21,,C00420,P0021,SR012,Qualification,0.25,20271.31,5067.83,EUR,Event,Legal review
+OPP000330,Kappa Conseil 409 - Reporting Server Advanced,2025-03-04,2025-07-10,,C00409,P0044,SR006,Qualification,0.25,524862.94,131215.73,EUR,Event,Follow-up
+OPP000331,Vertex Services 423 - ETL Connect Enterprise,2025-09-06,2026-01-20,,C00423,P0018,SR012,Proposal,0.50,5485.95,2742.97,EUR,Event,Follow-up
+OPP000332,Nova Solutions 388 - CDC Connector Standard,2026-07-12,2026-09-21,2026-07-17,C00388,P0022,SR006,Closed Won,1.00,19325.97,19325.97,EUR,Partner,Discovery call
+OPP000333,Axial Solutions 295 - Implementation Pack Enterprise,2025-09-08,2025-10-09,,C00295,P0063,SR008,Negotiation,0.75,113098.10,84823.58,EUR,Partner,None
+OPP000334,Aster Partners 361 - Feature Store Advanced,2023-06-07,2023-07-19,2023-09-06,C00361,P0059,SR003,Closed Won,1.00,399500.80,399500.80,EUR,Outbound,Discovery call
+OPP000335,Axial Logistics 239 - Implementation Pack Standard,2024-02-25,2024-06-09,,C00239,P0061,SR006,Qualification,0.25,7951.43,1987.86,EUR,Website,Follow-up
+OPP000336,Aster Conseil 265 - Data Governance Suite Enterprise,2024-12-05,2025-01-19,,C00265,P0012,SR007,Prospecting,0.10,23899.91,2389.99,EUR,Event,None
+OPP000337,Cobalt France 128 - ETL Connect Standard,2023-11-17,2024-01-31,2024-05-04,C00128,P0016,SR001,Closed Won,1.00,902.07,902.07,EUR,Event,Discovery call
+OPP000338,Lumen Industries 289 - Model Serving Standard,2026-06-16,2026-12-10,,C00289,P0049,SR010,Proposal,0.50,6067.22,3033.61,EUR,Website,Send proposal
+OPP000339,Axial Conseil 125 - Implementation Pack Advanced,2025-09-10,2025-12-10,2025-12-13,C00125,P0062,SR002,Closed Won,1.00,64110.89,64110.89,EUR,Partner,Send proposal
+OPP000340,Vertex Services 246 - Data Catalog Advanced,2026-06-12,2026-11-29,2026-06-18,C00246,P0014,SR008,Closed Won,1.00,14328.98,14328.98,EUR,Website,Send proposal
+OPP000341,Nexus France 331 - Embedded Analytics Enterprise,2025-12-01,2026-03-16,2026-05-06,C00331,P0039,SR001,Closed Lost,0.00,12496.67,0.00,EUR,Outbound,Discovery call
+OPP000342,Atlas Partners 135 - API Gateway Advanced,2026-06-01,2026-10-12,,C00135,P0020,SR004,Proposal,0.50,523055.60,261527.80,EUR,Referral,Discovery call
+OPP000343,Helios Digital 068 - Data Governance Suite Enterprise,2023-11-10,2023-12-29,,C00068,P0012,SR004,Proposal,0.50,49263.65,24631.83,EUR,Referral,Send proposal
+OPP000344,Polaris Retail 145 - API Gateway Standard,2024-09-22,2024-10-19,,C00145,P0019,SR008,Negotiation,0.75,105799.30,79349.48,EUR,Partner,Send proposal
+OPP000345,Helios Services 420 - ETL Connect Enterprise,2026-09-22,2027-02-16,,C00420,P0018,SR011,Qualification,0.25,2611.52,652.88,EUR,Event,Send proposal
+OPP000346,Alto Group 214 - Feature Store Standard,2024-01-13,2024-03-21,,C00214,P0058,SR002,Proposal,0.50,7471.33,3735.66,EUR,Website,Discovery call
+OPP000347,Lumen Group 292 - Data Governance Suite Standard,2024-02-05,2024-03-07,2024-03-08,C00292,P0010,SR002,Closed Won,1.00,39845.06,39845.06,EUR,Website,Follow-up
+OPP000348,Kappa Industries 251 - ETL Connect Enterprise,2023-02-23,2023-05-23,,C00251,P0018,SR008,Prospecting,0.10,6081.61,608.16,EUR,Website,None
+OPP000349,Axial Logistics 030 - Data Governance Suite Advanced,2024-11-11,2025-02-06,,C00030,P0011,SR011,Prospecting,0.10,2989.65,298.97,EUR,Partner,Discovery call
+OPP000350,Cobalt Group 462 - Forecast Studio Standard,2026-07-14,2026-08-22,,C00462,P0040,SR002,Prospecting,0.10,69390.39,6939.04,EUR,Referral,Legal review
+OPP000351,Nova France 122 - Premium Support Standard,2024-10-11,2024-12-03,2025-01-31,C00122,P0070,SR008,Closed Lost,0.00,22393.60,0.00,EUR,Outbound,Follow-up
+OPP000352,Axial France 156 - Implementation Pack Standard,2024-07-08,2024-09-26,,C00156,P0061,SR006,Negotiation,0.75,72064.98,54048.74,EUR,Website,None
+OPP000353,Lumen Technologies 273 - Data Governance Suite Enterprise,2026-08-23,2026-10-25,,C00273,P0012,SR007,Prospecting,0.10,16849.16,1684.92,EUR,Website,Discovery call
+OPP000354,Horizon France 164 - Lakehouse Starter Enterprise,2024-05-07,2024-09-08,,C00164,P0003,SR010,Negotiation,0.75,34591.12,25943.34,EUR,Outbound,Discovery call
+OPP000355,Echo Group 157 - Data Catalog Advanced,2025-12-13,2026-04-04,,C00157,P0014,SR009,Negotiation,0.75,26783.21,20087.41,EUR,Referral,Follow-up
+OPP000356,Helios Group 063 - Dashboard Pro Enterprise,2023-04-22,2023-09-28,,C00063,P0036,SR007,Prospecting,0.10,24696.81,2469.68,EUR,Outbound,Technical demo
+OPP000357,Echo Logistics 129 - BI Explorer Standard,2026-03-24,2026-08-02,,C00129,P0031,SR009,Prospecting,0.10,7448.64,744.86,EUR,Website,Send proposal
+OPP000358,Sigma Systems 427 - Model Serving Enterprise,2024-09-21,2025-03-09,,C00427,P0051,SR003,Qualification,0.25,20187.67,5046.92,EUR,Referral,Follow-up
+OPP000359,Vertex Conseil 043 - Streaming Engine Standard,2023-01-07,2023-02-24,2023-02-14,C00043,P0007,SR012,Closed Won,1.00,275271.54,275271.54,EUR,Event,Technical demo
+OPP000360,Lumen Group 104 - Embedded Analytics Standard,2024-08-28,2025-02-10,,C00104,P0037,SR007,Proposal,0.50,73628.33,36814.17,EUR,Partner,Send proposal
+OPP000361,Echo Services 058 - Architecture Workshop Enterprise,2026-03-16,2026-06-11,,C00058,P0066,SR012,Qualification,0.25,16428.34,4107.09,EUR,Outbound,Follow-up
+OPP000362,Alto Retail 007 - Agent Builder Standard,2025-04-22,2025-07-05,2025-09-14,C00007,P0055,SR003,Closed Won,1.00,6399.67,6399.67,EUR,Referral,Technical demo
+OPP000363,Vertex Retail 074 - Data Governance Suite Enterprise,2024-02-11,2024-04-30,2024-05-14,C00074,P0012,SR012,Closed Lost,0.00,229505.86,0.00,EUR,Outbound,Send proposal
+OPP000364,Sigma Retail 194 - Streaming Engine Enterprise,2024-11-06,2025-02-12,2024-12-25,C00194,P0009,SR005,Closed Won,1.00,87893.28,87893.28,EUR,Partner,Send proposal
+OPP000365,Lumen Logistics 211 - Embedded Analytics Advanced,2026-05-17,2026-11-12,,C00211,P0038,SR012,Proposal,0.50,4179.91,2089.95,EUR,Partner,Follow-up
+OPP000366,Helios Group 063 - CDC Connector Advanced,2024-05-05,2024-10-14,2024-07-14,C00063,P0023,SR011,Closed Lost,0.00,759.18,0.00,EUR,Website,Send proposal
+OPP000367,Aster Logistics 487 - Feature Store Advanced,2025-06-25,2025-09-22,,C00487,P0059,SR003,Proposal,0.50,54907.13,27453.56,EUR,Outbound,Technical demo
+OPP000368,Alto Technologies 118 - Agent Builder Standard,2026-07-11,2026-09-09,2026-09-15,C00118,P0055,SR006,Closed Lost,0.00,6582.56,0.00,EUR,Event,Technical demo
+OPP000369,Horizon Solutions 203 - Warehouse Pro Enterprise,2023-11-07,2024-04-24,,C00203,P0006,SR005,Negotiation,0.75,17762.69,13322.02,EUR,Website,Technical demo
+OPP000370,Axial Industries 429 - Data Catalog Enterprise,2023-07-20,2023-09-26,2023-12-28,C00429,P0015,SR012,Closed Lost,0.00,209317.76,0.00,EUR,Partner,None
+OPP000371,Lumen Retail 227 - Lakehouse Starter Advanced,2025-03-14,2025-08-29,,C00227,P0002,SR008,Qualification,0.25,2390.50,597.62,EUR,Referral,Technical demo
+OPP000372,Sigma Conseil 272 - Forecast Studio Enterprise,2023-01-29,2023-03-14,2023-06-29,C00272,P0042,SR004,Closed Won,1.00,17047.89,17047.89,EUR,Partner,Technical demo
+OPP000373,Kappa Systems 467 - Reporting Server Advanced,2025-12-17,2026-02-08,2026-03-07,C00467,P0044,SR001,Closed Lost,0.00,20188.44,0.00,EUR,Outbound,None
+OPP000374,Nexus Systems 142 - Agent Builder Enterprise,2023-05-20,2023-06-26,,C00142,P0057,SR005,Negotiation,0.75,36861.60,27646.20,EUR,Outbound,Send proposal
+OPP000375,Atlas Systems 352 - Integration Runtime Enterprise,2025-10-29,2025-12-29,,C00352,P0030,SR002,Qualification,0.25,6784.85,1696.21,EUR,Referral,Discovery call
+OPP000376,Alto France 149 - Streaming Engine Standard,2023-03-16,2023-06-17,,C00149,P0007,SR002,Negotiation,0.75,44260.45,33195.34,EUR,Referral,Follow-up
+OPP000377,Echo Partners 237 - Integration Runtime Standard,2025-04-20,2025-09-14,,C00237,P0028,SR009,Qualification,0.25,1152.35,288.09,EUR,Website,None
+OPP000378,Nexus Retail 468 - Premium Support Advanced,2026-08-30,2026-10-07,,C00468,P0071,SR003,Negotiation,0.75,6156.38,4617.28,EUR,Event,Send proposal
+OPP000379,Nexus Services 090 - Architecture Workshop Advanced,2023-10-11,2023-12-12,,C00090,P0065,SR009,Prospecting,0.10,21661.26,2166.13,EUR,Referral,Discovery call
+OPP000380,Helios Solutions 220 - Training Credits Standard,2024-10-03,2024-11-16,,C00220,P0067,SR001,Prospecting,0.10,3921.70,392.17,EUR,Outbound,Discovery call
+OPP000381,Vertex Group 485 - Architecture Workshop Standard,2025-10-13,2025-11-29,,C00485,P0064,SR007,Negotiation,0.75,633.70,475.28,EUR,Website,Follow-up
+OPP000382,Nexus Group 337 - ETL Connect Advanced,2023-02-23,2023-05-02,,C00337,P0017,SR003,Proposal,0.50,45704.39,22852.19,EUR,Event,Send proposal
+OPP000383,Kappa France 392 - Feature Store Enterprise,2023-02-06,2023-04-12,,C00392,P0060,SR004,Negotiation,0.75,79953.04,59964.78,EUR,Website,Discovery call
+OPP000384,Nexus Logistics 202 - ETL Connect Advanced,2025-02-02,2025-04-21,,C00202,P0017,SR001,Qualification,0.25,125058.87,31264.72,EUR,Partner,Follow-up
+OPP000385,Polaris Logistics 006 - File Transfer Hub Advanced,2026-02-13,2026-04-07,,C00006,P0026,SR001,Proposal,0.50,3370.33,1685.16,EUR,Outbound,Legal review
+OPP000386,Axial Industries 144 - Integration Runtime Advanced,2023-10-21,2023-12-10,2024-02-03,C00144,P0029,SR003,Closed Won,1.00,40566.96,40566.96,EUR,Partner,Follow-up
+OPP000387,Vertex Retail 096 - Architecture Workshop Standard,2023-11-01,2024-04-01,2024-04-14,C00096,P0064,SR006,Closed Won,1.00,5798.25,5798.25,EUR,Referral,Follow-up
+OPP000388,Cobalt Conseil 268 - Agent Builder Advanced,2026-04-15,2026-05-31,2026-08-12,C00268,P0056,SR008,Closed Won,1.00,216448.72,216448.72,EUR,Partner,Send proposal
+OPP000389,Atlas Services 084 - Training Credits Advanced,2024-11-14,2025-03-22,,C00084,P0068,SR003,Qualification,0.25,3373.34,843.34,EUR,Website,Send proposal
+OPP000390,Nexus Partners 188 - Reporting Server Standard,2026-04-13,2026-05-06,2026-09-01,C00188,P0043,SR012,Closed Won,1.00,737.63,737.63,EUR,Website,Technical demo
+OPP000391,Cobalt France 438 - Agent Builder Advanced,2026-08-08,2026-11-10,,C00438,P0056,SR001,Qualification,0.25,92741.03,23185.26,EUR,Referral,Technical demo
+OPP000392,Orion Systems 364 - API Gateway Advanced,2024-06-11,2024-09-22,2024-08-31,C00364,P0020,SR006,Closed Lost,0.00,440826.42,0.00,EUR,Website,Send proposal
+OPP000393,Alto Services 310 - Integration Runtime Advanced,2025-10-12,2026-01-19,,C00310,P0029,SR011,Prospecting,0.10,66785.44,6678.54,EUR,Website,Legal review
+OPP000394,Vertex Partners 368 - API Gateway Advanced,2026-04-09,2026-09-04,,C00368,P0020,SR009,Negotiation,0.75,124031.16,93023.37,EUR,Outbound,Follow-up
+OPP000395,Sigma Retail 045 - Architecture Workshop Advanced,2026-01-07,2026-06-26,,C00045,P0065,SR011,Prospecting,0.10,14590.23,1459.02,EUR,Referral,Send proposal
+OPP000396,Polaris Digital 193 - Training Credits Advanced,2026-03-03,2026-05-25,2026-04-20,C00193,P0068,SR003,Closed Won,1.00,8628.73,8628.73,EUR,Referral,None
+OPP000397,Orion Digital 022 - Data Governance Suite Standard,2025-08-27,2025-10-12,,C00022,P0010,SR012,Qualification,0.25,80359.64,20089.91,EUR,Partner,None
+OPP000398,Aster Retail 011 - Data Catalog Enterprise,2024-09-12,2024-10-27,,C00011,P0015,SR006,Proposal,0.50,61338.77,30669.38,EUR,Partner,Legal review
+OPP000399,Orion France 050 - Warehouse Pro Advanced,2026-02-12,2026-04-03,2026-07-18,C00050,P0005,SR004,Closed Won,1.00,12298.99,12298.99,EUR,Event,Send proposal
+OPP000400,Aster Systems 234 - Integration Runtime Enterprise,2023-02-22,2023-05-01,2023-08-03,C00234,P0030,SR007,Closed Won,1.00,29768.87,29768.87,EUR,Referral,Discovery call
+OPP000401,Nova Solutions 113 - Model Serving Standard,2024-05-05,2024-10-14,,C00113,P0049,SR008,Qualification,0.25,10057.25,2514.31,EUR,Partner,Legal review
+OPP000402,Vertex Technologies 255 - Feature Store Enterprise,2024-08-18,2024-11-14,2024-11-20,C00255,P0060,SR004,Closed Won,1.00,461855.78,461855.78,EUR,Website,None
+OPP000403,Cobalt Industries 171 - Data Governance Suite Advanced,2025-04-12,2025-06-06,2025-05-06,C00171,P0011,SR005,Closed Won,1.00,2596.81,2596.81,EUR,Event,Discovery call
+OPP000404,Echo Conseil 137 - Data Governance Suite Standard,2026-07-09,2026-09-04,,C00137,P0010,SR001,Negotiation,0.75,33997.51,25498.13,EUR,Partner,Discovery call
+OPP000405,Orion Group 077 - Data Catalog Enterprise,2023-12-07,2024-01-25,2024-02-07,C00077,P0015,SR010,Closed Won,1.00,44370.65,44370.65,EUR,Event,Send proposal
+OPP000406,Cobalt Industries 175 - File Transfer Hub Standard,2026-03-20,2026-09-07,2026-06-04,C00175,P0025,SR005,Closed Lost,0.00,22980.08,0.00,EUR,Partner,Send proposal
+OPP000407,Kappa Partners 071 - Data Catalog Advanced,2023-02-24,2023-08-23,,C00071,P0014,SR004,Qualification,0.25,75474.13,18868.53,EUR,Outbound,Send proposal
+OPP000408,Aster Retail 350 - API Gateway Standard,2023-11-01,2024-02-05,,C00350,P0019,SR008,Qualification,0.25,4009.19,1002.30,EUR,Partner,Technical demo
+OPP000409,Atlas Industries 293 - Forecast Studio Enterprise,2023-11-19,2024-02-11,,C00293,P0042,SR004,Proposal,0.50,71226.61,35613.31,EUR,Referral,Technical demo
+OPP000410,Helios Services 422 - Training Credits Standard,2026-04-28,2026-09-26,,C00422,P0067,SR003,Prospecting,0.10,14244.63,1424.46,EUR,Referral,Follow-up
+OPP000411,Cobalt Group 020 - Data Governance Suite Standard,2024-03-26,2024-06-13,2024-07-04,C00020,P0010,SR008,Closed Won,1.00,26165.12,26165.12,EUR,Outbound,Legal review
+OPP000412,Echo Solutions 443 - Integration Runtime Advanced,2023-03-21,2023-04-26,,C00443,P0029,SR005,Qualification,0.25,69671.66,17417.92,EUR,Website,Discovery call
+OPP000413,Aster Industries 327 - Streaming Engine Enterprise,2023-04-25,2023-10-10,,C00327,P0009,SR012,Prospecting,0.10,240678.52,24067.85,EUR,Partner,Send proposal
+OPP000414,Nova Technologies 343 - Premium Support Enterprise,2024-06-26,2024-10-17,,C00343,P0072,SR010,Qualification,0.25,7405.07,1851.27,EUR,Referral,Send proposal
+OPP000415,Sigma Technologies 459 - ETL Connect Standard,2024-12-30,2025-05-28,,C00459,P0016,SR011,Proposal,0.50,1353.03,676.51,EUR,Partner,Technical demo
+OPP000416,Vertex Conseil 334 - Data Catalog Advanced,2026-06-05,2026-06-23,,C00334,P0014,SR010,Prospecting,0.10,113847.93,11384.79,EUR,Partner,Follow-up
+OPP000417,Echo Solutions 140 - Lakehouse Starter Standard,2026-09-12,2027-01-23,,C00140,P0001,SR004,Qualification,0.25,1943.24,485.81,EUR,Website,Technical demo
+OPP000418,Atlas Conseil 109 - ML Workbench Advanced,2026-02-17,2026-05-22,,C00109,P0047,SR006,Proposal,0.50,82936.39,41468.19,EUR,Website,Send proposal
+OPP000419,Vertex Services 423 - Embedded Analytics Advanced,2026-04-30,2026-05-30,2026-05-21,C00423,P0038,SR002,Closed Won,1.00,7921.25,7921.25,EUR,Partner,Technical demo
+OPP000420,Polaris Conseil 463 - File Transfer Hub Advanced,2026-01-11,2026-02-26,,C00463,P0026,SR005,Prospecting,0.10,8371.34,837.13,EUR,Partner,Technical demo
+OPP000421,Axial Group 184 - ETL Connect Standard,2026-07-16,2026-12-19,,C00184,P0016,SR011,Prospecting,0.10,2179.48,217.95,EUR,Referral,None
+OPP000422,Echo Systems 464 - ETL Connect Standard,2023-06-23,2023-09-30,2023-11-14,C00464,P0016,SR004,Closed Won,1.00,1687.16,1687.16,EUR,Outbound,None
+OPP000423,Alto Digital 073 - Implementation Pack Enterprise,2026-07-15,2026-12-02,,C00073,P0063,SR004,Negotiation,0.75,28913.44,21685.08,EUR,Event,Technical demo
+OPP000424,Nova Services 092 - Vector Search Enterprise,2023-01-14,2023-02-21,,C00092,P0054,SR010,Negotiation,0.75,43654.65,32740.99,EUR,Website,None
+OPP000425,Horizon Retail 257 - CDC Connector Advanced,2025-12-05,2026-05-12,2026-03-01,C00257,P0023,SR012,Closed Won,1.00,1926.43,1926.43,EUR,Outbound,Discovery call
+OPP000426,Axial Technologies 085 - Training Credits Advanced,2023-02-24,2023-08-21,,C00085,P0068,SR008,Prospecting,0.10,19530.39,1953.04,EUR,Partner,Technical demo
+OPP000427,Aster Systems 396 - API Gateway Standard,2023-09-20,2023-10-16,,C00396,P0019,SR009,Negotiation,0.75,15122.79,11342.09,EUR,Event,Discovery call
+OPP000428,Nexus Partners 188 - Reporting Server Enterprise,2026-03-04,2026-08-22,,C00188,P0045,SR006,Proposal,0.50,173686.05,86843.02,EUR,Partner,Discovery call
+OPP000429,Orion Services 437 - File Transfer Hub Enterprise,2024-12-21,2025-05-15,,C00437,P0027,SR006,Qualification,0.25,104414.13,26103.53,EUR,Partner,Legal review
+OPP000430,Vertex Partners 431 - Integration Runtime Enterprise,2024-10-28,2025-02-07,,C00431,P0030,SR006,Qualification,0.25,9141.82,2285.45,EUR,Website,Send proposal
+OPP000431,Nexus Systems 142 - Implementation Pack Standard,2026-04-07,2026-05-04,2026-04-29,C00142,P0061,SR005,Closed Won,1.00,3770.36,3770.36,EUR,Website,None
+OPP000432,Echo Group 185 - Data Governance Suite Standard,2023-06-27,2023-11-01,,C00185,P0010,SR004,Qualification,0.25,15116.21,3779.05,EUR,Event,Legal review
+OPP000433,Atlas France 038 - Model Serving Standard,2023-06-04,2023-07-16,,C00038,P0049,SR011,Qualification,0.25,7598.11,1899.53,EUR,Referral,Follow-up
+OPP000434,Atlas Systems 474 - BI Explorer Standard,2025-12-21,2026-01-06,,C00474,P0031,SR007,Proposal,0.50,11518.33,5759.16,EUR,Event,Send proposal
+OPP000435,Sigma Logistics 250 - ML Workbench Enterprise,2024-03-18,2024-08-04,2024-06-20,C00250,P0048,SR008,Closed Lost,0.00,31162.22,0.00,EUR,Outbound,Legal review
+OPP000436,Aster Logistics 487 - Feature Store Advanced,2023-09-17,2024-01-27,,C00487,P0059,SR011,Prospecting,0.10,17587.40,1758.74,EUR,Event,Send proposal
+OPP000437,Nova Solutions 248 - BI Explorer Standard,2023-12-29,2024-04-29,,C00248,P0031,SR005,Qualification,0.25,33989.92,8497.48,EUR,Referral,Technical demo
+OPP000438,Aster Retail 011 - Training Credits Standard,2025-12-23,2026-02-18,,C00011,P0067,SR006,Prospecting,0.10,4109.90,410.99,EUR,Event,Technical demo
+OPP000439,Atlas Retail 088 - Agent Builder Standard,2025-10-12,2026-02-02,,C00088,P0055,SR009,Prospecting,0.10,625.58,62.56,EUR,Referral,None
+OPP000440,Aster Technologies 133 - BI Explorer Standard,2024-11-13,2025-02-17,,C00133,P0031,SR011,Qualification,0.25,164540.01,41135.00,EUR,Outbound,Follow-up
+OPP000441,Helios Group 457 - Implementation Pack Standard,2026-07-03,2026-08-14,,C00457,P0061,SR009,Proposal,0.50,31779.73,15889.86,EUR,Event,Send proposal
+OPP000442,Echo Logistics 031 - Feature Store Enterprise,2024-03-10,2024-04-19,,C00031,P0060,SR001,Qualification,0.25,78689.25,19672.31,EUR,Event,Follow-up
+OPP000443,Helios Industries 258 - BI Explorer Enterprise,2023-02-21,2023-04-22,,C00258,P0033,SR010,Qualification,0.25,356186.24,89046.56,EUR,Event,None
+OPP000444,Axial Logistics 239 - CDC Connector Enterprise,2025-06-29,2025-08-22,,C00239,P0024,SR002,Qualification,0.25,11833.29,2958.32,EUR,Referral,Technical demo
+OPP000445,Horizon Industries 313 - API Gateway Standard,2025-04-01,2025-08-30,2025-09-02,C00313,P0019,SR007,Closed Won,1.00,7832.44,7832.44,EUR,Event,None
+OPP000446,Helios Digital 098 - Vector Search Enterprise,2025-10-29,2026-02-04,2026-02-19,C00098,P0054,SR007,Closed Lost,0.00,18667.60,0.00,EUR,Website,Follow-up
+OPP000447,Orion Digital 022 - Embedded Analytics Standard,2024-08-08,2024-10-10,,C00022,P0037,SR007,Proposal,0.50,12138.45,6069.23,EUR,Partner,Send proposal
+OPP000448,Nova Conseil 465 - Agent Builder Standard,2025-01-29,2025-07-11,,C00465,P0055,SR003,Negotiation,0.75,6261.01,4695.76,EUR,Event,Send proposal
+OPP000449,Horizon Solutions 172 - Feature Store Standard,2025-05-09,2025-10-22,2025-06-15,C00172,P0058,SR004,Closed Lost,0.00,6497.08,0.00,EUR,Partner,Follow-up
+OPP000450,Helios Systems 393 - API Gateway Enterprise,2023-04-16,2023-09-12,2023-07-21,C00393,P0021,SR012,Closed Won,1.00,46261.24,46261.24,EUR,Outbound,Discovery call
+OPP000451,Polaris Industries 430 - Vector Search Advanced,2025-08-11,2026-01-12,,C00430,P0053,SR008,Negotiation,0.75,35962.79,26972.09,EUR,Partner,Follow-up
+OPP000452,Axial Group 344 - Vector Search Enterprise,2024-11-26,2025-01-13,2025-02-05,C00344,P0054,SR003,Closed Won,1.00,199285.63,199285.63,EUR,Website,None
+OPP000453,Nova France 122 - Training Credits Enterprise,2024-07-29,2025-01-21,,C00122,P0069,SR006,Proposal,0.50,14369.19,7184.60,EUR,Outbound,None
+OPP000454,Aster France 479 - Feature Store Advanced,2024-12-18,2025-02-13,,C00479,P0059,SR002,Qualification,0.25,75303.14,18825.78,EUR,Website,Discovery call
+OPP000455,Alto Services 447 - API Gateway Standard,2026-01-29,2026-03-02,,C00447,P0019,SR005,Qualification,0.25,4669.20,1167.30,EUR,Website,Technical demo
+OPP000456,Polaris Industries 176 - File Transfer Hub Enterprise,2023-05-12,2023-09-13,2023-08-24,C00176,P0027,SR005,Closed Won,1.00,85131.95,85131.95,EUR,Event,Follow-up
+OPP000457,Echo Services 058 - CDC Connector Enterprise,2025-05-18,2025-09-04,2025-09-29,C00058,P0024,SR002,Closed Won,1.00,13414.35,13414.35,EUR,Event,None
+OPP000458,Lumen Technologies 490 - API Gateway Advanced,2023-05-28,2023-11-06,,C00490,P0020,SR008,Prospecting,0.10,487706.55,48770.65,EUR,Website,Technical demo
+OPP000459,Alto Group 214 - BI Explorer Advanced,2026-01-19,2026-02-15,,C00214,P0032,SR009,Prospecting,0.10,9451.99,945.20,EUR,Website,Follow-up
+OPP000460,Cobalt Conseil 054 - Embedded Analytics Enterprise,2023-08-24,2024-01-25,,C00054,P0039,SR011,Negotiation,0.75,46265.03,34698.77,EUR,Outbound,Follow-up
+OPP000461,Alto Systems 469 - Implementation Pack Enterprise,2025-08-23,2026-02-09,,C00469,P0063,SR006,Qualification,0.25,14101.17,3525.29,EUR,Event,Follow-up
+OPP000462,Alto Logistics 394 - ETL Connect Enterprise,2024-02-07,2024-03-22,2024-04-28,C00394,P0018,SR001,Closed Lost,0.00,2170.06,0.00,EUR,Partner,Technical demo
+OPP000463,Vertex France 262 - Implementation Pack Enterprise,2023-05-13,2023-11-07,2023-09-18,C00262,P0063,SR011,Closed Won,1.00,63833.13,63833.13,EUR,Event,Technical demo
+OPP000464,Sigma Systems 427 - Training Credits Advanced,2026-09-11,2026-12-15,,C00427,P0068,SR009,Prospecting,0.10,1206.66,120.67,EUR,Referral,Send proposal
+OPP000465,Echo Systems 112 - Streaming Engine Enterprise,2023-10-05,2023-11-01,2023-10-23,C00112,P0009,SR001,Closed Lost,0.00,92430.97,0.00,EUR,Event,Technical demo
+OPP000466,Helios Systems 475 - Training Credits Enterprise,2024-02-19,2024-07-21,2024-05-17,C00475,P0069,SR004,Closed Won,1.00,25762.23,25762.23,EUR,Referral,Send proposal
+OPP000467,Alto Retail 355 - Streaming Engine Enterprise,2023-12-11,2024-03-28,,C00355,P0009,SR002,Proposal,0.50,175056.75,87528.38,EUR,Outbound,Send proposal
+OPP000468,Sigma Retail 116 - Agent Builder Advanced,2026-06-02,2026-11-28,2026-08-07,C00116,P0056,SR008,Closed Won,1.00,135276.43,135276.43,EUR,Website,None
+OPP000469,Kappa Retail 029 - Premium Support Advanced,2024-10-05,2025-01-19,2025-04-02,C00029,P0071,SR010,Closed Lost,0.00,2334.16,0.00,EUR,Referral,Legal review
+OPP000470,Cobalt Logistics 115 - Training Credits Advanced,2023-04-29,2023-09-27,2023-09-03,C00115,P0068,SR009,Closed Lost,0.00,8604.38,0.00,EUR,Partner,None
+OPP000471,Aster Group 015 - Training Credits Enterprise,2025-05-11,2025-10-17,2025-07-19,C00015,P0069,SR002,Closed Won,1.00,56648.30,56648.30,EUR,Website,None
+OPP000472,Lumen Industries 289 - Integration Runtime Enterprise,2025-03-18,2025-06-22,,C00289,P0030,SR004,Negotiation,0.75,218708.75,164031.56,EUR,Referral,None
+OPP000473,Helios Retail 386 - Reporting Server Enterprise,2026-08-27,2026-10-27,2026-09-17,C00386,P0045,SR008,Closed Won,1.00,32663.93,32663.93,EUR,Event,Follow-up
+OPP000474,Cobalt Services 143 - Implementation Pack Standard,2023-01-31,2023-04-17,,C00143,P0061,SR004,Prospecting,0.10,26910.84,2691.08,EUR,Partner,Discovery call
+OPP000475,Horizon Partners 123 - BI Explorer Standard,2026-03-28,2026-08-23,,C00123,P0031,SR003,Negotiation,0.75,178071.67,133553.75,EUR,Website,Legal review
+OPP000476,Axial Group 344 - Training Credits Advanced,2025-08-09,2025-10-02,2026-01-30,C00344,P0068,SR008,Closed Won,1.00,15029.99,15029.99,EUR,Event,Discovery call
+OPP000477,Sigma Digital 026 - Data Governance Suite Standard,2026-04-16,2026-05-17,2026-06-06,C00026,P0010,SR003,Closed Won,1.00,4659.53,4659.53,EUR,Website,Technical demo
+OPP000478,Alto Partners 311 - File Transfer Hub Standard,2026-02-09,2026-04-08,,C00311,P0025,SR005,Proposal,0.50,30344.33,15172.17,EUR,Event,None
+OPP000479,Sigma Services 253 - Warehouse Pro Enterprise,2023-07-06,2023-11-27,2023-07-19,C00253,P0006,SR009,Closed Won,1.00,91884.25,91884.25,EUR,Referral,Send proposal
+OPP000480,Horizon Logistics 138 - Premium Support Advanced,2025-10-11,2025-12-11,,C00138,P0071,SR006,Negotiation,0.75,1697.55,1273.16,EUR,Website,Follow-up
+OPP000481,Nexus Partners 390 - Dashboard Pro Standard,2026-05-11,2026-11-01,2026-05-17,C00390,P0034,SR008,Closed Lost,0.00,1429.08,0.00,EUR,Website,Send proposal
+OPP000482,Cobalt Digital 213 - Architecture Workshop Enterprise,2023-05-11,2023-10-06,,C00213,P0066,SR002,Prospecting,0.10,52302.41,5230.24,EUR,Outbound,Follow-up
+OPP000483,Vertex Group 485 - Forecast Studio Enterprise,2024-10-30,2025-01-31,,C00485,P0042,SR003,Prospecting,0.10,140007.47,14000.75,EUR,Event,Technical demo
+OPP000484,Horizon Systems 374 - API Gateway Enterprise,2025-10-15,2026-04-04,,C00374,P0021,SR011,Proposal,0.50,24863.69,12431.84,EUR,Partner,None
+OPP000485,Polaris France 421 - Warehouse Pro Standard,2025-05-22,2025-08-25,,C00421,P0004,SR005,Qualification,0.25,11958.31,2989.58,EUR,Partner,Discovery call
+OPP000486,Alto Partners 356 - Warehouse Pro Enterprise,2024-12-26,2025-01-17,,C00356,P0006,SR001,Proposal,0.50,9801.30,4900.65,EUR,Event,None
+OPP000487,Helios Services 422 - Warehouse Pro Advanced,2026-04-20,2026-07-20,2026-07-15,C00422,P0005,SR006,Closed Won,1.00,346449.57,346449.57,EUR,Outbound,Legal review
+OPP000488,Sigma Industries 395 - Forecast Studio Standard,2025-03-17,2025-07-05,2025-08-12,C00395,P0040,SR011,Closed Lost,0.00,16496.19,0.00,EUR,Website,Discovery call
+OPP000489,Polaris Services 224 - Model Serving Enterprise,2023-05-03,2023-07-28,2023-05-22,C00224,P0051,SR001,Closed Won,1.00,366865.82,366865.82,EUR,Website,Technical demo
+OPP000490,Nova Technologies 314 - Premium Support Standard,2024-06-28,2024-12-25,2024-09-10,C00314,P0070,SR008,Closed Lost,0.00,22703.02,0.00,EUR,Partner,None
+OPP000491,Horizon Solutions 037 - ML Workbench Standard,2023-04-10,2023-07-27,,C00037,P0046,SR009,Proposal,0.50,7463.10,3731.55,EUR,Outbound,Discovery call
+OPP000492,Orion Technologies 335 - Data Governance Suite Standard,2026-04-19,2026-05-12,2026-08-03,C00335,P0010,SR006,Closed Won,1.00,4141.25,4141.25,EUR,Outbound,Follow-up
+OPP000493,Aster Digital 486 - Migration Assessment Standard,2024-05-03,2024-10-18,,C00486,P0073,SR007,Negotiation,0.75,92834.83,69626.12,EUR,Referral,Discovery call
+OPP000494,Nexus Services 450 - Reporting Server Advanced,2024-11-02,2024-11-22,,C00450,P0044,SR010,Proposal,0.50,58716.71,29358.35,EUR,Website,None
+OPP000495,Alto Partners 209 - Streaming Engine Enterprise,2025-10-10,2025-10-29,,C00209,P0009,SR001,Proposal,0.50,379581.27,189790.64,EUR,Event,Technical demo
+OPP000496,Orion Digital 022 - Architecture Workshop Enterprise,2025-12-28,2026-04-13,2026-01-11,C00022,P0066,SR011,Closed Won,1.00,16782.50,16782.50,EUR,Partner,Technical demo
+OPP000497,Echo Digital 221 - Migration Assessment Advanced,2024-11-12,2025-02-10,2024-12-23,C00221,P0074,SR009,Closed Won,1.00,149427.80,149427.80,EUR,Website,Technical demo
+OPP000498,Horizon Systems 374 - Forecast Studio Standard,2025-09-08,2026-02-27,2025-12-21,C00374,P0040,SR010,Closed Lost,0.00,79065.54,0.00,EUR,Website,Follow-up
+OPP000499,Aster Logistics 072 - ML Workbench Advanced,2023-06-05,2023-11-08,,C00072,P0047,SR012,Proposal,0.50,7679.63,3839.82,EUR,Website,Legal review
+OPP000500,Nova Logistics 369 - Feature Store Standard,2023-01-27,2023-02-19,,C00369,P0058,SR010,Negotiation,0.75,10582.21,7936.66,EUR,Event,None
+OPP000501,Horizon Systems 155 - BI Explorer Standard,2025-01-02,2025-04-23,,C00155,P0031,SR004,Qualification,0.25,47111.97,11777.99,EUR,Partner,None
+OPP000502,Axial Industries 061 - Data Catalog Advanced,2023-01-04,2023-02-17,,C00061,P0014,SR007,Prospecting,0.10,37165.69,3716.57,EUR,Outbound,Follow-up
+OPP000503,Nexus France 261 - Integration Runtime Advanced,2023-10-10,2024-01-27,2024-02-15,C00261,P0029,SR009,Closed Lost,0.00,205632.10,0.00,EUR,Referral,None
+OPP000504,Kappa Digital 400 - Embedded Analytics Advanced,2026-03-27,2026-05-10,,C00400,P0038,SR001,Proposal,0.50,83471.04,41735.52,EUR,Referral,Technical demo
+OPP000505,Vertex Conseil 043 - Forecast Studio Advanced,2025-07-24,2025-12-25,,C00043,P0041,SR001,Proposal,0.50,6206.56,3103.28,EUR,Website,Discovery call
+OPP000506,Horizon Solutions 203 - Lakehouse Starter Enterprise,2023-04-16,2023-05-25,2023-05-13,C00203,P0003,SR001,Closed Won,1.00,46445.08,46445.08,EUR,Partner,Technical demo
+OPP000507,Kappa Retail 055 - File Transfer Hub Standard,2024-02-29,2024-07-20,,C00055,P0025,SR006,Prospecting,0.10,112442.94,11244.29,EUR,Referral,Follow-up
+OPP000508,Polaris Industries 430 - Warehouse Pro Advanced,2024-10-25,2025-01-28,,C00430,P0005,SR001,Qualification,0.25,208757.01,52189.25,EUR,Referral,Follow-up
+OPP000509,Cobalt France 444 - Implementation Pack Advanced,2026-01-05,2026-01-22,2026-04-06,C00444,P0062,SR005,Closed Won,1.00,133138.50,133138.50,EUR,Partner,Follow-up
+OPP000510,Kappa Retail 476 - Implementation Pack Standard,2026-04-22,2026-07-23,,C00476,P0061,SR012,Proposal,0.50,43210.73,21605.37,EUR,Partner,Send proposal
+OPP000511,Alto Digital 190 - Forecast Studio Standard,2026-01-29,2026-04-26,,C00190,P0040,SR011,Prospecting,0.10,16224.63,1622.46,EUR,Outbound,None
+OPP000512,Helios Partners 057 - BI Explorer Enterprise,2025-12-02,2026-03-26,,C00057,P0033,SR006,Negotiation,0.75,79835.24,59876.43,EUR,Outbound,Legal review
+OPP000513,Atlas France 346 - Embedded Analytics Advanced,2023-01-13,2023-02-24,2023-04-08,C00346,P0038,SR003,Closed Lost,0.00,3085.37,0.00,EUR,Partner,Send proposal
+OPP000514,Polaris Digital 226 - Data Governance Suite Standard,2023-09-20,2023-12-05,,C00226,P0010,SR006,Qualification,0.25,3671.51,917.88,EUR,Outbound,Follow-up
+OPP000515,Lumen Partners 159 - Embedded Analytics Standard,2026-09-05,2026-12-11,,C00159,P0037,SR005,Negotiation,0.75,25140.73,18855.55,EUR,Website,Send proposal
+OPP000516,Horizon Solutions 037 - Data Governance Suite Advanced,2026-07-15,2026-08-29,,C00037,P0011,SR004,Proposal,0.50,20628.40,10314.20,EUR,Event,Send proposal
+OPP000517,Echo Conseil 062 - BI Explorer Enterprise,2024-09-21,2024-12-17,2024-11-14,C00062,P0033,SR004,Closed Won,1.00,77703.58,77703.58,EUR,Event,Send proposal
+OPP000518,Kappa Group 040 - ETL Connect Advanced,2026-01-26,2026-07-14,,C00040,P0017,SR007,Proposal,0.50,16532.78,8266.39,EUR,Partner,Technical demo
+OPP000519,Horizon Solutions 037 - API Gateway Standard,2025-03-02,2025-08-14,,C00037,P0019,SR009,Prospecting,0.10,73352.14,7335.21,EUR,Referral,Technical demo
+OPP000520,Horizon Solutions 219 - Integration Runtime Advanced,2024-12-11,2025-01-13,2025-02-03,C00219,P0029,SR012,Closed Lost,0.00,254684.55,0.00,EUR,Event,Discovery call
+OPP000521,Echo Conseil 137 - Reporting Server Enterprise,2024-07-30,2024-12-23,,C00137,P0045,SR011,Prospecting,0.10,101998.61,10199.86,EUR,Event,Send proposal
+OPP000522,Nova Conseil 168 - Embedded Analytics Advanced,2023-12-23,2024-02-20,,C00168,P0038,SR001,Proposal,0.50,21340.86,10670.43,EUR,Website,Follow-up
+OPP000523,Nova Logistics 369 - Feature Store Advanced,2024-01-29,2024-02-27,2024-07-16,C00369,P0059,SR006,Closed Won,1.00,22091.34,22091.34,EUR,Website,Technical demo
+OPP000524,Sigma Systems 086 - Forecast Studio Enterprise,2025-07-06,2025-12-28,,C00086,P0042,SR011,Qualification,0.25,18228.09,4557.02,EUR,Outbound,Follow-up
+OPP000525,Aster Conseil 320 - Integration Runtime Enterprise,2026-04-06,2026-05-13,2026-06-29,C00320,P0030,SR003,Closed Lost,0.00,105425.81,0.00,EUR,Outbound,Discovery call
+OPP000526,Helios Industries 258 - Feature Store Standard,2024-04-27,2024-08-14,,C00258,P0058,SR011,Proposal,0.50,2646.31,1323.15,EUR,Outbound,Send proposal
+OPP000527,Aster Logistics 072 - Reporting Server Enterprise,2024-06-12,2024-12-06,2024-09-17,C00072,P0045,SR004,Closed Won,1.00,32630.49,32630.49,EUR,Referral,Follow-up
+OPP000528,Helios Digital 098 - Agent Builder Enterprise,2026-09-01,2026-09-26,,C00098,P0057,SR007,Qualification,0.25,108543.59,27135.90,EUR,Website,Technical demo
+OPP000529,Orion Partners 139 - Dashboard Pro Advanced,2025-02-13,2025-07-19,,C00139,P0035,SR001,Qualification,0.25,6108.49,1527.12,EUR,Outbound,Legal review
+OPP000530,Atlas Solutions 298 - Reporting Server Enterprise,2023-09-06,2023-12-19,,C00298,P0045,SR004,Proposal,0.50,105746.58,52873.29,EUR,Partner,None
+OPP000531,Cobalt Retail 498 - Premium Support Advanced,2023-01-15,2023-05-13,,C00498,P0071,SR009,Negotiation,0.75,19674.77,14756.08,EUR,Outbound,Send proposal
+OPP000532,Kappa Retail 055 - Reporting Server Enterprise,2026-06-26,2026-10-31,,C00055,P0045,SR007,Negotiation,0.75,27028.78,20271.58,EUR,Partner,Discovery call
+OPP000533,Axial Systems 102 - Implementation Pack Advanced,2026-04-18,2026-06-27,,C00102,P0062,SR008,Negotiation,0.75,16526.09,12394.57,EUR,Website,Technical demo
+OPP000534,Sigma Systems 086 - BI Explorer Enterprise,2025-12-15,2026-04-25,,C00086,P0033,SR010,Proposal,0.50,110120.11,55060.06,EUR,Event,Follow-up
+OPP000535,Kappa Group 040 - Forecast Studio Enterprise,2026-03-06,2026-08-01,2026-08-08,C00040,P0042,SR011,Closed Won,1.00,9586.37,9586.37,EUR,Website,Send proposal
+OPP000536,Sigma Systems 086 - Premium Support Standard,2024-04-06,2024-06-27,,C00086,P0070,SR006,Proposal,0.50,4246.06,2123.03,EUR,Event,None
+OPP000537,Aster Technologies 275 - File Transfer Hub Enterprise,2025-04-11,2025-06-20,2025-07-09,C00275,P0027,SR001,Closed Won,1.00,212480.50,212480.50,EUR,Referral,None
+OPP000538,Aster Group 153 - Architecture Workshop Advanced,2025-05-25,2025-08-27,2025-09-22,C00153,P0065,SR005,Closed Won,1.00,40733.88,40733.88,EUR,Referral,Technical demo
+OPP000539,Lumen Industries 289 - Warehouse Pro Enterprise,2025-05-29,2025-11-24,,C00289,P0006,SR001,Negotiation,0.75,36031.63,27023.72,EUR,Outbound,Discovery call
+OPP000540,Cobalt Digital 213 - Model Serving Advanced,2024-04-30,2024-08-16,2024-06-16,C00213,P0050,SR012,Closed Lost,0.00,3015.18,0.00,EUR,Partner,None
+OPP000541,Aster Partners 206 - File Transfer Hub Enterprise,2025-09-06,2025-12-06,,C00206,P0027,SR002,Negotiation,0.75,82870.00,62152.50,EUR,Event,Legal review
+OPP000542,Horizon Logistics 181 - Warehouse Pro Advanced,2023-01-25,2023-03-02,,C00181,P0005,SR002,Qualification,0.25,106598.41,26649.60,EUR,Partner,Technical demo
+OPP000543,Helios Technologies 023 - Premium Support Enterprise,2023-04-06,2023-06-19,,C00023,P0072,SR008,Proposal,0.50,8674.98,4337.49,EUR,Website,None
+OPP000544,Aster Partners 206 - Reporting Server Advanced,2024-05-11,2024-11-07,2024-09-25,C00206,P0044,SR010,Closed Won,1.00,341175.09,341175.09,EUR,Website,Discovery call
+OPP000545,Orion Technologies 335 - Premium Support Standard,2023-07-12,2023-12-27,,C00335,P0070,SR008,Prospecting,0.10,3665.25,366.53,EUR,Partner,Send proposal
+OPP000546,Nova Logistics 382 - File Transfer Hub Advanced,2025-05-30,2025-07-17,,C00382,P0026,SR001,Proposal,0.50,14775.36,7387.68,EUR,Referral,Discovery call
+OPP000547,Sigma Retail 101 - File Transfer Hub Enterprise,2025-10-12,2026-01-29,,C00101,P0027,SR004,Prospecting,0.10,456335.87,45633.59,EUR,Outbound,None
+OPP000548,Sigma Technologies 372 - Agent Builder Standard,2025-03-11,2025-07-04,,C00372,P0055,SR006,Negotiation,0.75,12688.06,9516.05,EUR,Partner,Send proposal
+OPP000549,Atlas Digital 236 - Embedded Analytics Advanced,2024-08-23,2025-02-10,,C00236,P0038,SR002,Prospecting,0.10,18839.23,1883.92,EUR,Event,Send proposal
+OPP000550,Atlas Retail 222 - Migration Assessment Enterprise,2024-09-15,2024-10-16,2024-12-22,C00222,P0075,SR010,Closed Won,1.00,7281.53,7281.53,EUR,Partner,None
+OPP000551,Atlas France 346 - Reporting Server Advanced,2025-07-17,2025-11-09,,C00346,P0044,SR006,Negotiation,0.75,138370.52,103777.89,EUR,Outbound,None
+OPP000552,Sigma Systems 294 - Vector Search Advanced,2025-12-02,2025-12-27,,C00294,P0053,SR008,Prospecting,0.10,6555.44,655.54,EUR,Referral,None
+OPP000553,Polaris Conseil 093 - Dashboard Pro Enterprise,2023-07-27,2023-09-15,,C00093,P0036,SR010,Proposal,0.50,21034.59,10517.30,EUR,Website,Send proposal
+OPP000554,Alto Systems 391 - Migration Assessment Advanced,2023-11-17,2023-12-25,2024-04-08,C00391,P0074,SR003,Closed Lost,0.00,49343.80,0.00,EUR,Outbound,Send proposal
+OPP000555,Nova Solutions 004 - ETL Connect Enterprise,2023-02-27,2023-04-10,2023-04-19,C00004,P0018,SR002,Closed Won,1.00,3989.59,3989.59,EUR,Referral,Send proposal
+OPP000556,Sigma Retail 101 - ETL Connect Advanced,2024-01-27,2024-02-24,,C00101,P0017,SR011,Qualification,0.25,65143.17,16285.79,EUR,Website,Legal review
+OPP000557,Lumen Logistics 489 - Training Credits Advanced,2025-08-12,2025-10-12,2025-10-09,C00489,P0068,SR011,Closed Won,1.00,3213.19,3213.19,EUR,Outbound,Legal review
+OPP000558,Lumen Digital 064 - Migration Assessment Enterprise,2024-09-26,2024-11-02,,C00064,P0075,SR012,Qualification,0.25,187441.30,46860.32,EUR,Referral,None
+OPP000559,Atlas Systems 474 - Embedded Analytics Advanced,2024-03-14,2024-05-04,,C00474,P0038,SR007,Prospecting,0.10,3769.88,376.99,EUR,Website,Follow-up
+OPP000560,Horizon France 201 - Streaming Engine Standard,2025-12-06,2026-01-10,2026-03-21,C00201,P0007,SR006,Closed Won,1.00,11530.09,11530.09,EUR,Referral,None
+OPP000561,Echo Retail 048 - Lakehouse Starter Standard,2025-03-06,2025-03-22,2025-07-20,C00048,P0001,SR009,Closed Won,1.00,7939.17,7939.17,EUR,Outbound,Send proposal
+OPP000562,Vertex Logistics 296 - Vector Search Standard,2025-07-02,2025-09-28,,C00296,P0052,SR007,Qualification,0.25,83008.05,20752.01,EUR,Outbound,Technical demo
+OPP000563,Alto France 149 - Migration Assessment Standard,2023-06-20,2023-11-21,,C00149,P0073,SR008,Negotiation,0.75,17215.13,12911.35,EUR,Partner,Technical demo
+OPP000564,Echo Services 415 - Warehouse Pro Standard,2025-08-01,2025-11-28,,C00415,P0004,SR011,Qualification,0.25,171015.47,42753.87,EUR,Event,Discovery call
+OPP000565,Alto Technologies 217 - File Transfer Hub Standard,2023-12-08,2024-02-01,,C00217,P0025,SR011,Negotiation,0.75,10447.52,7835.64,EUR,Partner,Follow-up
+OPP000566,Vertex Industries 008 - ML Workbench Advanced,2026-05-21,2026-08-13,2026-06-18,C00008,P0047,SR012,Closed Won,1.00,29567.51,29567.51,EUR,Outbound,Follow-up
+OPP000567,Helios Logistics 445 - Model Serving Enterprise,2025-03-12,2025-05-28,,C00445,P0051,SR009,Prospecting,0.10,41113.96,4111.40,EUR,Outbound,Discovery call
+OPP000568,Vertex Solutions 016 - ETL Connect Advanced,2023-03-03,2023-08-22,2023-07-13,C00016,P0017,SR001,Closed Lost,0.00,23593.62,0.00,EUR,Partner,Technical demo
+OPP000569,Echo Services 235 - Premium Support Enterprise,2023-03-23,2023-07-14,,C00235,P0072,SR012,Negotiation,0.75,76796.06,57597.04,EUR,Referral,Discovery call
+OPP000570,Cobalt France 444 - File Transfer Hub Advanced,2025-05-18,2025-08-26,,C00444,P0026,SR008,Qualification,0.25,48859.80,12214.95,EUR,Partner,Send proposal
+OPP000571,Axial France 417 - API Gateway Advanced,2024-03-23,2024-05-08,2024-07-06,C00417,P0020,SR006,Closed Won,1.00,322861.67,322861.67,EUR,Partner,Discovery call
+OPP000572,Lumen Digital 191 - Warehouse Pro Enterprise,2023-07-15,2023-12-28,,C00191,P0006,SR008,Prospecting,0.10,24715.15,2471.52,EUR,Referral,None
+OPP000573,Helios Technologies 023 - Feature Store Advanced,2025-10-17,2026-01-27,2026-02-12,C00023,P0059,SR010,Closed Lost,0.00,20568.41,0.00,EUR,Outbound,Legal review
+OPP000574,Polaris Solutions 456 - Migration Assessment Standard,2025-01-13,2025-04-16,,C00456,P0073,SR004,Prospecting,0.10,50805.80,5080.58,EUR,Referral,Discovery call
+OPP000575,Echo Digital 221 - BI Explorer Advanced,2023-10-06,2024-03-13,,C00221,P0032,SR002,Proposal,0.50,7799.15,3899.57,EUR,Event,Follow-up
+OPP000576,Cobalt Technologies 338 - Vector Search Standard,2024-07-31,2024-11-11,2024-12-13,C00338,P0052,SR009,Closed Lost,0.00,14458.77,0.00,EUR,Referral,None
+OPP000577,Helios Retail 386 - Reporting Server Standard,2023-12-17,2024-06-13,,C00386,P0043,SR007,Negotiation,0.75,15550.80,11663.10,EUR,Event,Send proposal
+OPP000578,Polaris Group 399 - Migration Assessment Advanced,2025-09-01,2025-09-22,2025-11-12,C00399,P0074,SR009,Closed Lost,0.00,81462.61,0.00,EUR,Partner,None
+OPP000579,Aster Solutions 259 - Streaming Engine Enterprise,2025-11-08,2026-03-26,2026-05-03,C00259,P0009,SR005,Closed Won,1.00,512815.30,512815.30,EUR,Referral,Discovery call
+OPP000580,Lumen Group 196 - ETL Connect Enterprise,2025-01-23,2025-02-22,,C00196,P0018,SR001,Negotiation,0.75,2905.95,2179.46,EUR,Event,Discovery call
+OPP000581,Axial Partners 035 - Forecast Studio Enterprise,2023-10-07,2024-01-07,2024-02-05,C00035,P0042,SR001,Closed Lost,0.00,36663.16,0.00,EUR,Outbound,None
+OPP000582,Polaris Conseil 044 - Data Governance Suite Enterprise,2024-02-25,2024-06-13,,C00044,P0012,SR010,Negotiation,0.75,448432.81,336324.61,EUR,Partner,Follow-up
+OPP000583,Vertex Technologies 418 - Model Serving Standard,2026-07-09,2026-09-26,2026-08-27,C00418,P0049,SR005,Closed Lost,0.00,6968.95,0.00,EUR,Outbound,Follow-up
+OPP000584,Lumen Industries 106 - Premium Support Advanced,2026-06-09,2026-09-10,,C00106,P0071,SR006,Qualification,0.25,16270.29,4067.57,EUR,Partner,Follow-up
+OPP000585,Atlas Industries 470 - CDC Connector Standard,2023-04-03,2023-07-01,,C00470,P0022,SR003,Prospecting,0.10,168977.73,16897.77,EUR,Referral,Follow-up
+OPP000586,Horizon Technologies 205 - API Gateway Enterprise,2025-11-16,2025-12-17,,C00205,P0021,SR005,Negotiation,0.75,42188.17,31641.13,EUR,Website,Legal review
+OPP000587,Horizon Technologies 483 - Embedded Analytics Advanced,2025-09-10,2025-10-15,,C00483,P0038,SR011,Qualification,0.25,9750.66,2437.66,EUR,Event,Technical demo
+OPP000588,Atlas Industries 293 - Streaming Engine Enterprise,2026-06-27,2026-10-16,2026-07-08,C00293,P0009,SR002,Closed Lost,0.00,226848.75,0.00,EUR,Event,Discovery call
+OPP000589,Sigma Industries 278 - Forecast Studio Advanced,2023-01-21,2023-03-23,,C00278,P0041,SR004,Prospecting,0.10,6447.23,644.72,EUR,Event,Discovery call
+OPP000590,Kappa Technologies 146 - Integration Runtime Standard,2023-06-28,2023-10-02,2023-10-23,C00146,P0028,SR009,Closed Lost,0.00,3577.11,0.00,EUR,Event,None
+OPP000591,Echo Services 274 - Forecast Studio Enterprise,2025-01-16,2025-06-06,,C00274,P0042,SR001,Proposal,0.50,17000.81,8500.41,EUR,Event,Discovery call
+OPP000592,Atlas Industries 470 - Premium Support Advanced,2025-01-14,2025-03-05,,C00470,P0071,SR006,Negotiation,0.75,1464.70,1098.53,EUR,Website,Follow-up
+OPP000593,Sigma Retail 194 - Model Serving Standard,2023-06-28,2023-11-17,2023-09-17,C00194,P0049,SR003,Closed Won,1.00,4107.65,4107.65,EUR,Partner,Discovery call
+OPP000594,Axial France 417 - Lakehouse Starter Enterprise,2023-02-08,2023-04-01,2023-05-29,C00417,P0003,SR009,Closed Lost,0.00,55014.73,0.00,EUR,Referral,Legal review
+OPP000595,Vertex Group 485 - Data Catalog Advanced,2026-09-20,2027-01-22,2026-09-25,C00485,P0014,SR011,Closed Won,1.00,234209.99,234209.99,EUR,Outbound,Discovery call
+OPP000596,Nova France 426 - BI Explorer Enterprise,2025-08-07,2025-11-21,2026-01-08,C00426,P0033,SR003,Closed Lost,0.00,61990.34,0.00,EUR,Outbound,Legal review
+OPP000597,Sigma Systems 427 - Streaming Engine Advanced,2024-10-28,2025-03-19,2025-02-09,C00427,P0008,SR005,Closed Won,1.00,15609.02,15609.02,EUR,Outbound,Discovery call
+OPP000598,Horizon Systems 126 - Feature Store Enterprise,2025-12-12,2026-02-13,2026-06-02,C00126,P0060,SR001,Closed Won,1.00,23994.89,23994.89,EUR,Referral,Technical demo
+OPP000599,Vertex Technologies 342 - Vector Search Standard,2026-03-04,2026-04-25,,C00342,P0052,SR001,Negotiation,0.75,14793.91,11095.43,EUR,Referral,Send proposal
+OPP000600,Nexus Group 337 - Lakehouse Starter Standard,2024-10-18,2025-04-02,,C00337,P0001,SR002,Negotiation,0.75,4882.29,3661.72,EUR,Event,Technical demo
+OPP000601,Axial Group 230 - Architecture Workshop Standard,2023-01-05,2023-06-25,2023-04-12,C00230,P0064,SR002,Closed Won,1.00,977.97,977.97,EUR,Event,None
+OPP000602,Nexus Group 337 - Implementation Pack Enterprise,2023-03-23,2023-05-06,2023-05-15,C00337,P0063,SR002,Closed Won,1.00,20380.47,20380.47,EUR,Referral,Legal review
+OPP000603,Helios Systems 021 - Dashboard Pro Advanced,2026-03-01,2026-05-25,,C00021,P0035,SR003,Negotiation,0.75,31026.18,23269.64,EUR,Event,None
+OPP000604,Echo Conseil 440 - Dashboard Pro Enterprise,2026-07-07,2026-08-06,,C00440,P0036,SR002,Qualification,0.25,95580.75,23895.19,EUR,Partner,Follow-up
+OPP000605,Polaris Conseil 044 - Premium Support Advanced,2023-11-11,2023-12-06,,C00044,P0071,SR008,Proposal,0.50,7122.47,3561.24,EUR,Event,Send proposal
+OPP000606,Helios Systems 475 - Forecast Studio Enterprise,2025-07-28,2025-12-10,,C00475,P0042,SR010,Prospecting,0.10,25958.62,2595.86,EUR,Website,None
+OPP000607,Alto France 149 - Premium Support Enterprise,2024-09-06,2024-12-30,,C00149,P0072,SR007,Qualification,0.25,4978.74,1244.68,EUR,Referral,Follow-up
+OPP000608,Vertex Industries 170 - API Gateway Advanced,2026-02-14,2026-04-12,2026-08-01,C00170,P0020,SR006,Closed Lost,0.00,123987.14,0.00,EUR,Outbound,None
+OPP000609,Lumen Logistics 373 - Forecast Studio Enterprise,2024-09-16,2024-11-03,,C00373,P0042,SR002,Proposal,0.50,136525.53,68262.76,EUR,Referral,Send proposal
+OPP000610,Horizon Retail 257 - BI Explorer Enterprise,2025-06-13,2025-08-10,,C00257,P0033,SR011,Qualification,0.25,52029.19,13007.30,EUR,Partner,Technical demo
+OPP000611,Alto France 244 - Feature Store Advanced,2026-05-20,2026-11-13,,C00244,P0059,SR005,Qualification,0.25,15741.47,3935.37,EUR,Partner,Discovery call
+OPP000612,Cobalt Industries 097 - ML Workbench Advanced,2026-06-22,2026-08-07,,C00097,P0047,SR005,Negotiation,0.75,8887.11,6665.33,EUR,Outbound,Follow-up
+OPP000613,Kappa France 290 - Warehouse Pro Standard,2026-08-28,2026-10-20,,C00290,P0004,SR011,Qualification,0.25,80729.12,20182.28,EUR,Partner,Legal review
+OPP000614,Helios Group 063 - Architecture Workshop Advanced,2024-11-14,2025-04-09,,C00063,P0065,SR011,Qualification,0.25,141556.48,35389.12,EUR,Partner,Discovery call
+OPP000615,Axial Digital 225 - Streaming Engine Standard,2024-03-20,2024-07-26,,C00225,P0007,SR003,Prospecting,0.10,20620.06,2062.01,EUR,Outbound,Send proposal
+OPP000616,Alto Services 447 - Reporting Server Enterprise,2024-11-13,2025-02-18,,C00447,P0045,SR008,Negotiation,0.75,19825.88,14869.41,EUR,Partner,Discovery call
+OPP000617,Axial France 417 - Data Catalog Standard,2026-05-28,2026-07-10,,C00417,P0013,SR004,Proposal,0.50,7635.13,3817.57,EUR,Partner,Send proposal
+OPP000618,Alto Retail 007 - Premium Support Advanced,2025-08-17,2026-01-22,,C00007,P0071,SR006,Qualification,0.25,6200.52,1550.13,EUR,Outbound,Discovery call
+OPP000619,Helios Partners 328 - Training Credits Advanced,2023-07-29,2023-08-24,2023-12-03,C00328,P0068,SR007,Closed Won,1.00,3430.39,3430.39,EUR,Outbound,Discovery call
+OPP000620,Kappa Systems 467 - Warehouse Pro Standard,2024-01-02,2024-03-16,,C00467,P0004,SR007,Qualification,0.25,126641.81,31660.45,EUR,Website,Legal review
+OPP000621,Sigma Industries 414 - Dashboard Pro Advanced,2024-08-04,2024-11-05,2024-09-01,C00414,P0035,SR012,Closed Lost,0.00,15820.56,0.00,EUR,Referral,Send proposal
+OPP000622,Helios Systems 441 - Model Serving Advanced,2024-09-01,2024-10-20,,C00441,P0050,SR001,Proposal,0.50,5284.81,2642.41,EUR,Partner,Discovery call
+OPP000623,Cobalt Retail 498 - ETL Connect Enterprise,2023-10-28,2024-02-05,,C00498,P0018,SR008,Negotiation,0.75,15882.69,11912.02,EUR,Outbound,Send proposal
+OPP000624,Alto Group 214 - Integration Runtime Enterprise,2024-05-15,2024-10-19,,C00214,P0030,SR010,Negotiation,0.75,40896.66,30672.50,EUR,Event,Discovery call
+OPP000625,Polaris Industries 176 - Training Credits Enterprise,2023-06-13,2023-09-04,2023-06-19,C00176,P0069,SR004,Closed Won,1.00,114731.75,114731.75,EUR,Event,None
+OPP000626,Aster France 242 - Premium Support Advanced,2023-02-18,2023-04-12,,C00242,P0071,SR012,Negotiation,0.75,823.61,617.71,EUR,Outbound,Follow-up
+OPP000627,Helios Solutions 005 - Agent Builder Advanced,2023-08-06,2023-08-24,,C00005,P0056,SR009,Prospecting,0.10,271438.14,27143.81,EUR,Outbound,Technical demo
+OPP000628,Echo Partners 087 - Architecture Workshop Standard,2025-04-14,2025-05-18,,C00087,P0064,SR005,Proposal,0.50,4151.58,2075.79,EUR,Referral,Discovery call
+OPP000629,Nova Solutions 248 - Training Credits Advanced,2026-04-18,2026-05-06,,C00248,P0068,SR001,Negotiation,0.75,3096.03,2322.02,EUR,Outbound,Send proposal
+OPP000630,Axial Partners 107 - Embedded Analytics Enterprise,2023-10-19,2024-02-02,2023-11-13,C00107,P0039,SR007,Closed Lost,0.00,215992.55,0.00,EUR,Referral,Technical demo
+OPP000631,Alto Group 214 - Streaming Engine Standard,2023-02-23,2023-06-30,,C00214,P0007,SR001,Qualification,0.25,14953.92,3738.48,EUR,Outbound,Discovery call
+OPP000632,Axial Technologies 451 - Data Governance Suite Enterprise,2026-03-23,2026-09-09,,C00451,P0012,SR010,Negotiation,0.75,438548.41,328911.31,EUR,Referral,Technical demo
+OPP000633,Axial Digital 354 - Model Serving Standard,2026-04-09,2026-05-20,,C00354,P0049,SR012,Negotiation,0.75,8752.43,6564.32,EUR,Referral,Follow-up
+OPP000634,Nova Technologies 343 - Data Governance Suite Enterprise,2024-09-14,2024-10-30,2025-01-01,C00343,P0012,SR008,Closed Won,1.00,52965.48,52965.48,EUR,Event,Technical demo
+OPP000635,Alto Conseil 208 - Implementation Pack Enterprise,2025-06-18,2025-10-03,,C00208,P0063,SR007,Proposal,0.50,24638.68,12319.34,EUR,Event,Legal review
+OPP000636,Atlas Digital 236 - CDC Connector Enterprise,2025-07-31,2025-08-30,2025-12-02,C00236,P0024,SR011,Closed Won,1.00,6453.56,6453.56,EUR,Event,Legal review
+OPP000637,Helios Services 422 - ETL Connect Standard,2023-06-07,2023-07-13,,C00422,P0016,SR003,Negotiation,0.75,1956.08,1467.06,EUR,Partner,Legal review
+OPP000638,Axial France 417 - Data Governance Suite Advanced,2024-03-06,2024-04-26,,C00417,P0011,SR002,Proposal,0.50,3915.54,1957.77,EUR,Partner,None
+OPP000639,Horizon Solutions 219 - Implementation Pack Advanced,2024-02-04,2024-07-08,,C00219,P0062,SR010,Negotiation,0.75,10589.03,7941.77,EUR,Event,Discovery call
+OPP000640,Helios Technologies 023 - Premium Support Enterprise,2025-12-02,2026-05-15,2025-12-15,C00023,P0072,SR001,Closed Won,1.00,62838.76,62838.76,EUR,Website,None
+OPP000641,Vertex Retail 074 - Architecture Workshop Enterprise,2026-05-04,2026-09-04,,C00074,P0066,SR012,Prospecting,0.10,13536.69,1353.67,EUR,Partner,Send proposal
+OPP000642,Kappa Retail 029 - BI Explorer Standard,2026-05-12,2026-06-06,2026-07-03,C00029,P0031,SR011,Closed Won,1.00,43786.85,43786.85,EUR,Partner,Technical demo
+OPP000643,Nova Partners 070 - Dashboard Pro Standard,2024-12-18,2025-01-13,,C00070,P0034,SR009,Prospecting,0.10,2571.71,257.17,EUR,Outbound,None
+OPP000644,Axial Industries 306 - Forecast Studio Advanced,2024-09-02,2025-01-26,2025-03-01,C00306,P0041,SR002,Closed Won,1.00,18936.83,18936.83,EUR,Event,Send proposal
+OPP000645,Vertex Technologies 418 - Vector Search Enterprise,2023-01-22,2023-05-18,,C00418,P0054,SR010,Negotiation,0.75,613655.06,460241.30,EUR,Partner,Send proposal
+OPP000646,Axial Partners 035 - ETL Connect Standard,2024-01-28,2024-03-11,,C00035,P0016,SR005,Prospecting,0.10,874.89,87.49,EUR,Partner,Technical demo
+OPP000647,Cobalt Industries 171 - Embedded Analytics Enterprise,2024-09-07,2024-10-26,2024-10-24,C00171,P0039,SR002,Closed Won,1.00,103123.61,103123.61,EUR,Referral,Follow-up
+OPP000648,Cobalt Industries 175 - Premium Support Advanced,2023-12-14,2024-04-20,2024-03-27,C00175,P0071,SR011,Closed Won,1.00,1207.30,1207.30,EUR,Event,Follow-up
+OPP000649,Cobalt Industries 097 - Implementation Pack Enterprise,2025-11-20,2026-01-30,2026-04-07,C00097,P0063,SR001,Closed Lost,0.00,173792.22,0.00,EUR,Event,Legal review
+OPP000650,Lumen Industries 289 - Warehouse Pro Standard,2026-01-10,2026-03-08,2026-02-15,C00289,P0004,SR005,Closed Lost,0.00,8976.87,0.00,EUR,Website,Follow-up
+OPP000651,Lumen Logistics 489 - Embedded Analytics Advanced,2023-11-19,2024-03-27,2024-03-30,C00489,P0038,SR006,Closed Won,1.00,4913.14,4913.14,EUR,Referral,Technical demo
+OPP000652,Nexus Technologies 319 - BI Explorer Advanced,2024-06-10,2024-08-23,,C00319,P0032,SR009,Prospecting,0.10,36521.89,3652.19,EUR,Website,None
+OPP000653,Kappa Partners 071 - Agent Builder Advanced,2023-11-20,2024-04-28,,C00071,P0056,SR010,Prospecting,0.10,63869.95,6386.99,EUR,Partner,Discovery call
+OPP000654,Lumen Industries 106 - Integration Runtime Enterprise,2025-02-25,2025-08-18,,C00106,P0030,SR009,Proposal,0.50,7296.03,3648.01,EUR,Referral,Legal review
+OPP000655,Aster France 404 - ML Workbench Advanced,2026-06-23,2026-11-10,,C00404,P0047,SR002,Qualification,0.25,20576.18,5144.05,EUR,Event,Send proposal
+OPP000656,Polaris Digital 047 - Streaming Engine Standard,2023-03-16,2023-04-14,,C00047,P0007,SR009,Prospecting,0.10,42228.07,4222.81,EUR,Partner,Follow-up
+OPP000657,Helios Logistics 041 - File Transfer Hub Enterprise,2024-03-30,2024-05-04,,C00041,P0027,SR008,Proposal,0.50,77885.63,38942.82,EUR,Outbound,Discovery call
+OPP000658,Atlas Digital 001 - Vector Search Standard,2024-07-04,2024-08-10,2024-12-05,C00001,P0052,SR004,Closed Won,1.00,21342.72,21342.72,EUR,Referral,None
+OPP000659,Helios Solutions 005 - Architecture Workshop Enterprise,2024-02-06,2024-02-28,,C00005,P0066,SR009,Negotiation,0.75,44574.09,33430.57,EUR,Outbound,Follow-up
+OPP000660,Horizon Industries 204 - Embedded Analytics Standard,2025-04-28,2025-08-18,,C00204,P0037,SR012,Proposal,0.50,171408.81,85704.40,EUR,Event,Legal review
+OPP000661,Alto Group 434 - ML Workbench Advanced,2024-02-27,2024-03-25,2024-06-12,C00434,P0047,SR006,Closed Won,1.00,34539.25,34539.25,EUR,Partner,Discovery call
+OPP000662,Polaris Digital 047 - Model Serving Standard,2026-04-16,2026-05-26,,C00047,P0049,SR009,Proposal,0.50,30823.88,15411.94,EUR,Event,None
+OPP000663,Polaris Digital 455 - Implementation Pack Standard,2024-02-24,2024-06-28,,C00455,P0061,SR006,Proposal,0.50,2998.10,1499.05,EUR,Referral,Discovery call
+OPP000664,Horizon Solutions 219 - Training Credits Enterprise,2025-09-07,2026-01-23,2026-01-20,C00219,P0069,SR006,Closed Won,1.00,23227.89,23227.89,EUR,Partner,Legal review
+OPP000665,Kappa Retail 029 - Lakehouse Starter Advanced,2026-02-22,2026-05-21,,C00029,P0002,SR007,Negotiation,0.75,2069.02,1551.76,EUR,Event,Technical demo
+OPP000666,Nova Logistics 269 - Warehouse Pro Enterprise,2024-12-27,2025-02-10,,C00269,P0006,SR010,Negotiation,0.75,11775.41,8831.56,EUR,Referral,Legal review
+OPP000667,Helios Industries 258 - Implementation Pack Advanced,2024-07-27,2024-08-21,2024-11-04,C00258,P0062,SR008,Closed Lost,0.00,48339.27,0.00,EUR,Referral,Discovery call
+OPP000668,Nova Industries 009 - ETL Connect Enterprise,2024-05-19,2024-10-15,2024-10-25,C00009,P0018,SR012,Closed Won,1.00,15363.84,15363.84,EUR,Event,Follow-up
+OPP000669,Sigma Group 500 - Training Credits Advanced,2023-11-28,2024-01-23,,C00500,P0068,SR007,Negotiation,0.75,6509.16,4881.87,EUR,Partner,Follow-up
+OPP000670,Alto Systems 391 - Data Governance Suite Enterprise,2025-02-03,2025-07-02,,C00391,P0012,SR009,Proposal,0.50,149723.36,74861.68,EUR,Event,Discovery call
+OPP000671,Helios Logistics 445 - Agent Builder Standard,2023-05-28,2023-07-29,,C00445,P0055,SR010,Qualification,0.25,871.68,217.92,EUR,Outbound,Follow-up
+OPP000672,Alto Group 053 - Streaming Engine Standard,2026-03-23,2026-06-04,2026-05-13,C00053,P0007,SR009,Closed Lost,0.00,16078.07,0.00,EUR,Event,Follow-up
+OPP000673,Atlas Solutions 298 - Reporting Server Advanced,2025-01-27,2025-05-26,,C00298,P0044,SR007,Prospecting,0.10,53113.21,5311.32,EUR,Event,Send proposal
+OPP000674,Nexus Solutions 198 - Architecture Workshop Standard,2024-09-02,2024-09-26,,C00198,P0064,SR001,Negotiation,0.75,487.25,365.44,EUR,Outbound,Send proposal
+OPP000675,Lumen Logistics 489 - Reporting Server Advanced,2023-09-11,2023-12-21,2023-11-30,C00489,P0044,SR009,Closed Won,1.00,502066.94,502066.94,EUR,Partner,Technical demo
+OPP000676,Vertex France 303 - Integration Runtime Enterprise,2025-09-30,2025-10-23,,C00303,P0030,SR004,Proposal,0.50,29691.75,14845.88,EUR,Event,None
+OPP000677,Echo Digital 367 - Data Governance Suite Advanced,2026-09-17,2026-12-07,2026-09-23,C00367,P0011,SR009,Closed Won,1.00,2490.81,2490.81,EUR,Website,Technical demo
+OPP000678,Sigma Industries 414 - Warehouse Pro Standard,2023-08-01,2023-10-17,2023-09-04,C00414,P0004,SR008,Closed Lost,0.00,31422.46,0.00,EUR,Website,Send proposal
+OPP000679,Kappa Retail 029 - CDC Connector Standard,2025-09-24,2025-11-19,,C00029,P0022,SR006,Qualification,0.25,18851.62,4712.90,EUR,Website,Discovery call
+OPP000680,Kappa Digital 492 - Forecast Studio Enterprise,2024-08-27,2024-09-11,2024-11-04,C00492,P0042,SR003,Closed Won,1.00,43442.52,43442.52,EUR,Partner,Discovery call
+OPP000681,Vertex Logistics 296 - Integration Runtime Enterprise,2025-03-20,2025-04-30,,C00296,P0030,SR012,Qualification,0.25,21370.82,5342.70,EUR,Partner,Legal review
+OPP000682,Atlas Systems 352 - Dashboard Pro Advanced,2023-05-09,2023-07-06,,C00352,P0035,SR004,Proposal,0.50,7046.82,3523.41,EUR,Referral,None
+OPP000683,Nova Industries 009 - CDC Connector Advanced,2026-03-03,2026-08-05,2026-05-04,C00009,P0023,SR006,Closed Won,1.00,9301.24,9301.24,EUR,Partner,Follow-up
+OPP000684,Vertex Group 080 - Reporting Server Advanced,2023-01-01,2023-04-24,,C00080,P0044,SR004,Negotiation,0.75,59096.53,44322.40,EUR,Outbound,Technical demo
+OPP000685,Atlas Solutions 407 - Dashboard Pro Enterprise,2023-09-10,2023-09-30,,C00407,P0036,SR005,Proposal,0.50,69830.42,34915.21,EUR,Outbound,Send proposal
+OPP000686,Nexus Partners 188 - Warehouse Pro Standard,2025-12-08,2026-03-29,,C00188,P0004,SR012,Negotiation,0.75,47084.16,35313.12,EUR,Referral,Discovery call
+OPP000687,Echo Logistics 031 - Data Catalog Standard,2026-02-05,2026-07-16,,C00031,P0013,SR006,Prospecting,0.10,3496.35,349.63,EUR,Event,None
+OPP000688,Nexus Technologies 131 - API Gateway Standard,2025-10-20,2025-11-18,2025-10-28,C00131,P0019,SR004,Closed Won,1.00,9472.01,9472.01,EUR,Partner,Legal review
+OPP000689,Echo Digital 221 - Training Credits Enterprise,2025-09-28,2025-12-14,,C00221,P0069,SR007,Proposal,0.50,25976.30,12988.15,EUR,Partner,Follow-up
+OPP000690,Kappa Solutions 379 - Forecast Studio Standard,2024-11-18,2025-03-21,,C00379,P0040,SR004,Prospecting,0.10,29990.94,2999.09,EUR,Partner,None
+OPP000691,Lumen Conseil 019 - Architecture Workshop Standard,2025-09-30,2026-03-18,,C00019,P0064,SR007,Qualification,0.25,3356.67,839.17,EUR,Website,None
+OPP000692,Polaris Group 270 - Data Governance Suite Enterprise,2026-04-02,2026-07-27,2026-05-23,C00270,P0012,SR008,Closed Lost,0.00,31973.72,0.00,EUR,Partner,Technical demo
+OPP000693,Helios Solutions 005 - Forecast Studio Standard,2026-01-21,2026-06-19,2026-03-21,C00005,P0040,SR001,Closed Lost,0.00,43424.34,0.00,EUR,Website,Send proposal
+OPP000694,Horizon Systems 353 - ML Workbench Advanced,2026-07-29,2026-08-22,,C00353,P0047,SR006,Negotiation,0.75,12925.60,9694.20,EUR,Event,None
+OPP000695,Horizon Systems 353 - Embedded Analytics Standard,2026-08-01,2026-08-19,2026-09-15,C00353,P0037,SR008,Closed Won,1.00,24555.45,24555.45,EUR,Referral,Send proposal
+OPP000696,Sigma France 036 - Dashboard Pro Advanced,2025-03-17,2025-08-06,,C00036,P0035,SR004,Qualification,0.25,1640.23,410.06,EUR,Partner,Follow-up
+OPP000697,Cobalt Services 141 - Data Governance Suite Advanced,2026-04-28,2026-07-06,,C00141,P0011,SR008,Proposal,0.50,1698.25,849.12,EUR,Outbound,None
+OPP000698,Axial Logistics 239 - Warehouse Pro Standard,2025-07-20,2025-11-26,,C00239,P0004,SR005,Negotiation,0.75,57054.41,42790.81,EUR,Referral,Technical demo
+OPP000699,Helios Partners 328 - Migration Assessment Standard,2023-10-12,2023-11-09,,C00328,P0073,SR003,Qualification,0.25,15288.73,3822.18,EUR,Event,Technical demo
+OPP000700,Horizon Logistics 381 - Dashboard Pro Enterprise,2024-05-20,2024-06-09,,C00381,P0036,SR008,Prospecting,0.10,228236.93,22823.69,EUR,Website,Legal review
+OPP000701,Aster France 242 - File Transfer Hub Advanced,2023-06-06,2023-07-16,2023-11-07,C00242,P0026,SR010,Closed Won,1.00,15522.20,15522.20,EUR,Partner,Follow-up
+OPP000702,Alto Digital 012 - Model Serving Enterprise,2026-07-17,2026-12-07,2026-08-16,C00012,P0051,SR001,Closed Won,1.00,57113.03,57113.03,EUR,Outbound,Technical demo
+OPP000703,Nova Partners 070 - BI Explorer Enterprise,2023-12-06,2024-02-17,2024-02-21,C00070,P0033,SR008,Closed Won,1.00,90718.17,90718.17,EUR,Event,Follow-up
+OPP000704,Nova France 288 - File Transfer Hub Enterprise,2026-06-26,2026-11-14,,C00288,P0027,SR005,Negotiation,0.75,61730.04,46297.53,EUR,Event,Technical demo
+OPP000705,Axial Technologies 339 - Data Governance Suite Advanced,2023-04-29,2023-05-19,,C00339,P0011,SR007,Prospecting,0.10,11101.37,1110.14,EUR,Website,Legal review
+OPP000706,Atlas Retail 222 - Feature Store Advanced,2026-09-12,2027-01-18,,C00222,P0059,SR005,Prospecting,0.10,249309.15,24930.92,EUR,Website,Legal review
+OPP000707,Echo Logistics 025 - Embedded Analytics Enterprise,2024-05-12,2024-08-11,,C00025,P0039,SR003,Qualification,0.25,24378.13,6094.53,EUR,Referral,Send proposal
+OPP000708,Cobalt France 444 - Implementation Pack Standard,2025-07-15,2025-10-18,,C00444,P0061,SR006,Negotiation,0.75,5350.33,4012.75,EUR,Outbound,Send proposal
+OPP000709,Echo Technologies 424 - Forecast Studio Advanced,2026-01-11,2026-06-22,,C00424,P0041,SR004,Qualification,0.25,1788.21,447.05,EUR,Partner,None
+OPP000710,Aster Digital 486 - Premium Support Enterprise,2026-05-15,2026-07-03,,C00486,P0072,SR008,Prospecting,0.10,6447.03,644.70,EUR,Website,None
+OPP000711,Lumen Industries 289 - Data Catalog Advanced,2023-07-20,2024-01-15,2023-07-31,C00289,P0014,SR012,Closed Lost,0.00,11519.68,0.00,EUR,Website,Technical demo
+OPP000712,Cobalt Services 143 - ML Workbench Standard,2025-03-12,2025-04-16,,C00143,P0046,SR006,Prospecting,0.10,15971.08,1597.11,EUR,Partner,Send proposal
+OPP000713,Axial Group 397 - Implementation Pack Enterprise,2024-06-24,2024-09-02,,C00397,P0063,SR006,Negotiation,0.75,118340.65,88755.49,EUR,Referral,Follow-up
+OPP000714,Kappa Technologies 146 - Migration Assessment Advanced,2026-06-15,2026-12-09,,C00146,P0074,SR002,Prospecting,0.10,239519.40,23951.94,EUR,Outbound,Follow-up
+OPP000715,Aster Partners 361 - File Transfer Hub Enterprise,2025-03-30,2025-09-03,,C00361,P0027,SR012,Qualification,0.25,217237.08,54309.27,EUR,Outbound,Legal review
+OPP000716,Alto Retail 307 - Streaming Engine Standard,2023-04-23,2023-06-03,,C00307,P0007,SR008,Qualification,0.25,9752.58,2438.14,EUR,Referral,Legal review
+OPP000717,Orion Conseil 439 - File Transfer Hub Standard,2023-10-10,2023-12-22,,C00439,P0025,SR004,Proposal,0.50,5120.34,2560.17,EUR,Event,Technical demo
+OPP000718,Atlas Partners 471 - CDC Connector Advanced,2026-03-17,2026-07-03,,C00471,P0023,SR007,Proposal,0.50,2033.78,1016.89,EUR,Website,Send proposal
+OPP000719,Lumen Industries 289 - Lakehouse Starter Advanced,2024-04-22,2024-09-22,,C00289,P0002,SR003,Proposal,0.50,32109.43,16054.72,EUR,Website,None
+OPP000720,Sigma Technologies 372 - Vector Search Standard,2025-02-17,2025-07-04,2025-08-10,C00372,P0052,SR006,Closed Won,1.00,6501.72,6501.72,EUR,Outbound,Technical demo
+OPP000721,Aster Logistics 487 - Dashboard Pro Advanced,2024-05-23,2024-11-03,2024-10-03,C00487,P0035,SR012,Closed Won,1.00,5443.24,5443.24,EUR,Website,Legal review
+OPP000722,Nova Systems 243 - ML Workbench Advanced,2024-08-08,2024-10-20,2024-11-30,C00243,P0047,SR009,Closed Won,1.00,74117.02,74117.02,EUR,Referral,Follow-up
+OPP000723,Nexus Solutions 198 - API Gateway Standard,2024-04-18,2024-10-04,2024-07-08,C00198,P0019,SR002,Closed Won,1.00,4196.11,4196.11,EUR,Event,Send proposal
+OPP000724,Nexus Retail 468 - CDC Connector Standard,2025-09-04,2026-01-23,2025-10-08,C00468,P0022,SR012,Closed Won,1.00,16106.65,16106.65,EUR,Website,None
+OPP000725,Atlas Systems 252 - Streaming Engine Enterprise,2026-06-20,2026-11-18,,C00252,P0009,SR007,Qualification,0.25,185506.58,46376.64,EUR,Event,Send proposal
+OPP000726,Axial Group 184 - Dashboard Pro Standard,2023-07-25,2023-08-13,,C00184,P0034,SR009,Qualification,0.25,2626.67,656.67,EUR,Website,Technical demo
+OPP000727,Sigma Technologies 182 - Training Credits Enterprise,2025-10-11,2026-02-13,2026-02-12,C00182,P0069,SR006,Closed Won,1.00,45790.04,45790.04,EUR,Website,Send proposal
+OPP000728,Polaris Solutions 079 - API Gateway Enterprise,2025-10-30,2025-12-04,,C00079,P0021,SR011,Qualification,0.25,13235.51,3308.88,EUR,Event,Legal review
+OPP000729,Orion Systems 364 - Feature Store Enterprise,2023-12-29,2024-02-13,,C00364,P0060,SR004,Proposal,0.50,614869.32,307434.66,EUR,Referral,Discovery call
+OPP000730,Polaris Technologies 326 - Architecture Workshop Advanced,2025-07-28,2025-11-25,,C00326,P0065,SR003,Prospecting,0.10,16218.48,1621.85,EUR,Website,Discovery call
+OPP000731,Nova Industries 398 - API Gateway Standard,2026-03-03,2026-03-22,,C00398,P0019,SR009,Qualification,0.25,92505.60,23126.40,EUR,Partner,Legal review
+OPP000732,Horizon Technologies 267 - Warehouse Pro Advanced,2025-10-02,2025-11-12,,C00267,P0005,SR009,Qualification,0.25,100470.08,25117.52,EUR,Website,Discovery call
+OPP000733,Axial Retail 210 - Streaming Engine Enterprise,2025-01-23,2025-03-28,2025-04-02,C00210,P0009,SR009,Closed Lost,0.00,229049.68,0.00,EUR,Outbound,Follow-up
+OPP000734,Atlas Solutions 042 - Model Serving Enterprise,2025-09-29,2025-11-24,,C00042,P0051,SR010,Prospecting,0.10,25653.36,2565.34,EUR,Event,Send proposal
+OPP000735,Alto Systems 391 - API Gateway Standard,2025-04-09,2025-10-04,,C00391,P0019,SR005,Qualification,0.25,3955.56,988.89,EUR,Partner,None
+OPP000736,Lumen Industries 289 - Agent Builder Enterprise,2023-06-16,2023-07-07,2023-11-29,C00289,P0057,SR010,Closed Won,1.00,23384.48,23384.48,EUR,Outbound,Legal review
+OPP000737,Horizon Partners 406 - Model Serving Advanced,2023-01-16,2023-02-05,,C00406,P0050,SR008,Negotiation,0.75,5497.71,4123.28,EUR,Referral,Discovery call
+OPP000738,Helios Digital 068 - Warehouse Pro Enterprise,2025-10-10,2025-11-29,2025-12-27,C00068,P0006,SR006,Closed Lost,0.00,51759.83,0.00,EUR,Referral,Discovery call
+OPP000739,Sigma Retail 045 - Vector Search Enterprise,2025-05-09,2025-07-29,,C00045,P0054,SR010,Qualification,0.25,185832.38,46458.10,EUR,Referral,Legal review
+OPP000740,Atlas Retail 222 - Dashboard Pro Enterprise,2026-04-21,2026-09-16,,C00222,P0036,SR003,Prospecting,0.10,158946.61,15894.66,EUR,Referral,Send proposal
+OPP000741,Axial Industries 306 - Dashboard Pro Standard,2023-05-18,2023-10-12,,C00306,P0034,SR002,Proposal,0.50,3019.55,1509.78,EUR,Outbound,Discovery call
+OPP000742,Lumen Digital 083 - Training Credits Enterprise,2023-08-24,2023-12-18,2023-11-08,C00083,P0069,SR007,Closed Won,1.00,389101.61,389101.61,EUR,Outbound,Technical demo
+OPP000743,Nova France 186 - Premium Support Enterprise,2025-04-03,2025-08-18,,C00186,P0072,SR001,Prospecting,0.10,13957.14,1395.71,EUR,Website,Discovery call
+OPP000744,Alto Services 447 - Forecast Studio Advanced,2023-01-17,2023-05-31,,C00447,P0041,SR012,Prospecting,0.10,30509.27,3050.93,EUR,Referral,Technical demo
+OPP000745,Axial Logistics 286 - Warehouse Pro Standard,2024-03-17,2024-05-12,,C00286,P0004,SR004,Prospecting,0.10,81901.86,8190.19,EUR,Event,Technical demo
+OPP000746,Horizon Group 154 - Embedded Analytics Enterprise,2023-01-25,2023-04-01,,C00154,P0039,SR006,Qualification,0.25,45152.98,11288.25,EUR,Event,Technical demo
+OPP000747,Alto Partners 356 - Vector Search Standard,2026-06-10,2026-08-06,,C00356,P0052,SR010,Qualification,0.25,11086.62,2771.66,EUR,Partner,Technical demo
+OPP000748,Lumen Group 292 - Forecast Studio Standard,2023-08-04,2023-09-07,,C00292,P0040,SR012,Qualification,0.25,14118.41,3529.60,EUR,Partner,Technical demo
+OPP000749,Alto Partners 209 - Architecture Workshop Advanced,2023-08-29,2024-02-25,,C00209,P0065,SR008,Proposal,0.50,28122.28,14061.14,EUR,Partner,Discovery call
+OPP000750,Cobalt Group 020 - Forecast Studio Enterprise,2023-08-18,2024-01-05,,C00020,P0042,SR011,Prospecting,0.10,16372.02,1637.20,EUR,Website,Legal review
+OPP000751,Echo Solutions 140 - Streaming Engine Enterprise,2023-08-08,2024-02-04,,C00140,P0009,SR012,Proposal,0.50,75891.71,37945.86,EUR,Website,Legal review
+OPP000752,Horizon Partners 123 - Implementation Pack Standard,2023-08-05,2023-12-17,2024-01-28,C00123,P0061,SR006,Closed Won,1.00,29821.12,29821.12,EUR,Website,Discovery call
+OPP000753,Polaris Technologies 326 - Forecast Studio Standard,2026-07-01,2026-08-26,,C00326,P0040,SR005,Qualification,0.25,102465.26,25616.31,EUR,Partner,Follow-up
+OPP000754,Orion Logistics 127 - ML Workbench Standard,2025-12-02,2026-04-15,,C00127,P0046,SR003,Prospecting,0.10,13889.63,1388.96,EUR,Website,Send proposal
+OPP000755,Axial Industries 306 - Migration Assessment Enterprise,2026-03-07,2026-05-23,,C00306,P0075,SR004,Negotiation,0.75,38597.26,28947.94,EUR,Referral,Follow-up
+OPP000756,Vertex Industries 301 - Agent Builder Enterprise,2025-04-12,2025-09-09,2025-07-05,C00301,P0057,SR011,Closed Lost,0.00,33141.74,0.00,EUR,Outbound,Send proposal
+OPP000757,Horizon Solutions 037 - API Gateway Enterprise,2023-03-24,2023-09-18,2023-07-12,C00037,P0021,SR003,Closed Won,1.00,19813.11,19813.11,EUR,Outbound,None
+OPP000758,Nova Conseil 465 - Architecture Workshop Enterprise,2025-10-11,2026-02-01,,C00465,P0066,SR002,Qualification,0.25,4507.05,1126.76,EUR,Website,Technical demo
+OPP000759,Vertex Solutions 016 - Migration Assessment Enterprise,2024-01-29,2024-04-12,,C00016,P0075,SR007,Proposal,0.50,30552.22,15276.11,EUR,Outbound,None
+OPP000760,Alto Digital 190 - Training Credits Enterprise,2023-07-28,2024-01-23,,C00190,P0069,SR009,Prospecting,0.10,17003.71,1700.37,EUR,Partner,Send proposal
+OPP000761,Helios Systems 393 - CDC Connector Enterprise,2024-10-11,2024-11-10,,C00393,P0024,SR007,Proposal,0.50,4730.41,2365.20,EUR,Event,Follow-up
+OPP000762,Axial Digital 197 - ML Workbench Standard,2026-01-17,2026-06-07,2026-02-01,C00197,P0046,SR001,Closed Won,1.00,40600.97,40600.97,EUR,Referral,None
+OPP000763,Helios Partners 328 - Integration Runtime Standard,2024-04-30,2024-10-02,2024-06-04,C00328,P0028,SR004,Closed Won,1.00,1094.17,1094.17,EUR,Website,Legal review
+OPP000764,Alto Group 051 - Vector Search Standard,2026-01-18,2026-03-11,,C00051,P0052,SR009,Negotiation,0.75,50631.23,37973.42,EUR,Partner,Technical demo
+OPP000765,Cobalt Digital 213 - Data Catalog Enterprise,2026-06-16,2026-07-29,,C00213,P0015,SR011,Proposal,0.50,22102.62,11051.31,EUR,Referral,Send proposal
+OPP000766,Sigma Services 253 - Model Serving Advanced,2023-01-12,2023-07-05,2023-03-13,C00253,P0050,SR003,Closed Lost,0.00,17723.59,0.00,EUR,Outbound,Legal review
+OPP000767,Sigma Systems 323 - Streaming Engine Advanced,2024-03-18,2024-08-24,,C00323,P0008,SR008,Prospecting,0.10,1743.81,174.38,EUR,Outbound,Discovery call
+OPP000768,Echo Systems 464 - Implementation Pack Enterprise,2024-01-31,2024-06-19,2024-02-14,C00464,P0063,SR007,Closed Won,1.00,446812.34,446812.34,EUR,Website,Technical demo
+OPP000769,Polaris Retail 385 - Architecture Workshop Advanced,2026-02-19,2026-05-09,,C00385,P0065,SR005,Proposal,0.50,12633.59,6316.80,EUR,Outbound,Follow-up
+OPP000770,Echo Services 152 - Forecast Studio Enterprise,2024-08-02,2025-01-10,,C00152,P0042,SR007,Qualification,0.25,17278.44,4319.61,EUR,Outbound,None
+OPP000771,Alto Conseil 095 - Lakehouse Starter Enterprise,2025-08-29,2025-11-14,,C00095,P0003,SR005,Prospecting,0.10,246777.18,24677.72,EUR,Event,Follow-up
+OPP000772,Alto Partners 356 - Forecast Studio Standard,2024-08-18,2024-12-08,2024-09-04,C00356,P0040,SR005,Closed Won,1.00,10577.42,10577.42,EUR,Outbound,None
+OPP000773,Lumen Digital 064 - Data Governance Suite Enterprise,2025-08-15,2025-09-14,2025-11-22,C00064,P0012,SR003,Closed Lost,0.00,290628.20,0.00,EUR,Referral,Follow-up
+OPP000774,Kappa France 290 - Architecture Workshop Advanced,2023-07-12,2023-08-26,2023-11-30,C00290,P0065,SR012,Closed Won,1.00,76903.56,76903.56,EUR,Partner,Send proposal
+OPP000775,Nova Partners 075 - Training Credits Advanced,2025-10-07,2025-11-08,,C00075,P0068,SR011,Proposal,0.50,2780.92,1390.46,EUR,Outbound,Technical demo
+OPP000776,Sigma Industries 414 - Architecture Workshop Enterprise,2024-03-24,2024-08-08,,C00414,P0066,SR009,Proposal,0.50,103393.78,51696.89,EUR,Website,Send proposal
+OPP000777,Atlas Services 178 - CDC Connector Standard,2026-04-10,2026-05-21,,C00178,P0022,SR006,Negotiation,0.75,126457.49,94843.12,EUR,Website,Send proposal
+OPP000778,Alto Retail 355 - Premium Support Standard,2025-12-05,2026-01-24,2025-12-27,C00355,P0070,SR012,Closed Won,1.00,859.86,859.86,EUR,Outbound,Follow-up
+OPP000779,Echo Solutions 187 - Implementation Pack Standard,2026-01-12,2026-06-25,,C00187,P0061,SR001,Qualification,0.25,110572.81,27643.20,EUR,Event,Follow-up
+OPP000780,Axial Industries 061 - Model Serving Advanced,2023-04-15,2023-06-19,,C00061,P0050,SR001,Proposal,0.50,33302.48,16651.24,EUR,Website,Discovery call
+OPP000781,Vertex Services 246 - Warehouse Pro Advanced,2024-09-04,2024-11-19,2025-02-27,C00246,P0005,SR008,Closed Won,1.00,119465.22,119465.22,EUR,Website,Follow-up
+OPP000782,Nexus Partners 188 - Training Credits Enterprise,2025-03-20,2025-07-08,,C00188,P0069,SR006,Proposal,0.50,60295.22,30147.61,EUR,Referral,Follow-up
+OPP000783,Kappa Industries 060 - API Gateway Enterprise,2023-07-07,2023-12-02,,C00060,P0021,SR002,Negotiation,0.75,20463.10,15347.32,EUR,Website,None
+OPP000784,Aster Solutions 105 - Lakehouse Starter Advanced,2026-01-06,2026-05-03,,C00105,P0002,SR004,Negotiation,0.75,10424.30,7818.22,EUR,Website,Legal review
+OPP000785,Cobalt Partners 305 - Reporting Server Enterprise,2023-04-04,2023-09-05,,C00305,P0045,SR011,Proposal,0.50,20769.67,10384.83,EUR,Referral,Discovery call
+OPP000786,Echo Services 415 - Agent Builder Enterprise,2026-09-14,2026-11-08,2026-09-21,C00415,P0057,SR002,Closed Won,1.00,15558.03,15558.03,EUR,Outbound,None
+OPP000787,Horizon Partners 406 - ML Workbench Advanced,2026-05-20,2026-09-19,,C00406,P0047,SR001,Prospecting,0.10,12070.36,1207.04,EUR,Website,Send proposal
+OPP000788,Nexus Logistics 202 - Agent Builder Enterprise,2024-08-06,2024-11-15,,C00202,P0057,SR006,Qualification,0.25,15333.08,3833.27,EUR,Partner,Discovery call
+OPP000789,Helios Group 063 - Implementation Pack Standard,2025-04-24,2025-06-13,2025-08-19,C00063,P0061,SR012,Closed Won,1.00,77179.67,77179.67,EUR,Outbound,None
+OPP000790,Echo Digital 367 - Implementation Pack Advanced,2024-04-03,2024-07-09,,C00367,P0062,SR011,Qualification,0.25,205560.89,51390.22,EUR,Partner,Send proposal
+OPP000791,Sigma Group 264 - Model Serving Standard,2023-03-19,2023-04-12,,C00264,P0049,SR008,Proposal,0.50,22646.93,11323.47,EUR,Outbound,Technical demo
+OPP000792,Alto Services 310 - Feature Store Advanced,2023-07-09,2023-11-24,2023-08-26,C00310,P0059,SR008,Closed Won,1.00,51363.43,51363.43,EUR,Partner,Follow-up
+OPP000793,Cobalt Systems 207 - Streaming Engine Enterprise,2024-07-25,2024-12-29,2024-12-25,C00207,P0009,SR012,Closed Won,1.00,147619.95,147619.95,EUR,Website,Send proposal
+OPP000794,Vertex Solutions 016 - Lakehouse Starter Advanced,2025-03-29,2025-05-14,2025-05-13,C00016,P0002,SR001,Closed Won,1.00,8485.40,8485.40,EUR,Website,None
+OPP000795,Polaris Retail 304 - File Transfer Hub Standard,2024-12-28,2025-05-25,2025-06-13,C00304,P0025,SR011,Closed Lost,0.00,4849.23,0.00,EUR,Outbound,Technical demo
+OPP000796,Alto Services 310 - Data Governance Suite Standard,2025-10-13,2025-11-17,,C00310,P0010,SR007,Proposal,0.50,10091.34,5045.67,EUR,Website,Technical demo
+OPP000797,Sigma Retail 116 - Training Credits Advanced,2023-07-29,2023-08-30,,C00116,P0068,SR008,Proposal,0.50,4057.15,2028.58,EUR,Outbound,Legal review
+OPP000798,Polaris Conseil 463 - Forecast Studio Enterprise,2023-11-07,2024-03-09,,C00463,P0042,SR012,Negotiation,0.75,7514.42,5635.82,EUR,Outbound,None
+OPP000799,Kappa Digital 400 - Vector Search Enterprise,2023-10-18,2024-03-09,2023-10-31,C00400,P0054,SR003,Closed Lost,0.00,263991.68,0.00,EUR,Partner,Technical demo
+OPP000800,Aster Services 345 - CDC Connector Advanced,2023-02-11,2023-07-14,,C00345,P0023,SR011,Proposal,0.50,1665.88,832.94,EUR,Event,Legal review

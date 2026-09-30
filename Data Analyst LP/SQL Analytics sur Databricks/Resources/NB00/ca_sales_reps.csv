@@ -1,0 +1,13 @@
+salesrep_id,salesrep_name,region,hire_date,email,active
+SR001,Lea Petit,Nord,2020-02-02,lea.petit@example.com,true
+SR002,Chloe Durand,Sud,2021-03-03,chloe.durand@example.com,true
+SR003,Manon Laurent,Est,2022-04-04,manon.laurent@example.com,true
+SR004,Camille Lefebvre,Ouest,2023-05-05,camille.lefebvre@example.com,true
+SR005,Sarah David,Ile-de-France,2024-06-06,sarah.david@example.com,true
+SR006,Ines Fournier,Nord,2019-07-07,ines.fournier@example.com,true
+SR007,Louise Bernard,Sud,2020-08-08,louise.bernard@example.com,true
+SR008,Jade Robert,Est,2021-09-09,jade.robert@example.com,true
+SR009,Alice Dubois,Ouest,2022-10-10,alice.dubois@example.com,true
+SR010,Sofia Simon,Ile-de-France,2023-11-11,sofia.simon@example.com,true
+SR011,Nina Leroy,Nord,2024-12-12,nina.leroy@example.com,true
+SR012,Lina Bertrand,Sud,2019-01-13,lina.bertrand@example.com,true
